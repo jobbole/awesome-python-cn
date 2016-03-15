@@ -1142,7 +1142,7 @@ Python 实现的算法和设计模式。
 
 <h4>中文站点</h4>
 
-* 伯乐在线 Python 频道：伯乐前端分享 Python 开发技术、相关的行业动态。[官网](http://python.jobbole.com/)
+* 伯乐在线 Python 频道：分享 Python 开发技术、相关的行业动态。[官网](http://python.jobbole.com/)
 
 <h4>英文站点</h4>
 
