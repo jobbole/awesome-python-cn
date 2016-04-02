@@ -31,7 +31,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)
 
 注：名单不分排名，不定期补充更新
 
@@ -415,7 +415,7 @@ Python实现的数据库。
 *   Opps：一个为杂志，报纸网站以及大流量门户网站设计的 CMS 平台，基于 Django。[官网](http://opps.github.io/opps/)
 *   Plone：一个构建于开源应用服务器 Zope 之上的 CMS。[官网](https://plone.org/)
 *   Quokka：灵活，可扩展的小型 CMS，基于 Flask 和 MongoDB。[官网](http://quokkaproject.org/)
-*   Wagtail：一个 Django 内容管理系统。[官网](https://wagtail.io/)
+*   [Wagtail](http://hao.jobbole.com/wagtail/)：一个 Django 内容管理系统。[官网](https://wagtail.io/)
 *   Widgy：最新的 CMS 框架，基于 Django。[官网](https://wid.gy/)
 
 ### 电子商务
