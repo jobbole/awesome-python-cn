@@ -31,7 +31,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)
 
 注：名单不分排名，不定期补充更新
 
@@ -380,9 +380,9 @@ Python实现的数据库。
 
 ### Web 框架
 
-全栈 web 框架。
+全栈 Web 框架。
 
-*   Django：Python 界最流行的 web 框架。[官网](https://www.djangoproject.com/)
+*   [Django](http://hao.jobbole.com/django/)：Python 界最流行的 web 框架。[官网](https://www.djangoproject.com/)
     *   [awesome-django](https://github.com/rosarior/awesome-django)系列
 *   Flask：一个 Python 微型框架。[官网](http://flask.pocoo.org/)
     *   [awesome-flask](https://github.com/rosarior/awesome-django)系列
