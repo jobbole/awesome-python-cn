@@ -224,6 +224,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   docopt：Python 风格的命令行参数解析器。[官网](http://docopt.org/)
     *   Gooey：一条命令，将命令行程序变成一个 GUI 程序。[官网](https://github.com/chriskiehl/Gooey)
     *   python-prompt-toolkit：一个用于构建强大的交互式命令行程序的库。[官网](https://github.com/jonathanslenders/python-prompt-toolkit)
+    *   [Pythonpy](http://hao.jobbole.com/pythonpy/)：在命令行中直接执行任何Python指令。[官网](http://github.com/Russell91/pythonpy/wiki)
 *   生产力工具
     *   aws-cli：Amazon Web Services 的通用命令行界面。[官网](https://github.com/aws/aws-cli)
     *   bashplotlib：在终端中进行基本绘图。[官网](https://github.com/glamp/bashplotlib)
@@ -1058,7 +1059,7 @@ MapReduce 框架和库。
 
 Python 实现的算法和设计模式。
 
-*   algorithms：一个 Python 算法模块。[官网](https://github.com/nryoung/algorithms) 
+*   [algorithms](http://hao.jobbole.com/algorithms/)：一个 Python 算法模块。[官网](https://github.com/nryoung/algorithms) 
 *   python-patterns：Python 设计模式的集合。[官网](https://github.com/faif/python-patterns)
 *   sortedcontainers：快速，纯 Python 实现的SortedList，SortedDict 和 SortedSet 类型。[官网](http://www.grantjenks.com/docs/sortedcontainers/)
 
@@ -1136,6 +1137,16 @@ Python 实现的算法和设计模式。
 *   [@pythontrending](https://twitter.com/pythontrending)
 *   [@PythonWeekly](https://twitter.com/PythonWeekly)
 
+### 学习指南
+*   [Scipy-lecture-notes](http://hao.jobbole.com/scipy-lecture-notes/)：如何用Python来做学术？[官网](https://github.com/scipy-lectures/scipy-lecture-notes)
+*   [SScientific-python-lectures](http://hao.jobbole.com/scientific-python-lectures/)：Python科学计算的资料。[官网](https://github.com/jrjohansson/scientific-python-lectures)
+*   [Mario-Level-1](http://hao.jobbole.com/mario-level-1/)：用Python和Pygame写的超级马里奥第一关。[官网](https://github.com/justinmeister/Mario-Level-1)
+*   [Python Koans](http://hao.jobbole.com/python-koans/)：Python的交互式学习工具。[官网](https://github.com/gregmalcolm/python_koans)
+*   [Minecraft](http://hao.jobbole.com/minecraft-python/)：用python写的Minecraft游戏。[官网](https://github.com/fogleman/Minecraft)
+*   [pycrumbs](http://hao.jobbole.com/python-pycrumbs/)：Python资源大全。[官网](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+*   [python-patterns](http://hao.jobbole.com/python-patterns/)：使用python实现设计模式。[官网](https://github.com/faif/python-patterns)
+*   [Projects](http://hao.jobbole.com/python-projects/)：Python项目大集合。[官网](https://github.com/karan/Projects)
+*   [The Hitchhiker’s Guide to Python](http://hao.jobbole.com/the-hitchhikers-guide-to-python/)：旅行者的Python学习指南。[官网](http://docs.python-guide.org/en/latest/)
 
 <h3 id="websites">知名网站</h3>
 *值得关注的 Python 技术站点。*
