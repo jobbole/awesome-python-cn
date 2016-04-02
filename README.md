@@ -31,7 +31,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/
 
 注：名单不分排名，不定期补充更新
 
@@ -869,7 +869,7 @@ Python实现的数据库。
 *   NetworkX：一个为复杂网络设计的高性能软件。[官网](https://networkx.github.io/)
 *   Neupy：执行和测试各种不同的人工神经网络算法。[官网](http://neupy.com/pages/home.html)
 *   Numba：Python JIT (just in time) 编译器，针对科学用的 Python ，由Cython 和 NumPy 的开发者开发。[官网](http://numba.pydata.org/)
-*   NumPy：使用 Python 进行科学计算的基础包。[官网](http://www.numpy.org/)
+*   [NumPy](http://hao.jobbole.com/numpy/)：使用 Python 进行科学计算的基础包。[官网](http://www.numpy.org/)
 *   Open Babel：一个化学工具箱，用来描述多种化学数据。[官网](http://openbabel.org/wiki/MainPage)
 *   Open Mining：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。[官网](https://github.com/avelino/mining)
 *   orange：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[官网](http://orange.biolab.si/)
@@ -1003,7 +1003,7 @@ MapReduce 框架和库。
 *   Cython：优化的 Python 静态编译器。使用类型混合使 Python 编译成 C 或 C++ 模块来获得性能的极大提升。[官网](http://cython.org/)
 *   PeachPy：嵌入 Python 的 x86-64 汇编器。可以被用作 Python 内联的汇编器或者是独立的汇编器，用于 Windows, Linux, OS X, Native Client 或者 Go 。[官网](https://github.com/Maratyszcza/PeachPy)
 *   PyPy：使用 Python 实现的 Python。解释器使用黑魔法加快 Python 运行速度且不需要加入额外的类型信息。[官网](http://pypy.org/)
-*   Pyston：使用 LLVM 和现代 JIT 技术构建的 Python 实现，目标是为了获得很好的性能。[官网](https://github.com/dropbox/pyston)
+*   [Pyston](http://hao.jobbole.com/pyston-llvm-jit/)：使用 LLVM 和现代 JIT 技术构建的 Python 实现，目标是为了获得很好的性能。[官网](https://github.com/dropbox/pyston)
 *   Stackless Python：一个强化版的 Python。[官网](https://bitbucket.org/stackless-dev/stackless/overview)
 
 ### 微软的 Windows平台
