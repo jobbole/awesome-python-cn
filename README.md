@@ -83,8 +83,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   buildout：一个构建系统，从多个组件来创建，组装和部署应用。[官网](http://www.buildout.org/)
 *   BitBake：针对嵌入式 Linux 的类似 make 的构建工具。[官网](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html)
-*   fabricate：对任何语言自动找到依赖关系的构建工具。[官网](https://code.google.com/p/fabricate/)
-*   PlatformIO：多平台命令行构建工具。[官网](https://github.com/ivankravets/platformio)
+*   fabricate：对任何语言自动找到依赖关系的构建工具。[官网](https://code.google.com/archive/p/fabricate)
+*   PlatformIO：多平台命令行构建工具。[官网](https://github.com/platformio/platformio)
 *   PyBuilder：纯 Python 实现的持续化构建工具。[官网](https://github.com/pybuilder/pybuilder)
 *   SCons：软件构建工具。[官网](http://www.scons.org/)
 
@@ -117,7 +117,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   dateutil：Python datetime 模块的扩展。[官网](https://pypi.python.org/pypi/python-dateutil)
 *   delorean：解决 Python 中有关日期处理的棘手问题的库。[官网](https://github.com/myusuf3/delorean/)
 *   moment：一个用来处理时间和日期的Python库。灵感来自于Moment.js。[官网](https://github.com/zachwill/moment)
-*   PyTime：一个简单易用的Python模块，用于通过字符串来操作日期/时间。[官网](https://github.com/shnode/PyTime)
+*   PyTime：一个简单易用的Python模块，用于通过字符串来操作日期/时间。[官网](https://github.com/shinux/PyTime)
 *   pytz：现代以及历史版本的世界时区定义。将时区数据库引入Python。[官网](https://launchpad.net/pytz)
 *   when.py：提供用户友好的函数来帮助用户进行常用的日期和时间操作。[官网](https://github.com/dirn/When.py)
 
@@ -175,7 +175,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   YAML
     *   PyYAML：Python 版本的 YAML 解析器。[官网](http://pyyaml.org/)
 *   CSV
-    *   csvkit：用于转换和操作 CSV 的工具。[官网](https://github.com/onyxfish/csvkit)
+    *   csvkit：用于转换和操作 CSV 的工具。[官网](https://github.com/wireservice/csvkit)
 *   Archive
     *   unp：一个用来方便解包归档文件的命令行工具。[官网](https://github.com/mitsuhiko/unp)
 
@@ -224,7 +224,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   docopt：Python 风格的命令行参数解析器。[官网](http://docopt.org/)
     *   Gooey：一条命令，将命令行程序变成一个 GUI 程序。[官网](https://github.com/chriskiehl/Gooey)
     *   python-prompt-toolkit：一个用于构建强大的交互式命令行程序的库。[官网](https://github.com/jonathanslenders/python-prompt-toolkit)
-    *   [Pythonpy](http://hao.jobbole.com/pythonpy/)：在命令行中直接执行任何Python指令。[官网](http://github.com/Russell91/pythonpy/wiki)
+    *   [Pythonpy](http://hao.jobbole.com/pythonpy/)：在命令行中直接执行任何Python指令。[官网](https://github.com/Russell91/pythonpy/wiki)
 *   生产力工具
     *   aws-cli：Amazon Web Services 的通用命令行界面。[官网](https://github.com/aws/aws-cli)
     *   bashplotlib：在终端中进行基本绘图。[官网](https://github.com/glamp/bashplotlib)
@@ -255,7 +255,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   pillow：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。[官网](http://pillow.readthedocs.org/en/latest/)
 *   hmap：图像直方图映射。[官网](https://github.com/rossgoodwin/hmap)
-*   imgSeek：一个使用视觉相似性搜索一组图片集合的项目。[官网](http://sourceforge.net/projects/imgseek/)
+*   imgSeek：一个使用视觉相似性搜索一组图片集合的项目。[官网](https://sourceforge.net/projects/imgseek/)
 *   nude.py：裸体检测。[官网](https://github.com/hhatto/nude.py)
 *   pyBarcode：不借助 PIL 库在 Python 程序中生成条形码。[官网](https://pythonhosted.org/pyBarcode/)
 *   pygram：类似 Instagram 的图像滤镜。[官网](https://github.com/ajkumar25/pygram)
@@ -335,7 +335,7 @@ Python实现的数据库。
 用来连接和操作数据库的库。
 
 *   ySQL：[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)系列
-    *   mysql-python：Python 的 MySQL 数据库连接器。[官网](http://sourceforge.net/projects/mysql-python/)
+    *   mysql-python：Python 的 MySQL 数据库连接器。[官网](https://sourceforge.net/projects/mysql-python/)
     *   ysqlclient：[mysql-python](https://github.com/PyMySQL/mysqlclient-python) 分支，支持 Python 3。
     *   oursql：一个更好的 MySQL 连接器，支持原生预编译指令和 BLOBs.[官网](https://pythonhosted.org/oursql/)
     *   PyMySQL：纯 Python MySQL 驱动，兼容 mysql-python。[官网](https://github.com/PyMySQL/PyMySQL)
@@ -479,9 +479,9 @@ Python实现的数据库。
 
 模板生成和词法解析的库和工具。
 
-*   Jinja2：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/mitsuhiko/jinja2)
+*   Jinja2：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/pallets/jinja)
 *   Chameleon：一个 HTML/XML 模板引擎。 模仿了 ZPT（Zope Page Templates）, 进行了速度上的优化。[官网](https://chameleon.readthedocs.org/en/latest/)
-*   Genshi：Python 模板工具，用以生成 web 感知的结果。[官网](http://genshi.edgewall.org/)
+*   Genshi：Python 模板工具，用以生成 web 感知的结果。[官网](https://genshi.edgewall.org/)
 *   Mako：Python 平台的超高速轻量级模板。[官网](http://www.makotemplates.org/)
 
 ### Queue
@@ -548,7 +548,7 @@ Python实现的数据库。
 *   inbox：一个开源电子邮件工具箱。[官网](https://github.com/nylas/sync-engine)
 *   lamson：Python 风格的 SMTP 应用服务器。[官网](https://github.com/zedshaw/lamson)
 *   mailjet：Mailjet API 实现，用来提供批量发送邮件，统计等功能。[官网](https://github.com/WoLpH/mailjet)
-*   marrow.mailer：高性能可扩展邮件分发框架。[官网](https://github.com/marrow/marrow.mailer)
+*   marrow.mailer：高性能可扩展邮件分发框架。[官网](https://github.com/marrow/mailer)
 *   modoboa：一个邮件托管和管理平台，具有现代的、简约的 Web UI。[官网](https://github.com/tonioo/modoboa)
 *   pyzmail：创建，发送和解析电子邮件。[官网](http://www.magiksys.net/pyzmail/)
 *   Talon：Mailgun 库，用来抽取信息和签名。[官网](https://github.com/mailgun/talon)
@@ -579,7 +579,7 @@ Python实现的数据库。
 *   cssutils：一个 Python 的 CSS 库。[官网](https://pypi.python.org/pypi/cssutils/)
 *   html5lib：一个兼容标准的 HTML 文档和片段解析及序列化库。[官网](https://github.com/html5lib/html5lib-python)
 *   lxml：一个非常快速，简单易用，功能齐全的库，用来处理 HTML 和 XML。[官网](http://lxml.de/)
-*   MarkupSafe：为Python 实现 XML/HTML/XHTML 标记安全字符串。[官网](https://github.com/mitsuhiko/markupsafe)
+*   MarkupSafe：为Python 实现 XML/HTML/XHTML 标记安全字符串。[官网](https://github.com/pallets/markupsafe)
 *   pyquery：一个解析 HTML 的库，类似 jQuery。[官网](https://github.com/gawel/pyquery)
 *   untangle：将XML文档转换为Python对象，使其可以方便的访问。[官网](https://github.com/stchris/untangle)
 *   xhtml2pdf：HTML/CSS 转 PDF 工具。[官网](https://github.com/xhtml2pdf/xhtml2pdf)
@@ -769,7 +769,7 @@ Python实现的数据库。
 *   PyOgre：Ogre 3D 渲染引擎的 Python 绑定，可以用来开发游戏和仿真程序等任何 3D 应用。[官网](http://www.ogre3d.org/tikiwiki/PyOgre)
 *   PyOpenGL：OpenGL 的 Python 绑定及其相关 APIs。[官网](http://pyopengl.sourceforge.net/)
 *   PySDL2：SDL2 库的封装，基于 ctypes。[官网](http://pysdl2.readthedocs.org/en/latest/)
-*   RenPy：一个视觉小说（visual novel）引擎。[官网](http://www.renpy.org/)
+*   RenPy：一个视觉小说（visual novel）引擎。[官网](https://www.renpy.org/)
 
 ### 日志
 
@@ -833,7 +833,7 @@ Python实现的数据库。
     *   pysonar2：Python 类型推断和检索工具。[官网](https://github.com/yinwang0/pysonar2)
 *   Lint工具
     *   Flake8：模块化源码检查工具: pep8, pyflakes 以及 co。[官网](https://pypi.python.org/pypi/flake8)
-    *   Pylint：一个完全可定制的源码分析器。[官网](http://www.pylint.org/)
+    *   Pylint：一个完全可定制的源码分析器。[官网](https://www.pylint.org/)
     *   pylama：Python 和 JavaScript 的代码审查工具。[官网](https://pylama.readthedocs.org/en/latest/)
 
 ### Debugging Tools
@@ -872,7 +872,7 @@ Python实现的数据库。
 *   Numba：Python JIT (just in time) 编译器，针对科学用的 Python ，由Cython 和 NumPy 的开发者开发。[官网](http://numba.pydata.org/)
 *   [NumPy](http://hao.jobbole.com/numpy/)：使用 Python 进行科学计算的基础包。[官网](http://www.numpy.org/)
 *   Open Babel：一个化学工具箱，用来描述多种化学数据。[官网](http://openbabel.org/wiki/MainPage)
-*   Open Mining：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。[官网](https://github.com/avelino/mining)
+*   Open Mining：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。[官网](https://github.com/mining/mining)
 *   orange：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[官网](http://orange.biolab.si/)
 *   Pandas：提供高性能，易用的数据结构和数据分析工具。[官网](http://pandas.pydata.org/)
 *   PyDy：PyDy 是 Python Dynamics 的缩写，用来为动力学运动建模工作流程提供帮助， 基于 NumPy, SciPy, IPython 和 matplotlib。[官网](http://www.pydy.org/)
@@ -949,7 +949,7 @@ MapReduce 框架和库。
 *   apache-libcloud：一个为各种云设计的 Python 库。[官网](https://libcloud.apache.org/)
 *   boto：Amazon Web Services 的 Python 接口。[官网](https://github.com/boto/boto)
 *   django-wordpress：WordPress models and views for Django.[官网](https://github.com/sunlightlabs/django-wordpress/)
-*   facebook-sdk：Facebook 平台的 Python SDK.[官网](https://github.com/pythonforfacebook/facebook-sdk)
+*   facebook-sdk：Facebook 平台的 Python SDK.[官网](https://github.com/mobolic/facebook-sdk)
 *   facepy：Facepy 让和 Facebook's Graph API 的交互变得更容易。[官网](https://github.com/jgorset/facepy)
 *   gmail：Gmail 的 Python 接口。[官网](https://github.com/charlierguo/gmail)
 *   google-api-python-client：Python 用的 Google APIs 客户端库。[官网](https://github.com/google/google-api-python-client)
@@ -1014,7 +1014,7 @@ MapReduce 框架和库。
 *   Python(x,y)：面向科学应用的 Python 发行版，基于 Qt 和 Spyder。[官网](http://python-xy.github.io/)
 *   pythonlibs：非官方的 Windows 平台 Python 扩展二进制包。[官网](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 *   PythonNet：Python 与 .NET 公共语言运行库 (CLR)的集成。[官网](https://github.com/pythonnet/pythonnet)
-*   PyWin32：针对 Windows 的Python 扩展。[官网](http://sourceforge.net/projects/pywin32/)
+*   PyWin32：针对 Windows 的Python 扩展。[官网](https://sourceforge.net/projects/pywin32/)
 *   WinPython：Windows 7/8 系统下便携式开发环境。[官网](https://winpython.github.io/)
 
 ### 网络可视化和SDN
@@ -1050,7 +1050,7 @@ MapReduce 框架和库。
 不属于上面任何一个类别，但是非常有用的库。
 
 *   blinker：一个快速的 Python 进程内信号/事件分发系统。[官网](https://github.com/jek/blinker)
-*   itsdangerous：一系列辅助工具用来将可信的数据传入不可信的环境。[官网](https://github.com/mitsuhiko/itsdangerous)
+*   itsdangerous：一系列辅助工具用来将可信的数据传入不可信的环境。[官网](https://github.com/pallets/itsdangerous)
 *   pluginbase：一个简单但是非常灵活的 Python 插件系统。[官网](https://github.com/mitsuhiko/pluginbase)
 *   Pychievements：一个用来创建和追踪成就的 Python 框架。[官网](https://github.com/PacketPerception/pychievements)
 *   Tryton：一个通用商务框架。[官网](http://www.tryton.org/)
