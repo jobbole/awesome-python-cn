@@ -385,7 +385,7 @@ Python实现的数据库。
 *   [Django](https://www.djangoproject.com/) - Python 界最流行的 web 框架。
     *   [awesome-django](https://github.com/rosarior/awesome-django)系列
 *   [Flask](http://flask.pocoo.org/) - 一个 Python 微型框架。
-    *   [awesome-flask](https://github.com/rosarior/awesome-django)系列
+    *   [awesome-flask](https://github.com/humiaozuzu/awesome-flask)系列
 *   Pyramid - 一个小巧，快速，接地气的开源Python web 框架。
     *   [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)系列
 *   [Bottle](http://bottlepy.org/docs/dev/index.html) - 一个快速小巧，轻量级的 WSGI 微型 web 框架。
