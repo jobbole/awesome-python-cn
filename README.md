@@ -1003,7 +1003,7 @@ MapReduce 框架和库。
 使用外来函数接口的库。
 
 *   cffi：用来调用 C 代码的外来函数接口。[官网](https://pypi.python.org/pypi/cffi)
-*   ctypes：(Python 标准库) 用来调用 C 代码的外来函数接口。[官网](https://docs.python.org/2/library/ctypes.html)
+*   [ctypes](http://hao.jobbole.com/ctypes/)：(Python 标准库) 用来调用 C 代码的外来函数接口。[官网](https://docs.python.org/2/library/ctypes.html)
 *   PyCUDA：Nvidia CUDA API 的封装。[官网](https://mathema.tician.de/software/pycuda/)
 *   SWIG：简化的封装和接口生成器。[官网](http://www.swig.org/Doc1.3/Python.html)
 
