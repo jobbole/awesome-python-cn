@@ -274,7 +274,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   scikit-image：一个用于（科学）图像处理的 Python 库。[官网](http://scikit-image.org/)
 *   thumbor：一个小型图像服务，具有剪裁，尺寸重设和翻转功能。[官网](https://github.com/thumbor/thumbor)
 *   wand：[MagickWand](http://www.imagemagick.org/script/magick-wand.php)的Python 绑定。MagickWand 是 ImageMagick的 C API 。[官网](https://github.com/dahlia/wand)
-*   catpcha：一个验证码库，用来生成音频和图像验证码。[官网](https://github.com/lepture/captcha)
+*   captcha：一个验证码库，用来生成音频和图像验证码。[官网](https://github.com/lepture/captcha)
 
 ### OCR
 
