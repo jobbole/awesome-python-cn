@@ -1,4 +1,4 @@
-# Python 资源大全中文版 
+# Python 资源大全中文版
 
 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-python](https://github.com/vinta/awesome-python) 是 vinta 发起维护的 Python 资源列表，内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由伯乐在线持续更新。
 
@@ -287,7 +287,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 用来操作音频的库
 
-*   audiolazy：Python 的数字信号处理包。[官网](https://github.com/danilobellini/audiolazy) 
+*   audiolazy：Python 的数字信号处理包。[官网](https://github.com/danilobellini/audiolazy)
 *   audioread：交叉库 (GStreamer + Core Audio + MAD + FFmpeg) 音频解码。[官网](https://github.com/beetbox/audioread)
 *   beets：一个音乐库管理工具及 [MusicBrainz](https://musicbrainz.org/) 标签添加工具[官网](http://beets.io/)
 *   dejavu：音频指纹提取和识别[官网](https://github.com/worldveil/dejavu)
@@ -396,7 +396,7 @@ Python实现的数据库。
 *   [Django](http://hao.jobbole.com/django/)：Python 界最流行的 web 框架。[官网](https://www.djangoproject.com/)
     *   [awesome-django](https://github.com/rosarior/awesome-django)系列
 *   [Flask](http://hao.jobbole.com/flask/)：一个 Python 微型框架。[官网](http://flask.pocoo.org/)
-    *   [awesome-flask](https://github.com/rosarior/awesome-django)系列
+    *   [awesome-flask](https://github.com/humiaozuzu/awesome-flask)系列
 *   yramid：一个小巧，快速，接地气的开源Python web 框架。
     *   [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)系列
 *   [Bottle](http://hao.jobbole.com/bottle/)：一个快速小巧，轻量级的 WSGI 微型 web 框架。[官网](http://bottlepy.org/docs/dev/index.html)
@@ -510,7 +510,7 @@ Python实现的数据库。
 
 *   django-haystack：Django 模块化搜索。[官网](https://github.com/django-haystack/django-haystack)
 *   elasticsearch-py：Elasticsearch 的官方底层 Python 客户端。[官网](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html)
-*   elasticsearch-dsl-py：Elasticsearch 的官方高级 Python 客户端。[官网](https://github.com/elastic/elasticsearch-dsl-py) 
+*   elasticsearch-dsl-py：Elasticsearch 的官方高级 Python 客户端。[官网](https://github.com/elastic/elasticsearch-dsl-py)
 *   solrpy：[solr](http://lucene.apache.org/solr/)的 Python 客户端。[官网](https://github.com/edsu/solrpy)
 *   Whoosh：一个快速的纯 Python 搜索引擎库。[官网](http://whoosh.readthedocs.org/en/latest/)
 
@@ -614,7 +614,7 @@ Python实现的数据库。
 *   Haul：一个可以扩展的图像爬取工具。[官网](https://github.com/vinta/Haul)
 *   html2text：将 HTML 转换为 Markdown 格式文本[官网](https://github.com/Alir3z4/html2text)
 *   lassie：人性化的网页内容检索库。[官网](https://github.com/michaelhelmick/lassie)
-*   micawber：一个小型网页内容提取库，用来从 URLs 提取富内容。[官网](https://github.com/coleifer/micawber) 
+*   micawber：一个小型网页内容提取库，用来从 URLs 提取富内容。[官网](https://github.com/coleifer/micawber)
 *   [newspaper](http://hao.jobbole.com/python-newspaper/)：使用 Python 进行新闻提取，文章提取以及内容策展。[官网](https://github.com/codelucas/newspaper)
 *   opengraph：一个用来解析开放内容协议(Open Graph Protocol)的 Python模块。[官网](https://github.com/erikriver/opengraph)
 *   [python-goose](http://hao.jobbole.com/python-goose/)：HTML内容/文章提取器。[官网](https://github.com/grangier/python-goose)
@@ -641,7 +641,7 @@ Python实现的数据库。
 *   Cerberus：A mappings-validator with a variety of rules, normalization-features and simple customization that uses a pythonic schema-definition.[官网](http://docs.python-cerberus.org/en/stable/)
 *   colander：一个用于对从 XML, JSON，HTML 表单获取的数据或其他同样简单的序列化数据进行验证和反序列化的系统。[官网](http://docs.pylonsproject.org/projects/colander/en/latest/)
 *   kmatch：一种用于匹配/验证/筛选 Python 字典的语言。[官网](https://github.com/ambitioninc/kmatch)
-*   schema：一个用于对 Python 数据结构进行验证的库。[官网](https://github.com/keleshev/schema) 
+*   schema：一个用于对 Python 数据结构进行验证的库。[官网](https://github.com/keleshev/schema)
 *   Schematics：数据结构验证。[官网](https://github.com/schematics/schematics)
 *   valideer：轻量级可扩展的数据验证和适配库。[官网](https://github.com/podio/valideer)
 *   voluptuous：一个 Python 数据验证库。主要是为了验证传入 Python的 JSON，YAML 等数据。[官网](https://github.com/alecthomas/voluptuous)
@@ -668,7 +668,7 @@ Python实现的数据库。
 *   django-xadmin：Django admin 的一个替代品，具有很多不错的功能。[官网](https://github.com/sshwsfc/django-xadmin)
 *   flask-admin：一个用于 Flask 的简单可扩展的管理界面框架。[官网](https://github.com/flask-admin/flask-admin)
 *   flower：一个对 Celery 集群进行实时监控和提供 web 管理界面的工具。[官网](https://github.com/mher/flower)
-*   Grappelli：Django 管理界面的一个漂亮的皮肤。[官网](http://grappelliproject.com/) 
+*   Grappelli：Django 管理界面的一个漂亮的皮肤。[官网](http://grappelliproject.com/)
 *   Wooey：一个 Django 应用，可以为 Python 脚本创建 web 用户界面。[官网](https://github.com/wooey/wooey)
 
 ### 静态站点生成器
@@ -676,7 +676,7 @@ Python实现的数据库。
 静态站点生成器是一个软件，它把文本和模板作为输入，然后输出HTML文件。
 
 *   Pelican：使用 Markdown 或 ReST 来处理内容， Jinja 2 来制作主题。支持 DVCS, Disqus.。AGPL 许可。[官网](http://blog.getpelican.com/)
-*   Cactus：为设计师设计的静态站点生成器。[官网](https://github.com/koenbok/Cactus/) 
+*   Cactus：为设计师设计的静态站点生成器。[官网](https://github.com/koenbok/Cactus/)
 *   Hyde：基于 Jinja2 的静态站点生成器。[官网](http://hyde.github.io/)
 *   Nikola：一个静态网站和博客生成器。[官网](https://www.getnikola.com/)
 *   Tinkerer：Tinkerer 是一个博客引擎/静态站点生成器，由Sphinx驱动。[官网](http://tinkerer.me/)
@@ -1040,7 +1040,7 @@ MapReduce 框架和库。
 
 用来对硬件进行编程的库。
 
-*   ino：操作[Arduino](https://www.arduino.cc/)的命令行工具。[官网](http://inotool.org/) 
+*   ino：操作[Arduino](https://www.arduino.cc/)的命令行工具。[官网](http://inotool.org/)
 *   Pyro：Python 机器人编程库。[官网](http://pyrorobotics.com/)
 *   PyUserInput：跨平台的，控制鼠标和键盘的模块。[官网](https://github.com/SavinaRoja/PyUserInput)
 *   scapy：一个非常棒的操作数据包的库。[官网](https://github.com/secdev/scapy)
@@ -1069,7 +1069,7 @@ MapReduce 框架和库。
 
 Python 实现的算法和设计模式。
 
-*   [algorithms](http://hao.jobbole.com/algorithms/)：一个 Python 算法模块。[官网](https://github.com/nryoung/algorithms) 
+*   [algorithms](http://hao.jobbole.com/algorithms/)：一个 Python 算法模块。[官网](https://github.com/nryoung/algorithms)
 *   python-patterns：Python 设计模式的集合。[官网](https://github.com/faif/python-patterns)
 *   sortedcontainers：快速，纯 Python 实现的SortedList，SortedDict 和 SortedSet 类型。[官网](http://www.grantjenks.com/docs/sortedcontainers/)
 
