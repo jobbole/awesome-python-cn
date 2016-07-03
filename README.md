@@ -1096,7 +1096,7 @@ Python 实现的算法和设计模式。
     *   SublimeJEDI：一个 Sublime Text 插件，用来使用超赞的自动补全库 Jedi。[官网](https://github.com/srusskih/SublimeJEDI)
     *   Anaconda：Anaconda 把你的 Sublime Text 3 变成一个功能齐全的 Python IDE。[官网](https://github.com/DamnWidget/anaconda)
 *   Vim
-    *   YouCompleteMe：引入基于 [Jedi](https://github.com/davidhalter/jedi) 的 Python 自动补全引擎。[官网](https://github.com/Valloric/YouCompleteMe)
+    *   [YouCompleteMe](http://hao.jobbole.com/youcompleteme/)：引入基于 [Jedi](https://github.com/davidhalter/jedi) 的 Python 自动补全引擎。[官网](https://github.com/Valloric/YouCompleteMe)
     *   Jedi-vim：绑定 Vim 和 Jedi 自动补全库对 Python 进行自动补全。[官网](https://github.com/davidhalter/jedi-vim)
     *   Python-mode：将 Vim 变成 Python IDE 的一款多合一插件。[官网](https://github.com/klen/python-mode)
 *   Visual Studio
