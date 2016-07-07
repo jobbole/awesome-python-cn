@@ -431,6 +431,7 @@ Python实现的数据库。
 
 内容管理系统
 
+*   odoo-cms: 一个开源的，企业级 CMS，基于odoo。[官网](http://www.odoo.com)
 *   django-cms：一个开源的，企业级 CMS，基于 Django。[官网](http://www.django-cms.org/en/)
 *   djedi-cms：一个轻量级但却非常强大的 Django CMS ，考虑到了插件，内联编辑以及性能。[官网](http://djedi-cms.org/)
 *   FeinCMS：基于 Django 构建的最先进的内容管理系统之一。[官网](http://www.feincms.org/)
