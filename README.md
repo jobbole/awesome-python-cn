@@ -409,8 +409,8 @@ Python实现的数据库。
 *   [Django](http://hao.jobbole.com/django/)：Python 界最流行的 web 框架。[官网](https://www.djangoproject.com/)
     *   [awesome-django](https://github.com/rosarior/awesome-django)系列
 *   [Flask](http://hao.jobbole.com/flask/)：一个 Python 微型框架。[官网](http://flask.pocoo.org/)
-    *   [awesome-flask](https://github.com/rosarior/awesome-django)系列
-*   yramid：一个小巧，快速，接地气的开源Python web 框架。
+    *   [awesome-flask](https://github.com/humiaozuzu/awesome-flask)系列
+*   pyramid：一个小巧，快速，接地气的开源Python web 框架。
     *   [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)系列
 *   [Bottle](http://hao.jobbole.com/bottle/)：一个快速小巧，轻量级的 WSGI 微型 web 框架。[官网](http://bottlepy.org/docs/dev/index.html)
 *   CherryPy：一个极简的 Python web 框架，服从 HTTP/1.1 协议且具有WSGI 线程池。[官网](http://www.cherrypy.org/)
