@@ -149,7 +149,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 用于解析和操作文本的库。
 
 *   通用
-    *   chardet：字符编码检测器，兼容 Python2 和 Python3。[官网](https://github.com/chardet/chardet)
+    *   [chardet](http://hao.jobbole.com/chardet/)：字符编码检测器，兼容 Python2 和 Python3。[官网](https://github.com/chardet/chardet)
     *   difflib：(Python 标准库)帮助我们进行差异化比较。[官网](https://docs.python.org/2/library/difflib.html)
     *   ftfy：让Unicode文本更完整更连贯。[官网](https://github.com/LuminosoInsight/python-ftfy)
     *   fuzzywuzzy：模糊字符串匹配。[官网](https://github.com/seatgeek/fuzzywuzzy)
