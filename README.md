@@ -503,7 +503,7 @@ Python实现的数据库。
 
 模板生成和词法解析的库和工具。
 
-*   Jinja2：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/pallets/jinja)
+*   [Jinja2](http://hao.jobbole.com/jinja2/)：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/pallets/jinja)
 *   Chameleon：一个 HTML/XML 模板引擎。 模仿了 ZPT（Zope Page Templates）, 进行了速度上的优化。[官网](https://chameleon.readthedocs.org/en/latest/)
 *   Genshi：Python 模板工具，用以生成 web 感知的结果。[官网](https://genshi.edgewall.org/)
 *   Mako：Python 平台的超高速轻量级模板。[官网](http://www.makotemplates.org/)
