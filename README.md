@@ -195,6 +195,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Markdown
     *   Mistune：快速并且功能齐全的纯 Python 实现的 Markdown 解析器。[官网](https://github.com/lepture/mistune)
     *   Python-Markdown：John Gruber’s Markdown 的 Python 版实现。[官网](https://github.com/waylan/Python-Markdown)
+    *   Python-Markdiwn2：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。[官网](https://github.com/trentm/python-markdown2)
 *   YAML
     *   PyYAML：Python 版本的 YAML 解析器。[官网](http://pyyaml.org/)
 *   CSV
