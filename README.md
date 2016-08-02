@@ -1185,7 +1185,7 @@ Python 实现的算法和设计模式。
 
 <h4>英文站点</h4>
 
-待补充
+* 《[值得关注的 10 个 Python 英文博客](http://python.jobbole.com/81730/)》
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
 * Python开发者 微博：[@Python开发者](http://weibo.com/u/5305630013)
