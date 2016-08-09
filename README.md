@@ -720,7 +720,7 @@ Python实现的数据库。
 用于网络编程的库。
 
 *   asyncio：(Python 标准库) 异步 I/O, 事件循环, 协程以及任务。[官网](https://docs.python.org/3/library/asyncio.html)
-*   Twisted：一个事件驱动的网络引擎。[官网](https://twistedmatrix.com/trac/)
+*   [Twisted](http://hao.jobbole.com/twisted/)：一个事件驱动的网络引擎。[官网](https://twistedmatrix.com/trac/)
 *   pulsar：事件驱动的并发框架。[官网](https://github.com/quantmind/pulsar)
 *   diesel：基于Greenlet 的事件 I/O 框架。[官网](https://github.com/dieseldev/diesel)
 *   pyzmq：一个 ZeroMQ 消息库的 Python 封装。[官网](http://zeromq.github.io/pyzmq/)
