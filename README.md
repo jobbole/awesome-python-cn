@@ -390,7 +390,7 @@ Python实现的数据库。
     *   Django Models：Django 的一部分。[官网](https://docs.djangoproject.com/en/dev/topics/db/models/)
     *   SQLAlchemy：Python SQL 工具以及对象关系映射工具。[官网](http://www.sqlalchemy.org/)
         *   [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)系列
-    *   Peewee：一个小巧，富有表达力的 ORM。[官网](https://github.com/coleifer/peewee)
+    *   [Peewee](http://hao.jobbole.com/peewee/)：一个小巧，富有表达力的 ORM。[官网](https://github.com/coleifer/peewee)
     *   PonyORM：提供面向生成器的 SQL 接口的 ORM。[官网](https://ponyorm.com/)
     *   python-sql：编写 Python 风格的 SQL 查询。[官网](https://pypi.python.org/pypi/python-sql)
 *   NoSQL 数据库
