@@ -474,7 +474,7 @@ Python实现的数据库。
 *   Pyramid
     *   cornice：一个Pyramid 的 REST 框架 。[官网](https://cornice.readthedocs.org/en/latest/)
 *   与框架无关的
-    *   falcon：一个用来建立云 API 和 web app 后端的噶性能框架。[官网](http://falconframework.org/)
+    *   falcon：一个用来建立云 API 和 web app 后端的高性能框架。[官网](http://falconframework.org/)
     *   sandman：为现存的数据库驱动系统自动创建 REST APIs 。[官网](https://github.com/jeffknupp/sandman)
     *   restless：框架无关的 REST 框架 ，基于从 Tastypie 学到的知识。[官网](http://restless.readthedocs.org/en/latest/)
     *   ripozo：快速创建 REST/HATEOAS/Hypermedia APIs。[官网](https://github.com/vertical-knowledge/ripozo)
