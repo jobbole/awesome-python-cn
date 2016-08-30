@@ -813,7 +813,7 @@ Python实现的数据库。
 *   测试框架
     *   unittest：(Python 标准库) 单元测试框架。[官网](https://docs.python.org/2/library/unittest.html)
     *   nose：nose 扩展了 unittest 的功能。[官网](https://nose.readthedocs.org/en/latest/)
-    *   contexts：一个 Python 3.3+ 的 BDD 框架。受到C#
+    *   contexts：一个 Python 3.3+ 的 BDD 框架。受到C# – Machine.Specifications的启发。[官网](https://github.com/benjamin-hodgson/Contexts)
     *   hypothesis：Hypothesis 是一个基于先进的 Quickcheck 风格特性的测试库。[官网](https://github.com/DRMacIver/hypothesis)
     *   mamba：Python 的终极测试工具， 拥护BDD。[官网](http://nestorsalceda.github.io/mamba/)
     *   PyAutoGUI：PyAutoGUI 是一个人性化的跨平台 GUI 自动测试模块。[官网](https://github.com/asweigart/pyautogui)
