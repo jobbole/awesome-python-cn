@@ -462,7 +462,7 @@ Python实现的数据库。
 用来开发RESTful APIs的库
 
 *   Django
-    *   django-rest-framework：一个强大灵活的工具，用来构建 web API。[官网](http://www.django-rest-framework.org/)
+    *   [django-rest-framework](http://hao.jobbole.com/django-rest-framework/)：一个强大灵活的工具，用来构建 web API。[官网](http://www.django-rest-framework.org/)
     *   django-tastypie：为Django 应用开发API。[官网](http://tastypieapi.org/)
     *   django-formapi：为 Django 的表单验证，创建 JSON APIs 。[官网](https://github.com/5monkeys/django-formapi)
 *   Flask
