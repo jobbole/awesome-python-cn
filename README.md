@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)
 
 注：名单不分排名，不定期补充更新
 
@@ -195,6 +195,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Markdown
     *   Mistune：快速并且功能齐全的纯 Python 实现的 Markdown 解析器。[官网](https://github.com/lepture/mistune)
     *   Python-Markdown：John Gruber’s Markdown 的 Python 版实现。[官网](https://github.com/waylan/Python-Markdown)
+    *   Python-Markdiwn2：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。[官网](https://github.com/trentm/python-markdown2)
 *   YAML
     *   PyYAML：Python 版本的 YAML 解析器。[官网](http://pyyaml.org/)
 *   CSV
@@ -389,7 +390,7 @@ Python实现的数据库。
     *   Django Models：Django 的一部分。[官网](https://docs.djangoproject.com/en/dev/topics/db/models/)
     *   SQLAlchemy：Python SQL 工具以及对象关系映射工具。[官网](http://www.sqlalchemy.org/)
         *   [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)系列
-    *   Peewee：一个小巧，富有表达力的 ORM。[官网](https://github.com/coleifer/peewee)
+    *   [Peewee](http://hao.jobbole.com/peewee/)：一个小巧，富有表达力的 ORM。[官网](https://github.com/coleifer/peewee)
     *   PonyORM：提供面向生成器的 SQL 接口的 ORM。[官网](https://ponyorm.com/)
     *   python-sql：编写 Python 风格的 SQL 查询。[官网](https://pypi.python.org/pypi/python-sql)
 *   NoSQL 数据库
@@ -461,7 +462,7 @@ Python实现的数据库。
 用来开发RESTful APIs的库
 
 *   Django
-    *   django-rest-framework：一个强大灵活的工具，用来构建 web API。[官网](http://www.django-rest-framework.org/)
+    *   [django-rest-framework](http://hao.jobbole.com/django-rest-framework/)：一个强大灵活的工具，用来构建 web API。[官网](http://www.django-rest-framework.org/)
     *   django-tastypie：为Django 应用开发API。[官网](http://tastypieapi.org/)
     *   django-formapi：为 Django 的表单验证，创建 JSON APIs 。[官网](https://github.com/5monkeys/django-formapi)
 *   Flask
@@ -473,7 +474,7 @@ Python实现的数据库。
 *   Pyramid
     *   cornice：一个Pyramid 的 REST 框架 。[官网](https://cornice.readthedocs.org/en/latest/)
 *   与框架无关的
-    *   falcon：一个用来建立云 API 和 web app 后端的噶性能框架。[官网](http://falconframework.org/)
+    *   falcon：一个用来建立云 API 和 web app 后端的高性能框架。[官网](http://falconframework.org/)
     *   sandman：为现存的数据库驱动系统自动创建 REST APIs 。[官网](https://github.com/jeffknupp/sandman)
     *   restless：框架无关的 REST 框架 ，基于从 Tastypie 学到的知识。[官网](http://restless.readthedocs.org/en/latest/)
     *   ripozo：快速创建 REST/HATEOAS/Hypermedia APIs。[官网](https://github.com/vertical-knowledge/ripozo)
@@ -503,7 +504,7 @@ Python实现的数据库。
 
 模板生成和词法解析的库和工具。
 
-*   Jinja2：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/pallets/jinja)
+*   [Jinja2](http://hao.jobbole.com/jinja2/)：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/pallets/jinja)
 *   Chameleon：一个 HTML/XML 模板引擎。 模仿了 ZPT（Zope Page Templates）, 进行了速度上的优化。[官网](https://chameleon.readthedocs.org/en/latest/)
 *   Genshi：Python 模板工具，用以生成 web 感知的结果。[官网](https://genshi.edgewall.org/)
 *   Mako：Python 平台的超高速轻量级模板。[官网](http://www.makotemplates.org/)
@@ -719,7 +720,7 @@ Python实现的数据库。
 用于网络编程的库。
 
 *   asyncio：(Python 标准库) 异步 I/O, 事件循环, 协程以及任务。[官网](https://docs.python.org/3/library/asyncio.html)
-*   Twisted：一个事件驱动的网络引擎。[官网](https://twistedmatrix.com/trac/)
+*   [Twisted](http://hao.jobbole.com/twisted/)：一个事件驱动的网络引擎。[官网](https://twistedmatrix.com/trac/)
 *   pulsar：事件驱动的并发框架。[官网](https://github.com/quantmind/pulsar)
 *   diesel：基于Greenlet 的事件 I/O 框架。[官网](https://github.com/dieseldev/diesel)
 *   pyzmq：一个 ZeroMQ 消息库的 Python 封装。[官网](http://zeromq.github.io/pyzmq/)
@@ -812,7 +813,7 @@ Python实现的数据库。
 *   测试框架
     *   unittest：(Python 标准库) 单元测试框架。[官网](https://docs.python.org/2/library/unittest.html)
     *   nose：nose 扩展了 unittest 的功能。[官网](https://nose.readthedocs.org/en/latest/)
-    *   contexts：一个 Python 3.3+ 的 BDD 框架。受到C#
+    *   contexts：一个 Python 3.3+ 的 BDD 框架。受到C# – Machine.Specifications的启发。[官网](https://github.com/benjamin-hodgson/Contexts)
     *   hypothesis：Hypothesis 是一个基于先进的 Quickcheck 风格特性的测试库。[官网](https://github.com/DRMacIver/hypothesis)
     *   mamba：Python 的终极测试工具， 拥护BDD。[官网](http://nestorsalceda.github.io/mamba/)
     *   PyAutoGUI：PyAutoGUI 是一个人性化的跨平台 GUI 自动测试模块。[官网](https://github.com/asweigart/pyautogui)
@@ -859,6 +860,8 @@ Python实现的数据库。
     *   Flake8：模块化源码检查工具: pep8, pyflakes 以及 co。[官网](https://pypi.python.org/pypi/flake8)
     *   Pylint：一个完全可定制的源码分析器。[官网](https://www.pylint.org/)
     *   pylama：Python 和 JavaScript 的代码审查工具。[官网](https://pylama.readthedocs.org/en/latest/)
+*   代码格式化
+    *   autopep8：自动格式化 Python 代码，以使其符合 PEP8 规范。[官网](https://github.com/hhatto/autopep8)
 
 ### Debugging Tools
 
@@ -897,7 +900,7 @@ Python实现的数据库。
 *   [NumPy](http://hao.jobbole.com/numpy/)：使用 Python 进行科学计算的基础包。[官网](http://www.numpy.org/)
 *   Open Babel：一个化学工具箱，用来描述多种化学数据。[官网](http://openbabel.org/wiki/MainPage)
 *   Open Mining：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。[官网](https://github.com/mining/mining)
-*   orange：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[官网](http://orange.biolab.si/)
+*   [orange](http://hao.jobbole.com/orange/)：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[官网](http://orange.biolab.si/)
 *   Pandas：提供高性能，易用的数据结构和数据分析工具。[官网](http://pandas.pydata.org/)
 *   PyDy：PyDy 是 Python Dynamics 的缩写，用来为动力学运动建模工作流程提供帮助， 基于 NumPy, SciPy, IPython 和 matplotlib。[官网](http://www.pydy.org/)
 *   PyMC：马尔科夫链蒙特卡洛采样工具。[官网](https://github.com/pymc-devs/pymc3)
@@ -938,7 +941,7 @@ Python实现的数据库。
 *   hebel：GPU 加速的深度学习库。[官网](https://github.com/hannes-brt/hebel)
 *   NuPIC：智能计算 Numenta 平台。[官网](https://github.com/numenta/nupic)
 *   pattern：Python 网络挖掘模块。[官网](https://github.com/clips/pattern)
-*   PyBrain：另一个 Python 机器学习库。[官网](https://github.com/pybrain/pybrain)
+*   [PyBrain](http://hao.jobbole.com/pybrain/)：另一个 Python 机器学习库。[官网](https://github.com/pybrain/pybrain)
 *   Pylearn2：一个基于 [Theano](https://github.com/Theano/Theano) 的机器学习库。[官网](https://github.com/lisa-lab/pylearn2)
 *   [python-recsys](http://hao.jobbole.com/python-recsys/)：一个用来实现推荐系统的 Python 库。[官网](https://github.com/ocelma/python-recsys)
 *   scikit-learn：基于 SciPy 构建的机器学习 Python 模块。[官网](http://scikit-learn.org/)
@@ -1171,6 +1174,7 @@ Python 实现的算法和设计模式。
 *   [python-patterns](http://hao.jobbole.com/python-patterns/)：使用python实现设计模式。[官网](https://github.com/faif/python-patterns)
 *   [Projects](http://hao.jobbole.com/python-projects/)：Python项目大集合。[官网](https://github.com/karan/Projects)
 *   [The Hitchhiker’s Guide to Python](http://hao.jobbole.com/the-hitchhikers-guide-to-python/)：旅行者的Python学习指南。[官网](http://docs.python-guide.org/en/latest/)
+*	[Code Like a Pythonista: Idiomatic Python](http://top.jobbole.com/18767/)：如何像Python高手(Pythonista)一样编程。[官网](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
 <h3 id="websites">知名网站</h3>
 *值得关注的 Python 技术站点。*
@@ -1181,7 +1185,7 @@ Python 实现的算法和设计模式。
 
 <h4>英文站点</h4>
 
-待补充
+* 《[值得关注的 10 个 Python 英文博客](http://python.jobbole.com/81730/)》
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
 * Python开发者 微博：[@Python开发者](http://weibo.com/u/5305630013)
