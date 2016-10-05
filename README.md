@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)
 
 注：名单不分排名，不定期补充更新
 
@@ -741,7 +741,7 @@ Python实现的数据库。
 
 *   gunicorn：Pre-forked, 部分是由 C 语言编写的。[官网](https://pypi.python.org/pypi/gunicorn)
 *   uwsgi：uwsgi 项目的目的是开发一组全栈工具，用来建立托管服务， 由 C 语言编写。[官网](https://uwsgi-docs.readthedocs.org/en/latest/)
-*   bjoern：异步，非常快速，由 C 语言编写。[官网](https://pypi.python.org/pypi/bjoern)
+*   [bjoern](http://hao.jobbole.com/bjoern/)：异步，非常快速，由 C 语言编写。[官网](https://pypi.python.org/pypi/bjoern)
 *   fapws3：异步 (仅对于网络端)，由 C 语言编写。[官网](http://www.fapws.org/)
 *   meinheld：异步，部分是由 C 语言编写的。[官网](https://pypi.python.org/pypi/meinheld)
 *   netius：异步，非常快速。[官网](https://github.com/hivesolutions/netius)
