@@ -773,7 +773,7 @@ Python实现的数据库。
 
 *   curses：内建的 [ncurses](http://www.gnu.org/software/ncurses/) 封装，用来创建终端图形用户界面。[官网](https://docs.python.org/2/library/curses.html#module-curses)
 *   enaml：使用类似 QML 的Declaratic语法来创建美观的用户界面。[官网](https://github.com/nucleic/enaml)
-*   kivy：一个用来创建自然用户交互（NUI）应用程序的库，可以运行在 Windows, Linux, Mac OS X, Android 以及 iOS平台上。[官网](https://kivy.org/)
+*   [kivy](http://hao.jobbole.com/kivy/)：一个用来创建自然用户交互（NUI）应用程序的库，可以运行在 Windows, Linux, Mac OS X, Android 以及 iOS平台上。[官网](https://kivy.org/)
 *   pyglet：一个Python 的跨平台窗口及多媒体库。[官网](https://bitbucket.org/pyglet/pyglet/wiki/Home)
 *   PyQt：跨平台用户界面框架 [Qt](http://www.qt.io/) 的 Python 绑定 ，支持Qt v4 和 Qt v5。[官网](https://riverbankcomputing.com/software/pyqt/intro)
 *   PySide：P跨平台用户界面框架 [Qt](http://www.qt.io/) 的 Python 绑定 ，支持Qt v4。[官网](https://wiki.qt.io/PySide)
