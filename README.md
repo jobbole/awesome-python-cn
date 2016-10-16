@@ -909,6 +909,7 @@ Python实现的数据库。
 *   statsmodels：统计建模和计量经济学。[官网](https://github.com/statsmodels/statsmodels)
 *   SymPy：一个用于符号数学的 Python 库。[官网](https://github.com/sympy/sympy)
 *   zipline：一个 Python 算法交易库。[官网](https://github.com/quantopian/zipline)
+*   [Bayesian-belief-networks](http://hao.jobbole.com/bayesian-belief-networks/)：优雅的贝叶斯信念网络框架。[官网](https://github.com/eBay/bayesian-belief-networks)
 
 ### 数据可视化
 
