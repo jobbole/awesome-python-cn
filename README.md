@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)
 
 注：名单不分排名，不定期补充更新
 
@@ -892,7 +892,7 @@ Python实现的数据库。
 *   bcbio-nextgen：这个工具箱为全自动高通量测序分析提供符合最佳实践的处理流程。[官网](https://github.com/chapmanb/bcbio-nextgen)
 *   bccb：生物分析相关代码集合[官网](https://github.com/chapmanb/bcbb)
 *   Biopython：Biopython 是一组可以免费使用的用来进行生物计算的工具。[官网](http://biopython.org/wiki/MainPage)
-*   blaze：NumPy 和 Pandas 的大数据接口。[官网](http://blaze.readthedocs.org/en/latest/index.html)
+*   [blaze](http://hao.jobbole.com/blaze/)：NumPy 和 Pandas 的大数据接口。[官网](http://blaze.readthedocs.org/en/latest/index.html)
 *   cclib：一个用来解析和解释计算化学软件包输出结果的库。[官网](http://cclib.github.io/)
 *   NetworkX：一个为复杂网络设计的高性能软件。[官网](https://networkx.github.io/)
 *   Neupy：执行和测试各种不同的人工神经网络算法。[官网](http://neupy.com/pages/home.html)
