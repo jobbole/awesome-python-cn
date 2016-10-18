@@ -515,7 +515,7 @@ Python实现的数据库。
 
 *   celery：一个异步任务队列/作业队列，基于分布式消息传递。[官网](http://www.celeryproject.org/)
 *   huey：小型多线程任务队列。[官网](https://github.com/coleifer/huey)
-*   mrq：Mr. Queue -一个 Python 的分布式 worker 任务队列， 使用 Redis 和 gevent。[官网](https://github.com/pricingassistant/mrq)
+*   [mrq](http://hao.jobbole.com/mrq/)：Mr. Queue -一个 Python 的分布式 worker 任务队列， 使用 Redis 和 gevent。[官网](https://github.com/pricingassistant/mrq)
 *   rq：简单的 Python 作业队列。[官网](http://python-rq.org/)
 *   simpleq：一个简单的，可无限扩张的，基于亚马逊 SQS 的队列。[官网](https://github.com/rdegges/simpleq)
 
