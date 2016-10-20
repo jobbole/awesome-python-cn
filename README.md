@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、[л stalgic](http://www.jobbole.com/members/fengfeng19910805/)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、[л stalgic](http://www.jobbole.com/members/fengfeng19910805/)、[硕恩](http://www.jobbole.com/members/shawnw/)
 
 注：名单不分排名，不定期补充更新
 
@@ -116,7 +116,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 交互式 Python 解析器。
 
 *   IPython：功能丰富的工具，非常有效的使用交互式 Python。[官网](https://github.com/ipython/ipython)
-*   bpython：界面丰富的 Python 解析器。[官网](http://bpython-interpreter.org/)
+*   [bpython](http://hao.jobbole.com/bpython/)：界面丰富的 Python 解析器。[官网](http://bpython-interpreter.org/)
 *   ptpython：高级交互式Python解析器， 构建于[python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) 之上。[官网](https://github.com/jonathanslenders/ptpython)
 
 ### 文件
