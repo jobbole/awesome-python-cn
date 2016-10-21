@@ -899,7 +899,7 @@ Python实现的数据库。
 *   Numba：Python JIT (just in time) 编译器，针对科学用的 Python ，由Cython 和 NumPy 的开发者开发。[官网](http://numba.pydata.org/)
 *   [NumPy](http://hao.jobbole.com/numpy/)：使用 Python 进行科学计算的基础包。[官网](http://www.numpy.org/)
 *   Open Babel：一个化学工具箱，用来描述多种化学数据。[官网](http://openbabel.org/wiki/MainPage)
-*   Open Mining：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。[官网](https://github.com/mining/mining)
+*   [Open Mining](http://hao.jobbole.com/open-mining/)：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。[官网](https://github.com/mining/mining)
 *   [orange](http://hao.jobbole.com/orange/)：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[官网](http://orange.biolab.si/)
 *   Pandas：提供高性能，易用的数据结构和数据分析工具。[官网](http://pandas.pydata.org/)
 *   PyDy：PyDy 是 Python Dynamics 的缩写，用来为动力学运动建模工作流程提供帮助， 基于 NumPy, SciPy, IPython 和 matplotlib。[官网](http://www.pydy.org/)
