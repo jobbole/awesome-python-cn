@@ -878,7 +878,7 @@ Python实现的数据库。
     *   flask-debugtoolbar：django-debug-toolbar 的 flask 版。[官网](https://github.com/mgood/flask-debugtoolbar)
 *   性能分析器
     *   lineprofiler：逐行性能分析。[官网](https://github.com/rkern/lineprofiler)
-    *   memoryprofiler：监控 Python 代码的内存使用。[官网](https://github.com/fabianp/memoryprofiler)
+    *   [Memory Profiler](http://hao.jobbole.com/memory_profiler/)：监控 Python 代码的内存使用。[官网](http://pypi.python.org/pypi/memory_profiler)、[内存](https://github.com/fabianp/memoryprofiler)
     *   profiling：一个交互式 Python 性能分析工具。[官网](https://github.com/what-studio/profiling)
 *   其他
     *   pyelftools：解析和分析 ELF 文件以及 DWARF 调试信息。[官网](https://github.com/eliben/pyelftools)
