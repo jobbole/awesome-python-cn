@@ -894,7 +894,7 @@ Python实现的数据库。
 *   bccb：生物分析相关代码集合[官网](https://github.com/chapmanb/bcbb)
 *   Biopython：Biopython 是一组可以免费使用的用来进行生物计算的工具。[官网](http://biopython.org/wiki/MainPage)
 *   [blaze](http://hao.jobbole.com/blaze/)：NumPy 和 Pandas 的大数据接口。[官网](http://blaze.readthedocs.org/en/latest/index.html)
-*   cclib：一个用来解析和解释计算化学软件包输出结果的库。[官网](http://cclib.github.io/)
+*   [cclib](http://hao.jobbole.com/cclib/)：一个用来解析和解释计算化学软件包输出结果的库。[官网](http://cclib.github.io/)
 *   NetworkX：一个为复杂网络设计的高性能软件。[官网](https://networkx.github.io/)
 *   Neupy：执行和测试各种不同的人工神经网络算法。[官网](http://neupy.com/pages/home.html)
 *   Numba：Python JIT (just in time) 编译器，针对科学用的 Python ，由Cython 和 NumPy 的开发者开发。[官网](http://numba.pydata.org/)
