@@ -220,7 +220,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 用以生成项目文档的库。
 
-*   Sphinx：Python 文档生成器。[官网](http://www.sphinx-doc.org/en/latest/)
+*   [Sphinx](http://hao.jobbole.com/sphinx/)：Python 文档生成器。[官网](http://www.sphinx-doc.org/en/latest/)
     *   awesome-sphinxdoc：[官网](https://github.com/yoloseem/awesome-sphinxdoc)
 *   MkDocs：对 Markdown 友好的文档生成器。[官网](http://www.mkdocs.org/)
 *   pdoc：一个可以替换Epydoc 的库，可以自动生成 Python 库的 API 文档。[官网](https://github.com/BurntSushi/pdoc)
