@@ -278,7 +278,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 用来操作图像的库.
 
-*   pillow：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。[官网](http://pillow.readthedocs.org/en/latest/)
+*   [pillow](http://hao.jobbole.com/pillow/)：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。[官网](http://pillow.readthedocs.org/en/latest/)
 *   hmap：图像直方图映射。[官网](https://github.com/rossgoodwin/hmap)
 *   imgSeek：一个使用视觉相似性搜索一组图片集合的项目。[官网](https://sourceforge.net/projects/imgseek/)
 *   nude.py：裸体检测。[官网](https://github.com/hhatto/nude.py)
