@@ -890,7 +890,7 @@ Python实现的数据库。
 用来进行科学计算和数据分析的库。
 
 *   astropy：一个天文学 Python 库。[官网](http://www.astropy.org/)
-*   bcbio-nextgen：这个工具箱为全自动高通量测序分析提供符合最佳实践的处理流程。[官网](https://github.com/chapmanb/bcbio-nextgen)
+*   [bcbio-nextgen](http://hao.jobbole.com/bcbio-nextgen/)：这个工具箱为全自动高通量测序分析提供符合最佳实践的处理流程。[官网](https://github.com/chapmanb/bcbio-nextgen)
 *   bccb：生物分析相关代码集合[官网](https://github.com/chapmanb/bcbb)
 *   Biopython：Biopython 是一组可以免费使用的用来进行生物计算的工具。[官网](http://biopython.org/wiki/MainPage)
 *   [blaze](http://hao.jobbole.com/blaze/)：NumPy 和 Pandas 的大数据接口。[官网](http://blaze.readthedocs.org/en/latest/index.html)
