@@ -944,7 +944,7 @@ Python实现的数据库。
 *   NuPIC：智能计算 Numenta 平台。[官网](https://github.com/numenta/nupic)
 *   pattern：Python 网络挖掘模块。[官网](https://github.com/clips/pattern)
 *   [PyBrain](http://hao.jobbole.com/pybrain/)：另一个 Python 机器学习库。[官网](https://github.com/pybrain/pybrain)
-*   Pylearn2：一个基于 [Theano](https://github.com/Theano/Theano) 的机器学习库。[官网](https://github.com/lisa-lab/pylearn2)
+*   [Pylearn2](http://hao.jobbole.com/pylearn2/)：一个基于 [Theano](https://github.com/Theano/Theano) 的机器学习库。[官网](https://github.com/lisa-lab/pylearn2)
 *   [python-recsys](http://hao.jobbole.com/python-recsys/)：一个用来实现推荐系统的 Python 库。[官网](https://github.com/ocelma/python-recsys)
 *   scikit-learn：基于 SciPy 构建的机器学习 Python 模块。[官网](http://scikit-learn.org/)
 *   pydeep：Python 深度学习库。[官网](https://github.com/andersbll/deeppy)
