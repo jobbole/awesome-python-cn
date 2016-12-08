@@ -907,7 +907,7 @@ Python实现的数据库。
 *   PyMC：马尔科夫链蒙特卡洛采样工具。[官网](https://github.com/pymc-devs/pymc3)
 *   RDKit：化学信息学和机器学习软件。[官网](http://www.rdkit.org/)
 *   [SciPy](http://hao.jobbole.com/scipy/)：由一些基于 Python ，用于数学，科学和工程的开源软件构成的生态系统。[官网](http://www.scipy.org/)
-*   statsmodels：统计建模和计量经济学。[官网](https://github.com/statsmodels/statsmodels)
+*   [statsmodels](http://hao.jobbole.com/statsmodels/)：统计建模和计量经济学。[官网](https://github.com/statsmodels/statsmodels)
 *   SymPy：一个用于符号数学的 Python 库。[官网](https://github.com/sympy/sympy)
 *   zipline：一个 Python 算法交易库。[官网](https://github.com/quantopian/zipline)
 *   [Bayesian-belief-networks](http://hao.jobbole.com/bayesian-belief-networks/)：优雅的贝叶斯信念网络框架。[官网](https://github.com/eBay/bayesian-belief-networks)
