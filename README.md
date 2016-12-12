@@ -904,7 +904,7 @@ Python实现的数据库。
 *   [orange](http://hao.jobbole.com/orange/)：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[官网](http://orange.biolab.si/)
 *   Pandas：提供高性能，易用的数据结构和数据分析工具。[官网](http://pandas.pydata.org/)
 *   PyDy：PyDy 是 Python Dynamics 的缩写，用来为动力学运动建模工作流程提供帮助， 基于 NumPy, SciPy, IPython 和 matplotlib。[官网](http://www.pydy.org/)
-*   PyMC：马尔科夫链蒙特卡洛采样工具。[官网](https://github.com/pymc-devs/pymc3)
+*   [PyMC](http://hao.jobbole.com/pymc/)：马尔科夫链蒙特卡洛采样工具。[官网](https://github.com/pymc-devs/pymc3)
 *   RDKit：化学信息学和机器学习软件。[官网](http://www.rdkit.org/)
 *   [SciPy](http://hao.jobbole.com/scipy/)：由一些基于 Python ，用于数学，科学和工程的开源软件构成的生态系统。[官网](http://www.scipy.org/)
 *   [statsmodels](http://hao.jobbole.com/statsmodels/)：统计建模和计量经济学。[官网](https://github.com/statsmodels/statsmodels)
