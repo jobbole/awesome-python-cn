@@ -359,7 +359,7 @@ Python实现的数据库。
 
 用来连接和操作数据库的库。
 
-*   ySQL：[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)系列
+*   MySQL：[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)系列
     *   mysql-python：Python 的 MySQL 数据库连接器。[官网](https://sourceforge.net/projects/mysql-python/)
     *   ysqlclient：[mysql-python](https://github.com/PyMySQL/mysqlclient-python) 分支，支持 Python 3。
     *   oursql：一个更好的 MySQL 连接器，支持原生预编译指令和 BLOBs.[官网](https://pythonhosted.org/oursql/)
