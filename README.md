@@ -208,7 +208,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 用来处理人类语言的库。
 
-*   NLTK：一个先进的平台，用以构建处理人类语言数据的 Python 程序。[官网](http://www.nltk.org/)
+*   [NLTK](http://hao.jobbole.com/nltk/)：一个先进的平台，用以构建处理人类语言数据的 Python 程序。[官网](http://www.nltk.org/)
 *   jieba：中文分词工具。[官网](https://github.com/fxsjy/jieba)
 *   langid.py：独立的语言识别系统。[官网](https://github.com/saffsd/langid.py)
 *   Pattern：Python 网络信息挖掘模块。[官网](http://www.clips.ua.ac.be/pattern)
