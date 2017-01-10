@@ -241,6 +241,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 用于创建命令行程序的库。
 
 *   命令行程序开发
+    *   asciimatics：跨平台，全屏终端包（即鼠标/键盘输入和彩色，定位文本输出），完整的复杂动画和特殊效果的高级API。[官网](https://github.com/peterbrittain/asciimatics)
     *   cement：Python 的命令行程序框架。[官网](http://builtoncement.com/)
     *   click：一个通过组合的方式来创建精美命令行界面的包。[官网](http://click.pocoo.org/dev/)
     *   cliff：一个用于创建命令行程序的框架，可以创建具有多层命令的命令行程序。[官网](http://docs.openstack.org/developer/cliff/)
@@ -264,6 +265,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   thefuck：修正你之前的命令行指令。[官网](https://github.com/nvbn/thefuck)
     *   mycli：一个 MySQL 命令行客户端，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/mycli)
     *   pgcli：Postgres 命令行工具，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/pgcli)
+    *   try：一个从来没有更简单的命令行工具，用来试用python库。[官网](https://github.com/timofurrer/try)
 
 ### 下载器
 
@@ -715,6 +717,7 @@ Python实现的数据库。
 *   eventlet：支持 WSGI 的异步框架。[官网](http://eventlet.net/)
 *   gevent：一个基于协程的 Python 网络库，使用[greenlet](https://github.com/python-greenlet/greenlet)。[官网](http://www.gevent.org/)
 *   Tomorrow：用于产生异步代码的神奇的装饰器语法实现。[官网](https://github.com/madisonmay/Tomorrow)
+*   uvloop：在libuv之上超快速实现asyncio事件循环。[官网](https://github.com/MagicStack/uvloop)
 
 ### 网络
 
@@ -933,6 +936,8 @@ Python实现的数据库。
 计算机视觉库。
 
 *   OpenCV：开源计算机视觉库。[官网](http://opencv.org/)
+*   pyocr：Tesseract和Cuneiform的包装库。[官网](https://github.com/jflesch/pyocr)
+*   pytesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr)的另一包装库。[官网](https://github.com/madmaze/pytesseract)
 *   [SimpleCV](http://hao.jobbole.com/simplecv/)：一个用来创建计算机视觉应用的开源框架。[官网](http://simplecv.org/)
 
 ### 机器学习
