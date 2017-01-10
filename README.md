@@ -854,6 +854,7 @@ Python实现的数据库。
 进行代码分析，解析和操作代码库的库和工具。
 
 *   代码分析
+    *   coala：语言独立和易于扩展的代码分析应用程序。[官网](http://coala-analyzer.org/)
     *   code2flow：把你的 Python 和 JavaScript 代码转换为流程图。[官网](https://github.com/scottrogowski/code2flow)
     *   pycallgraph：这个库可以把你的Python 应用的流程(调用图)进行可视化。[官网](https://github.com/gak/pycallgraph)
     *   pysonar2：Python 类型推断和检索工具。[官网](https://github.com/yinwang0/pysonar2)
@@ -1115,6 +1116,12 @@ Python 实现的算法和设计模式。
 *   PyCharm：商业化的 Python IDE ，由 JetBrains 开发。也有免费的社区版提供。[官网](https://www.jetbrains.com/pycharm/)
 *   LiClipse：基于 Eclipse 的免费多语言 IDE 。使用 PyDev 来支持 Python 。[官网](http://www.liclipse.com/)
 *   Spyder：开源 Python IDE。[官网](https://github.com/spyder-ide/spyder)
+
+### 自动聊天工具
+
+用于开发聊天机器人的库
+
+*   Errbot：最简单和最流行的聊天机器人用来实现自动聊天工具。[官网](http://errbot.io/en/latest/)
 
 ## 服务
 
