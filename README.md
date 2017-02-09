@@ -915,6 +915,7 @@ Python实现的数据库。
 *   SymPy：一个用于符号数学的 Python 库。[官网](https://github.com/sympy/sympy)
 *   zipline：一个 Python 算法交易库。[官网](https://github.com/quantopian/zipline)
 *   [Bayesian-belief-networks](http://hao.jobbole.com/bayesian-belief-networks/)：优雅的贝叶斯信念网络框架。[官网](https://github.com/eBay/bayesian-belief-networks)
+* keras: 以tensorflow或者theano为后端的深度学习封装库，快速上手神经网络[官网](https://keras.io/)
 
 ### 数据可视化
 
