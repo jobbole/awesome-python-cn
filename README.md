@@ -422,6 +422,8 @@ Python实现的数据库。
 *   [web.py](http://hao.jobbole.com/python-webpy/)：一个 Python 的 web 框架，既简单，又强大。[官网](http://webpy.org/)
 *   web2py：一个全栈 web 框架和平台，专注于简单易用。[官网](http://www.web2py.com/)
 *   [Tornado](http://hao.jobbole.com/tornado/)：一个web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/)
+*   [xweb](https://github.com/gaojiuli/xweb/)：一个为python之禅写的极简web框架。[官网](https://github.com/gaojiuli/xweb/)
+
 
 ### 权限
 
