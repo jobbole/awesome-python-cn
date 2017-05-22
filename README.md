@@ -411,7 +411,7 @@ Python实现的数据库。
 全栈 Web 框架。
 
 *   [Django](http://hao.jobbole.com/django/)：Python 界最流行的 web 框架。[官网](https://www.djangoproject.com/)
-    *   [awesome-django](https://github.com/rosarior/awesome-django)系列
+    *   [awesome-django](https://gitlab.com/rosarior/awesome-django)系列
 *   [Flask](http://hao.jobbole.com/flask/)：一个 Python 微型框架。[官网](http://flask.pocoo.org/)
     *   [awesome-flask](https://github.com/humiaozuzu/awesome-flask)系列
 *   pyramid：一个小巧，快速，接地气的开源Python web 框架。
