@@ -864,6 +864,7 @@ Python实现的数据库。
 *   Lint工具
     *   Flake8：模块化源码检查工具: pep8, pyflakes 以及 co。[官网](https://pypi.python.org/pypi/flake8)
     *   Pylint：一个完全可定制的源码分析器。[官网](https://www.pylint.org/)
+    *   YAPF: Google的Python代码格式化工具。[官网](https://github.com/google/yapf)
     *   pylama：Python 和 JavaScript 的代码审查工具。[官网](https://pylama.readthedocs.org/en/latest/)
 *   代码格式化
     *   autopep8：自动格式化 Python 代码，以使其符合 PEP8 规范。[官网](https://github.com/hhatto/autopep8)
