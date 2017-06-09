@@ -481,6 +481,7 @@ Python实现的数据库。
     *   sandman：为现存的数据库驱动系统自动创建 REST APIs 。[官网](https://github.com/jeffknupp/sandman)
     *   restless：框架无关的 REST 框架 ，基于从 Tastypie 学到的知识。[官网](http://restless.readthedocs.org/en/latest/)
     *   ripozo：快速创建 REST/HATEOAS/Hypermedia APIs。[官网](https://github.com/vertical-knowledge/ripozo)
+    *   swagger-py-codegen：Python web 框架生成工具，通过写好的swagger api yaml文件自动生成 REST 框架。[官网](https://github.com/guokr/swagger-py-codegen)
 
 ### 验证
 
