@@ -958,7 +958,7 @@ Python实现的数据库。
 *   pydeep：Python 深度学习库。[官网](https://github.com/andersbll/deeppy)
 *   vowpalporpoise：轻量级 [Vowpal Wabbit](https://github.com/JohnLangford/vowpalwabbit/) 的 Python 封装。[官网](https://github.com/josephreisinger/vowpalporpoise)
 *   skflow：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。[官网](https://github.com/tensorflow/skflow)
-
+*   Caffe: 一个[Caffe](https://github.com/BVLC/caffe)的python接口。[官网](http://caffe.berkeleyvision.org)
 ### MapReduce
 
 MapReduce 框架和库。
