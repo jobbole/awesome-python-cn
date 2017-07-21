@@ -196,7 +196,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Markdown
     *   Mistune：快速并且功能齐全的纯 Python 实现的 Markdown 解析器。[官网](https://github.com/lepture/mistune)
     *   Python-Markdown：John Gruber’s Markdown 的 Python 版实现。[官网](https://github.com/waylan/Python-Markdown)
-    *   Python-Markdiwn2：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。[官网](https://github.com/trentm/python-markdown2)
+    *   Python-Markdown2：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。[官网](https://github.com/trentm/python-markdown2)
 *   YAML
     *   PyYAML：Python 版本的 YAML 解析器。[官网](http://pyyaml.org/)
 *   CSV
@@ -265,7 +265,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   thefuck：修正你之前的命令行指令。[官网](https://github.com/nvbn/thefuck)
     *   mycli：一个 MySQL 命令行客户端，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/mycli)
     *   pgcli：Postgres 命令行工具，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/pgcli)
-    *   try：一个从来没有更简单的命令行工具，用来试用python库。[官网](https://github.com/timofurrer/try)
+    *   try：一个从来没有更简单的命令行工具，用来试用python库。[官网](https://github.com/timofurrer/try)
 
 ### 下载器
 
