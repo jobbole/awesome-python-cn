@@ -916,7 +916,7 @@ Python实现的数据库。
 *   SymPy：一个用于符号数学的 Python 库。[官网](https://github.com/sympy/sympy)
 *   zipline：一个 Python 算法交易库。[官网](https://github.com/quantopian/zipline)
 *   [Bayesian-belief-networks](http://hao.jobbole.com/bayesian-belief-networks/)：优雅的贝叶斯信念网络框架。[官网](https://github.com/eBay/bayesian-belief-networks)
-* keras: 以tensorflow或者theano为后端的深度学习封装库，快速上手神经网络[官网](https://keras.io/)
+* keras: 以 tensorflow 或者 theano 为后端的深度学习封装库，快速上手神经网络[官网](https://keras.io/)
 
 ### 数据可视化
 
@@ -926,9 +926,10 @@ Python实现的数据库。
 *   bokeh：用 Python 进行交互式 web 绘图。[官网](https://github.com/bokeh/bokeh)
 *   ggplot：ggplot2 给 R 提供的 API 的 Python 版本。[官网](https://github.com/yhat/ggplot)
 *   plotly：协同 Python 和 matplotlib 工作的 web 绘图库。[官网](https://plot.ly/python/)
+*   pyecharts：基于百度 Echarts 的数据可视化库。[官网](https://github.com/chenjiandongx/pyecharts)
 *   pygal：一个 Python SVG 图表创建工具。[官网](http://www.pygal.org/en/latest/)
 *   pygraphviz：Graphviz 的 Python 接口。[官网](https://pypi.python.org/pypi/pygraphviz)
-*   PyQtGraph：交互式实时2D/3D/图像绘制及科学/工程学组件。[官网](http://www.pyqtgraph.org/)
+*   PyQtGraph：交互式实时 2D/3D/ 图像绘制及科学/工程学组件。[官网](http://www.pyqtgraph.org/)
 *   SnakeViz：一个基于浏览器的 Python's cProfile 模块输出结果查看工具。[官网](http://jiffyclub.github.io/snakeviz/)
 *   vincent：把 Python 转换为 Vega 语法的转换工具。[官网](https://github.com/wrobstory/vincent)
 *   VisPy：基于 OpenGL 的高性能科学可视化工具。[官网](http://vispy.org/)
@@ -938,8 +939,8 @@ Python实现的数据库。
 计算机视觉库。
 
 *   OpenCV：开源计算机视觉库。[官网](http://opencv.org/)
-*   pyocr：Tesseract和Cuneiform的包装库。[官网](https://github.com/jflesch/pyocr)
-*   pytesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr)的另一包装库。[官网](https://github.com/madmaze/pytesseract)
+*   pyocr：Tesseract 和 Cuneiform 的包装库。[官网](https://github.com/jflesch/pyocr)
+*   pytesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一包装库。[官网](https://github.com/madmaze/pytesseract)
 *   [SimpleCV](http://hao.jobbole.com/simplecv/)：一个用来创建计算机视觉应用的开源框架。[官网](http://simplecv.org/)
 
 ### 机器学习
@@ -958,7 +959,7 @@ Python实现的数据库。
 *   pydeep：Python 深度学习库。[官网](https://github.com/andersbll/deeppy)
 *   vowpalporpoise：轻量级 [Vowpal Wabbit](https://github.com/JohnLangford/vowpalwabbit/) 的 Python 封装。[官网](https://github.com/josephreisinger/vowpalporpoise)
 *   skflow：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。[官网](https://github.com/tensorflow/skflow)
-*   Caffe: 一个[Caffe](https://github.com/BVLC/caffe)的python接口。[官网](http://caffe.berkeleyvision.org)
+*   Caffe: 一个 [Caffe](https://github.com/BVLC/caffe) 的python接口。[官网](http://caffe.berkeleyvision.org)
 ### MapReduce
 
 MapReduce 框架和库。
