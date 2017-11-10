@@ -30,12 +30,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 如何为列表贡献新资源？
 
-欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+欢迎大家为列表贡献高质量的新资源，提交 PR 时请参照以下要求：
 
 * 请确保推荐的资源自己使用过
-* 提交PR时请注明推荐理由
+* 提交 PR 时请注明推荐理由
 
-资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+资源列表管理收到 PR 请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
 
 感谢您的贡献！
 
@@ -151,11 +151,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   通用
     *   [chardet](http://hao.jobbole.com/chardet/)：字符编码检测器，兼容 Python2 和 Python3。[官网](https://github.com/chardet/chardet)
     *   difflib：(Python 标准库)帮助我们进行差异化比较。[官网](https://docs.python.org/2/library/difflib.html)
-    *   ftfy：让Unicode文本更完整更连贯。[官网](https://github.com/LuminosoInsight/python-ftfy)
+    *   ftfy：让 Unicode 文本更完整更连贯。[官网](https://github.com/LuminosoInsight/python-ftfy)
     *   fuzzywuzzy：模糊字符串匹配。[官网](https://github.com/seatgeek/fuzzywuzzy)
     *   Levenshtein：快速计算编辑距离以及字符串的相似度。[官网](https://github.com/ztane/python-Levenshtein/)
     *   pangu.py：在中日韩语字符和数字字母之间添加空格。[官网](https://github.com/vinta/pangu.py)
-    *   yfiglet-figlet：[pyfiglet -figlet](https://github.com/pwaller/pyfiglet) 的 Python实现。
+    *   yfiglet-figlet：[pyfiglet -figlet](https://github.com/pwaller/pyfiglet) 的 Python 实现。
     *   shortuuid：一个生成器库，用以生成简洁的，明白的，URL 安全的 UUID。[官网](https://github.com/stochastic-technologies/shortuuid)
     *   unidecode：Unicode 文本的 ASCII 转换形式 。[官网](https://pypi.python.org/pypi/Unidecode)
     *   uniout：打印可读的字符，而不是转义的字符串。[官网](https://github.com/moskytw/uniout)
@@ -1142,13 +1142,13 @@ Python 实现的算法和设计模式。
 
 *   Travis CI：一个流行的工具，为你的开源和[私人](https://travis-ci.com/)项目提供持续集成服务。(仅支持 GitHub)[官网](https://travis-ci.org/)
 *   CircleCI：一个持续集成工具，可以非常快速的进行并行测试。 (仅支持 GitHub)[官网](https://circleci.com/)
-*   Codecov：一个代码覆盖率测试工具，为开源项目提供免费代码覆盖率测试服务。[官网](https://codecov.io)
 *   Vexor CI：一个为私人 app 提供持续集成的工具，支持按分钟付费。[官网](https://vexor.io/)
 *   Wercker：基于 Docker 平台，用来构建和部署微服务。[官网](http://wercker.com/)
 
 ### 代码质量
 
 *   Codacy：自动化代码审查，更加快速的发布高质量代码。对于开源项目是免费的。[官网](https://www.codacy.com/)
+*   Codecov：一个代码覆盖率测试工具，为开源项目提供免费代码覆盖率测试服务。[官网](https://codecov.io)
 *   QuantifiedCode：一个数据驱动、自动、持续的代码审查工具。[官网](https://www.quantifiedcode.com/)
 
 ## 资源
