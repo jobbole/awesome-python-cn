@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、[л stalgic](http://www.jobbole.com/members/fengfeng19910805/)、[硕恩](http://www.jobbole.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.jobbole.com/members/yuukilp/)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、[л stalgic](http://www.jobbole.com/members/fengfeng19910805/)、[硕恩](http://www.jobbole.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.jobbole.com/members/yuukilp/)、[陈键冬](https://github.com/chenjiandongx)
 
 注：名单不分排名，不定期补充更新
 
@@ -291,6 +291,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   scikit-image：一个用于（科学）图像处理的 Python 库。[官网](http://scikit-image.org/)
 *   thumbor：一个小型图像服务，具有剪裁，尺寸重设和翻转功能。[官网](https://github.com/thumbor/thumbor)
 *   wand：[MagickWand](http://www.imagemagick.org/script/magick-wand.php)的Python 绑定。MagickWand 是 ImageMagick的 C API 。[官网](https://github.com/dahlia/wand)
+*   face_recognition：简单易用的 python 人脸识别库。[官网](https://github.com/ageitgey/face_recognition)
 
 ### OCR
 
@@ -845,6 +846,7 @@ Python实现的数据库。
     *   modelmommy：为 Django 测试创建随机固件[官网](https://github.com/vandersonmota/modelmommy)
 *   代码覆盖率
     *   coverage：代码覆盖率测量。[官网](https://pypi.python.org/pypi/coverage)
+    *   Codecov：一个代码覆盖率测试工具，为开源项目提供免费代码覆盖率测试服务。[官网](https://codecov.io/)
 *   伪数据
     *   faker：一个 Python 库，用来生成伪数据。[官网](http://www.joke2k.net/faker/)
     *   fake2db：伪数据库生成器。[官网](https://github.com/emirozer/fake2db)
