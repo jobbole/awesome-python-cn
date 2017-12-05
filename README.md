@@ -1137,6 +1137,10 @@ Python 实现的算法和设计模式。
 
 在线工具和简化开发的 API 。
 
+###金融数据
+
+* Tushare ：一个可以提供免费股票、基金、期货、港股等金融数据的Python开源数据。[官网](http://tushare.org)
+
 ### 持续集成
 
 参见: [awesome-CIandCD](https://github.com/ciandcd/awesome-ciandcd#online-build-system).
