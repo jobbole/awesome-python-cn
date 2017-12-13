@@ -225,6 +225,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   MkDocs：对 Markdown 友好的文档生成器。[官网](http://www.mkdocs.org/)
 *   pdoc：一个可以替换Epydoc 的库，可以自动生成 Python 库的 API 文档。[官网](https://github.com/BurntSushi/pdoc)
 *   Pycco：文学编程（literate-programming）风格的文档生成器。[官网](https://github.com/pycco-docs/pycco)
+*   readthedocs：一个基于 Sphinx/MkDocs 的在线文档托管系统，对开源项目免费开放使用。[官网](https://github.com/rtfd/readthedocs.org/)
 
 ### 配置
 
