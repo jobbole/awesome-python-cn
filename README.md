@@ -141,6 +141,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   dateutil：Python datetime 模块的扩展。[官网](https://pypi.python.org/pypi/python-dateutil)
 *   delorean：解决 Python 中有关日期处理的棘手问题的库。[官网](https://github.com/myusuf3/delorean/)
 *   moment：一个用来处理时间和日期的Python库。灵感来自于Moment.js。[官网](https://github.com/zachwill/moment)
+*   pendulum：一个比 arrow 更具有明确的，可预测的行为的时间操作库。[官网](https://github.com/sdispater/pendulum)
 *   PyTime：一个简单易用的Python模块，用于通过字符串来操作日期/时间。[官网](https://github.com/shinux/PyTime)
 *   pytz：现代以及历史版本的世界时区定义。将时区数据库引入Python。[官网](https://launchpad.net/pytz)
 *   when.py：提供用户友好的函数来帮助用户进行常用的日期和时间操作。[官网](https://github.com/dirn/When.py)
@@ -222,7 +223,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 用以生成项目文档的库。
 
 *   [Sphinx](http://hao.jobbole.com/sphinx/)：Python 文档生成器。[官网](http://www.sphinx-doc.org/en/latest/)
-    *   awesome-sphinxdoc：[官网](https://github.com/yoloseem/awesome-sphinxdoc)
+*   awesome-sphinxdoc：[官网](https://github.com/yoloseem/awesome-sphinxdoc)
 *   MkDocs：对 Markdown 友好的文档生成器。[官网](http://www.mkdocs.org/)
 *   pdoc：一个可以替换Epydoc 的库，可以自动生成 Python 库的 API 文档。[官网](https://github.com/BurntSushi/pdoc)
 *   Pycco：文学编程（literate-programming）风格的文档生成器。[官网](https://github.com/pycco-docs/pycco)
@@ -252,6 +253,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   docopt：Python 风格的命令行参数解析器。[官网](http://docopt.org/)
     *   Gooey：一条命令，将命令行程序变成一个 GUI 程序。[官网](https://github.com/chriskiehl/Gooey)
     *   python-prompt-toolkit：一个用于构建强大的交互式命令行程序的库。[官网](https://github.com/jonathanslenders/python-prompt-toolkit)
+    *   python-fire：Google 出品的一个基于 Python 类的构建命令行界面的库。[官网](https://github.com/google/python-fire)
     *   [Pythonpy](http://hao.jobbole.com/pythonpy/)：在命令行中直接执行任何Python指令。[官网](https://github.com/Russell91/pythonpy/wiki)
 *   生产力工具
     *   aws-cli：Amazon Web Services 的通用命令行界面。[官网](https://github.com/aws/aws-cli)
@@ -964,6 +966,8 @@ Python实现的数据库。
 *   vowpalporpoise：轻量级 [Vowpal Wabbit](https://github.com/JohnLangford/vowpalwabbit/) 的 Python 封装。[官网](https://github.com/josephreisinger/vowpalporpoise)
 *   skflow：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。[官网](https://github.com/tensorflow/skflow)
 *   Caffe: 一个 [Caffe](https://github.com/BVLC/caffe) 的python接口。[官网](http://caffe.berkeleyvision.org)
+*   [Caffe2](https://github.com/caffe2/caffe2/)：一个轻量级的，模块化的，可扩展的深度学习框架。[官网](https://caffe2.ai/)
+
 ### MapReduce
 
 MapReduce 框架和库。
