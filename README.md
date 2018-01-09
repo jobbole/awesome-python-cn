@@ -119,7 +119,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   IPython：功能丰富的工具，非常有效的使用交互式 Python。[官网](https://github.com/ipython/ipython)
 *   [bpython](http://hao.jobbole.com/bpython/)：界面丰富的 Python 解析器。[官网](http://bpython-interpreter.org/)
-*   ptpython：高级交互式 Python 解析器， 构建于[python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) 之上。[官网](https://github.com/jonathanslenders/ptpython)
+*   ptpython：高级交互式 Python 解析器， 构建于 [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) 之上。[官网](https://github.com/jonathanslenders/ptpython)
 
 ### 文件
 
@@ -131,7 +131,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   pathlib：（Python3.4+ 标准库）跨平台的、面向对象的路径操作库。[官网](https://pathlib.readthedocs.org/en/pep428/)
 *   python-magic：文件类型检测的第三方库 libmagic 的 Python 接口。[官网](https://github.com/ahupp/python-magic)
 *   Unipath：用面向对象的方式操作文件和目录。[官网](https://github.com/mikeorr/Unipath)
-*   watchdog：管理文件系统事件的 API 和 shell 工具[官网](https://github.com/gorakhargosh/watchdog)
+*   watchdog：管理文件系统事件的 API 和 shell 工具。[官网](https://github.com/gorakhargosh/watchdog)
 
 ### 日期和时间
 
@@ -313,16 +313,16 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   audiolazy：Python 的数字信号处理包。[官网](https://github.com/danilobellini/audiolazy) 
 *   audioread：交叉库 (GStreamer + Core Audio + MAD + FFmpeg) 音频解码。[官网](https://github.com/beetbox/audioread)
-*   beets：一个音乐库管理工具及 [MusicBrainz](https://musicbrainz.org/) 标签添加工具[官网](http://beets.io/)
-*   dejavu：音频指纹提取和识别[官网](https://github.com/worldveil/dejavu)
+*   beets：一个音乐库管理工具及 [MusicBrainz](https://musicbrainz.org/) 标签添加工具。[官网](http://beets.io/)
+*   dejavu：音频指纹提取和识别。[官网](https://github.com/worldveil/dejavu)
 *   [django-elastic-transcoder](http://hao.jobbole.com/django-elastic-transcoder/)：Django + [Amazon Elastic Transcoder](http://aws.amazon.com/elastictranscoder/)。[官网](https://github.com/StreetVoice/django-elastic-transcoder)
 *   eyeD3：一个用来操作音频文件的工具，具体来讲就是包含 ID3 元信息的 MP3 文件。[官网](http://eyed3.nicfit.net/)
 *   id3reader：一个用来读取 MP3 元数据的 Python 模块。[官网](http://nedbatchelder.com/code/modules/id3reader.py)
 *   m3u8：一个用来解析 m3u8 文件的模块。[官网](https://github.com/globocom/m3u8)
 *   mutagen：一个用来处理音频元数据的 Python 模块。[官网](https://bitbucket.org/lazka/mutagen)
 *   pydub：通过简单、简洁的高层接口来操作音频文件。[官网](https://github.com/jiaaro/pydub)
-*   pyechonest：[Echo Nest](http://developer.echonest.com/) API 的 Python 客户端[官网](https://github.com/echonest/pyechonest)
-*   talkbox：一个用来处理演讲/信号的 Python 库[官网](http://scikits.appspot.com/talkbox)
+*   pyechonest：[Echo Nest](http://developer.echonest.com/) API 的 Python 客户端。[官网](https://github.com/echonest/pyechonest)
+*   talkbox：一个用来处理演讲/信号的 Python 库。[官网](http://scikits.appspot.com/talkbox)
 *   TimeSide：开源 web 音频处理框架。[官网](https://github.com/Parisson/TimeSide)
 *   tinytag：一个用来读取 MP3, OGG, FLAC 以及 Wave 文件音乐元数据的库。[官网](https://github.com/devsnd/tinytag)
 *   mingus：一个高级音乐理论和曲谱包，支持 MIDI 文件和回放功能。[官网](http://bspaans.github.io/python-mingus/)
@@ -578,7 +578,7 @@ Python 实现的数据库。
 *   django-celery-ses：带有 AWS SES 和 Celery 的 Django email 后端。[官网](https://github.com/StreetVoice/django-celery-ses)
 *   envelopes：供人类使用的电子邮件库。[官网](http://tomekwojcik.github.io/envelopes/)
 *   flanker：一个 email 地址和 Mime 解析库。[官网](https://github.com/mailgun/flanker)
-*   imbox：Python IMAP 库[官网](https://github.com/martinrusev/imbox)
+*   imbox：Python IMAP 库。[官网](https://github.com/martinrusev/imbox)
 *   inbox.py：Python SMTP 服务器。[官网](https://github.com/kennethreitz/inbox.py)
 *   inbox：一个开源电子邮件工具箱。[官网](https://github.com/nylas/sync-engine)
 *   lamson：Python 风格的 SMTP 应用服务器。[官网](https://github.com/zedshaw/lamson)
@@ -637,7 +637,7 @@ Python 实现的数据库。
 用于进行网页内容提取的库。
 
 *   Haul：一个可以扩展的图像爬取工具。[官网](https://github.com/vinta/Haul)
-*   html2text：将 HTML 转换为 Markdown 格式文本[官网](https://github.com/Alir3z4/html2text)
+*   html2text：将 HTML 转换为 Markdown 格式文本。[官网](https://github.com/Alir3z4/html2text)
 *   lassie：人性化的网页内容检索库。[官网](https://github.com/michaelhelmick/lassie)
 *   micawber：一个小型网页内容提取库，用来从 URLs 提取富内容。[官网](https://github.com/coleifer/micawber) 
 *   [newspaper](http://hao.jobbole.com/python-newspaper/)：使用 Python 进行新闻提取，文章提取以及内容策展。[官网](https://github.com/codelucas/newspaper)
@@ -722,7 +722,7 @@ Python 实现的数据库。
 *   multiprocessing：(Python 标准库) 基于进程的“线程”接口。[官网](https://docs.python.org/2/library/multiprocessing.html)
 *   threading：(Python 标准库)更高层的线程接口。[官网](https://docs.python.org/2/library/threading.html)
 *   eventlet：支持 WSGI 的异步框架。[官网](http://eventlet.net/)
-*   gevent：一个基于协程的 Python 网络库，使用[greenlet](https://github.com/python-greenlet/greenlet)。[官网](http://www.gevent.org/)
+*   gevent：一个基于协程的 Python 网络库，使用 [greenlet](https://github.com/python-greenlet/greenlet)。[官网](http://www.gevent.org/)
 *   Tomorrow：用于产生异步代码的神奇的装饰器语法实现。[官网](https://github.com/madisonmay/Tomorrow)
 *   uvloop：在 libuv 之上超快速实现 asyncio 事件循环。[官网](https://github.com/MagicStack/uvloop)
 
@@ -792,7 +792,7 @@ Python 实现的数据库。
 *   Toga：一个 Python 原生的, 操作系统原生的 GUI 工具包。[官网](https://github.com/pybee/toga)
 *   urwid：一个用来创建终端 GUI 应用的库，支持组件，事件和丰富的色彩等。[官网](http://urwid.org/)
 *   wxPython：wxPython 是 wxWidgets C++ 类库和 Python 语言混合的产物。[官网](http://wxpython.org/)
-*   PyGObject：GLib/GObject/GIO/GTK+ (GTK+3) 的 Python 绑定[官网](https://wiki.gnome.org/Projects/PyGObject)
+*   PyGObject：GLib/GObject/GIO/GTK+ (GTK+3) 的 Python 绑定。[官网](https://wiki.gnome.org/Projects/PyGObject)
 *   Flexx：Flexx 是一个纯 Python 语言编写的用来创建 GUI 程序的工具集，它使用 web 技术进行界面的展示。[官网](https://github.com/zoofIO/flexx)
 
 ### 游戏开发
@@ -849,7 +849,7 @@ Python 实现的数据库。
 *   对象工厂
     *   factoryboy：一个 Python 用的测试固件 (test fixtures) 替代库。[官网](https://github.com/rbarrois/factoryboy)
     *   mixer：另外一个测试固件 (test fixtures) 替代库，支持 Django, Flask, SQLAlchemy, Peewee 等。[官网](https://github.com/klen/mixer)
-    *   modelmommy：为 Django 测试创建随机固件[官网](https://github.com/vandersonmota/modelmommy)
+    *   modelmommy：为 Django 测试创建随机固件。[官网](https://github.com/vandersonmota/modelmommy)
 *   代码覆盖率
     *   coverage：代码覆盖率测量。[官网](https://pypi.python.org/pypi/coverage)
     *   Codecov：一个代码覆盖率测试工具，为开源项目提供免费代码覆盖率测试服务。[官网](https://codecov.io/)
@@ -904,7 +904,7 @@ Python 实现的数据库。
 
 *   astropy：一个天文学 Python 库。[官网](http://www.astropy.org/)
 *   [bcbio-nextgen](http://hao.jobbole.com/bcbio-nextgen/)：这个工具箱为全自动高通量测序分析提供符合最佳实践的处理流程。[官网](https://github.com/chapmanb/bcbio-nextgen)
-*   bccb：生物分析相关代码集合[官网](https://github.com/chapmanb/bcbb)
+*   bccb：生物分析相关代码集合。[官网](https://github.com/chapmanb/bcbb)
 *   Biopython：Biopython 是一组可以免费使用的用来进行生物计算的工具。[官网](http://biopython.org/wiki/MainPage)
 *   [blaze](http://hao.jobbole.com/blaze/)：NumPy 和 Pandas 的大数据接口。[官网](http://blaze.readthedocs.org/en/latest/index.html)
 *   [cclib](http://hao.jobbole.com/cclib/)：一个用来解析和解释计算化学软件包输出结果的库。[官网](http://cclib.github.io/)
@@ -924,7 +924,7 @@ Python 实现的数据库。
 *   SymPy：一个用于符号数学的 Python 库。[官网](https://github.com/sympy/sympy)
 *   zipline：一个 Python 算法交易库。[官网](https://github.com/quantopian/zipline)
 *   [Bayesian-belief-networks](http://hao.jobbole.com/bayesian-belief-networks/)：优雅的贝叶斯信念网络框架。[官网](https://github.com/eBay/bayesian-belief-networks)
-*   keras: 以 tensorflow 或者 theano 为后端的深度学习封装库，快速上手神经网络[官网](https://keras.io/)
+*   keras: 以 tensorflow 或者 theano 为后端的深度学习封装库，快速上手神经网络。[官网](https://keras.io/)
 
 ### 数据可视化
 
@@ -979,7 +979,7 @@ MapReduce 框架和库。
 *   luigi：这个模块帮你构建批处理作业的复杂流水线。[官网](https://github.com/spotify/luigi)
 *   mrjob：在 Hadoop 或 Amazon Web Services 上运行 MapReduce 任务。[官网](https://github.com/Yelp/mrjob)
 *   PySpark：Spark 的 Python API 。[官网](http://spark.apache.org/docs/latest/programming-guide.html)
-*   streamparse：运行针对事实数据流的 Python 代码。集成了[Apache Storm](http://storm.apache.org/)。[官网](https://github.com/Parsely/streamparse)
+*   streamparse：运行针对事实数据流的 Python 代码。集成了 [Apache Storm](http://storm.apache.org/)。[官网](https://github.com/Parsely/streamparse)
 
 ### 函数式编程
 
@@ -1017,7 +1017,7 @@ MapReduce 框架和库。
 *   Fabtools：一个用来编写超赞的 Fabric 文件的工具。[官网](https://github.com/ronnix/fabtools)
 *   gitapi：Git 的纯 Python API。[官网](https://bitbucket.org/haard/gitapi)
 *   hgapi：Mercurial 的纯 Python API。[官网](https://bitbucket.org/haard/hgapi)
-*   honcho：[Foreman](https://github.com/ddollar/foreman)的 Python 克隆版，用来管理基于[Procfile](https://devcenter.heroku.com/articles/procfile)的应用。[官网](https://github.com/nickstenning/honcho)
+*   honcho：[Foreman](https://github.com/ddollar/foreman)的 Python 克隆版，用来管理基于 [Procfile](https://devcenter.heroku.com/articles/procfile)的应用。[官网](https://github.com/nickstenning/honcho)
 *   pexpect：Controlling interactive programs in a pseudo-terminal like 在一个伪终端中控制交互程序，就像 GNU expect 一样。[官网](https://github.com/pexpect/pexpect)
 *   psutil：一个跨平台进程和系统工具模块。[官网](https://github.com/giampaolo/psutil)
 *   supervisor：UNIX 的进程控制系统。[官网](https://github.com/Supervisor/supervisor)
@@ -1078,7 +1078,7 @@ MapReduce 框架和库。
 
 用来对硬件进行编程的库。
 
-*   ino：操作[Arduino](https://www.arduino.cc/)的命令行工具。[官网](http://inotool.org/) 
+*   ino：操作 [Arduino](https://www.arduino.cc/) 的命令行工具。[官网](http://inotool.org/) 
 *   Pyro：Python 机器人编程库。[官网](http://pyrorobotics.com/)
 *   PyUserInput：跨平台的，控制鼠标和键盘的模块。[官网](https://github.com/SavinaRoja/PyUserInput)
 *   scapy：一个非常棒的操作数据包的库。[官网](https://github.com/secdev/scapy)
@@ -1125,7 +1125,7 @@ Python 实现的算法和设计模式。
     *   Jedi-vim：绑定 Vim 和 Jedi 自动补全库对 Python 进行自动补全。[官网](https://github.com/davidhalter/jedi-vim)
     *   Python-mode：将 Vim 变成 Python IDE 的一款多合一插件。[官网](https://github.com/klen/python-mode)
 *   Visual Studio
-    *   PTVS：Visual Studio 的 Python 工具[官网](https://github.com/Microsoft/PTVS)
+    *   PTVS：Visual Studio 的 Python 工具。[官网](https://github.com/Microsoft/PTVS)
 
 ### 集成开发环境
 
