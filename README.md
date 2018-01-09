@@ -76,6 +76,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   pip：Python 包和依赖关系管理工具。[官网](https://pip.pypa.io/)
 *   pip-tools：保证 Python 包依赖关系更新的一组工具。[官网](https://github.com/nvie/pip-tools)
+*   pipenv：Pyhton 官方推荐的新一代包管理工具。[官网](https://github.com/pypa/pipenv)
 *   conda：跨平台，Python 二进制包管理工具。[官网](https://github.com/conda/conda/)
 *   Curdling：管理 Python 包的命令行工具。[官网](http://clarete.li/curdling/)
 *   wheel：Python 分发的新标准，意在取代 eggs。[官网](http://pythonwheels.com/)
@@ -261,6 +262,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   caniusepython3：判断是哪个项目妨碍你你移植到 Python 3。[官网](https://github.com/brettcannon/caniusepython3)
     *   cookiecutter：从 cookiecutters（项目模板）创建项目的一个命令行工具。[官网](https://github.com/audreyr/cookiecutter)
     *   doitlive：一个用来在终端中进行现场演示的工具。[官网](https://github.com/sloria/doitlive)
+    *   pyftpdlib：一个速度极快和可扩展的 Python FTP 服务库。[官网](https://github.com/giampaolo/pyftpdlib)
     *   howdoi：通过命令行获取即时的编程问题解答。[官网](https://github.com/gleitz/howdoi)
     *   httpie：一个命令行HTTP 客户端，cURL 的替代品，易用性更好。[官网](https://github.com/jkbrzt/httpie)
     *   PathPicker：从bash输出中选出文件。[官网](https://github.com/facebook/PathPicker)
