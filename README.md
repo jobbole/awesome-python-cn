@@ -434,7 +434,7 @@ Python 实现的数据库。
 
 允许或拒绝用户访问数据或功能的库。
 
-*   Carteblanche：Module to align code with thoughts of users and designers. Also magically handles navigation and permissions.[官网](https://github.com/neuman/python-carteblanche/)
+*   Carteblanche：站在用户和设计者角度开发的一个代码对齐模块，很好地处理了代码导航及权限。[官网](https://github.com/neuman/python-carteblanche/)
 *   django-guardian：Django 1.2+ 实现了单个对象权限。[官网](https://github.com/django-guardian/django-guardian)
 *   django-rules：一个小巧但是强大的应用，提供对象级别的权限管理，且不需要使用数据库。[官网](https://github.com/dfunckt/django-rules)
 
@@ -464,7 +464,7 @@ Python 实现的数据库。
 *   shoop：一个基于 Django 的开源电子商务平台。[官网](https://www.shoop.io/en/)
 *   alipay：非官方的 Python 支付宝 API。[官网](https://github.com/lxneng/alipay)
 *   merchant：一个可以接收来自多种支付平台支付的 Django 应用。[官网](https://github.com/agiliq/merchant)
-*   money：货币类库 with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.[官网](https://github.com/carlospalol/money)
+*   money：一个货币类库。带有可选的 CLDR 后端本地化格式，提供可扩展的货币兑换解决方案。[官网](https://github.com/carlospalol/money)
 *   python-currencies：显示货币格式以及它的数值。[官网](https://github.com/Alir3z4/python-currencies)
 
 ### RESTful API
@@ -663,7 +663,7 @@ Python 实现的数据库。
 
 数据验证库。多用于表单验证。
 
-*   Cerberus：A mappings-validator with a variety of rules, normalization-features and simple customization that uses a pythonic schema-definition.[官网](http://docs.python-cerberus.org/en/stable/)
+*   Cerberus：一个映射验证器（mappings-validator）。支持多种规则，提供归一化功能，可以方便地定制为 Python 风格的 schema 定义。[官网](http://docs.python-cerberus.org/en/stable/)
 *   colander：一个用于对从 XML, JSON，HTML 表单获取的数据或其他同样简单的序列化数据进行验证和反序列化的系统。[官网](http://docs.pylonsproject.org/projects/colander/en/latest/)
 *   kmatch：一种用于匹配/验证/筛选 Python 字典的语言。[官网](https://github.com/ambitioninc/kmatch)
 *   schema：一个用于对 Python 数据结构进行验证的库。[官网](https://github.com/keleshev/schema) 
@@ -947,8 +947,8 @@ Python 实现的数据库。
 计算机视觉库。
 
 *   OpenCV：开源计算机视觉库。[官网](http://opencv.org/)
-*   pyocr：Tesseract 和 Cuneiform 的包装库。[官网](https://github.com/jflesch/pyocr)
-*   pytesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一包装库。[官网](https://github.com/madmaze/pytesseract)
+*   pyocr：Tesseract 和 Cuneiform 的包装库。[官网](https://github.com/jflesch/pyocr)
+*   pytesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一包装库。[官网](https://github.com/madmaze/pytesseract)
 *   [SimpleCV](http://hao.jobbole.com/simplecv/)：一个用来创建计算机视觉应用的开源框架。[官网](http://simplecv.org/)
 
 ### 机器学习
@@ -1209,6 +1209,7 @@ Python 实现的算法和设计模式。
 *	[Code Like a Pythonista: Idiomatic Python](http://top.jobbole.com/18767/)：如何像 Python 高手(Pythonista)一样编程。[官网](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
 <h3 id="websites">知名网站</h3>
+
 *值得关注的 Python 技术站点。*
 
 <h4>中文站点</h4>
@@ -1220,6 +1221,7 @@ Python 实现的算法和设计模式。
 * 《[值得关注的 10 个 Python 英文博客](http://python.jobbole.com/81730/)》
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
+
 * Python开发者 微博：[@Python开发者](http://weibo.com/u/5305630013)
 * Python开发者：人生苦短，我用 Python。Python 越来越受广大程序员的喜爱。「Python开发者」是最受欢迎的、专注分享 Python 技术的微信公众号，主要分享 Python 相关的技术文章、工具资源和资讯等。
 <br><img src="http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg" width=150 height=150>
