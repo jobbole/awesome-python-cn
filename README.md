@@ -924,7 +924,6 @@ Python 实现的数据库。
 *   SymPy：一个用于符号数学的 Python 库。[官网](https://github.com/sympy/sympy)
 *   zipline：一个 Python 算法交易库。[官网](https://github.com/quantopian/zipline)
 *   [Bayesian-belief-networks](http://hao.jobbole.com/bayesian-belief-networks/)：优雅的贝叶斯信念网络框架。[官网](https://github.com/eBay/bayesian-belief-networks)
-*   keras: 以 tensorflow 或者 theano 为后端的深度学习封装库，快速上手神经网络。[官网](https://keras.io/)
 
 ### 数据可视化
 
@@ -958,6 +957,7 @@ Python 实现的数据库。
 *   Crab：灵活、快速的推荐引擎。[官网](https://github.com/muricoca/crab)
 *   gensim：人性化的话题建模库。[官网](https://github.com/piskvorky/gensim)
 *   hebel：GPU 加速的深度学习库。[官网](https://github.com/hannes-brt/hebel)
+*   [keras](https://github.com/keras-team/keras): 以 tensorflow/theano/CNTK 为后端的深度学习封装库，快速上手神经网络。[官网](https://keras.io/)
 *   NuPIC：智能计算 Numenta 平台。[官网](https://github.com/numenta/nupic)
 *   pattern：Python 网络挖掘模块。[官网](https://github.com/clips/pattern)
 *   [PyBrain](http://hao.jobbole.com/pybrain/)：另一个 Python 机器学习库。[官网](https://github.com/pybrain/pybrain)
