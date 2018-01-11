@@ -954,6 +954,8 @@ Python 实现的数据库。
 
 机器学习库。 参见: [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python).
 
+*   Caffe: 一个 [Caffe](https://github.com/BVLC/caffe) 的 python 接口。[官网](http://caffe.berkeleyvision.org)
+*   [Caffe2](https://github.com/caffe2/caffe2/)：一个轻量级的，模块化的，可扩展的深度学习框架。[官网](https://caffe2.ai/)
 *   Crab：灵活、快速的推荐引擎。[官网](https://github.com/muricoca/crab)
 *   gensim：人性化的话题建模库。[官网](https://github.com/piskvorky/gensim)
 *   hebel：GPU 加速的深度学习库。[官网](https://github.com/hannes-brt/hebel)
@@ -967,8 +969,6 @@ Python 实现的数据库。
 *   pydeep：Python 深度学习库。[官网](https://github.com/andersbll/deeppy)
 *   vowpalporpoise：轻量级 [Vowpal Wabbit](https://github.com/JohnLangford/vowpalwabbit/) 的 Python 封装。[官网](https://github.com/josephreisinger/vowpalporpoise)
 *   skflow：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。[官网](https://github.com/tensorflow/skflow)
-*   Caffe: 一个 [Caffe](https://github.com/BVLC/caffe) 的 python 接口。[官网](http://caffe.berkeleyvision.org)
-*   [Caffe2](https://github.com/caffe2/caffe2/)：一个轻量级的，模块化的，可扩展的深度学习框架。[官网](https://caffe2.ai/)
 
 ### MapReduce
 
