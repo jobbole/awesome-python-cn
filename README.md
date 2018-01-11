@@ -969,6 +969,7 @@ Python 实现的数据库。
 *   pydeep：Python 深度学习库。[官网](https://github.com/andersbll/deeppy)
 *   vowpalporpoise：轻量级 [Vowpal Wabbit](https://github.com/JohnLangford/vowpalwabbit/) 的 Python 封装。[官网](https://github.com/josephreisinger/vowpalporpoise)
 *   skflow：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。[官网](https://github.com/tensorflow/skflow)
+*   [TensorFlow](https://github.com/tensorflow/tensorflow)：谷歌开源的最受欢迎的深度学习框架。[官网](http://tensorflow.org/)
 
 ### MapReduce
 
