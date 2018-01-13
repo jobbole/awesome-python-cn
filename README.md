@@ -306,7 +306,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   pyocr：Tesseract 和 Cuneiform 的一个封装(wrapper)。[官网](https://github.com/jflesch/pyocr)
 *   [pytesseract](http://hao.jobbole.com/pytesseract/)：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一个封装(wrapper)。[官网](https://github.com/madmaze/pytesseract)
-*   python-tesseract - [Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个包装类。
+*   python-tesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个包装类。
 
 ### 音频
 
@@ -818,7 +818,7 @@ Python 实现的数据库。
 *   Raven：Sentry 的 Python 客户端。[官网](http://raven.readthedocs.org/en/latest/)
 *   Sentry：实时记录和收集日志的服务器。[官网](https://pypi.python.org/pypi/sentry)
 
-### Testing
+### 测试
 
 进行代码库测试和生成测试数据的库。
 
@@ -878,7 +878,7 @@ Python 实现的数据库。
 *   代码格式化
     *   autopep8：自动格式化 Python 代码，以使其符合 PEP8 规范。[官网](https://github.com/hhatto/autopep8)
 
-### Debugging Tools
+### 调试工具
 
 用来进行代码调试的库。
 
@@ -899,7 +899,7 @@ Python 实现的数据库。
     *   pyelftools：解析和分析 ELF 文件以及 DWARF 调试信息。[官网](https://github.com/eliben/pyelftools)
     *   python-statsd：[statsd](https://github.com/etsy/statsd/) 服务器的 Python 客户端。[官网](https://github.com/WoLpH/python-statsd)
 
-### Science and Data Analysis
+### 科学计算和数据分析
 
 用来进行科学计算和数据分析的库。
 
