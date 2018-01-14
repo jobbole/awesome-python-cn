@@ -306,7 +306,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   pyocr：Tesseract 和 Cuneiform 的一个封装(wrapper)。[官网](https://github.com/jflesch/pyocr)
 *   [pytesseract](http://hao.jobbole.com/pytesseract/)：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一个封装(wrapper)。[官网](https://github.com/madmaze/pytesseract)
-*   python-tesseract - [Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个包装类。
+*   python-tesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个包装类。
 
 ### 音频
 
@@ -818,7 +818,7 @@ Python 实现的数据库。
 *   Raven：Sentry 的 Python 客户端。[官网](http://raven.readthedocs.org/en/latest/)
 *   Sentry：实时记录和收集日志的服务器。[官网](https://pypi.python.org/pypi/sentry)
 
-### Testing
+### 测试
 
 进行代码库测试和生成测试数据的库。
 
@@ -878,7 +878,7 @@ Python 实现的数据库。
 *   代码格式化
     *   autopep8：自动格式化 Python 代码，以使其符合 PEP8 规范。[官网](https://github.com/hhatto/autopep8)
 
-### Debugging Tools
+### 调试工具
 
 用来进行代码调试的库。
 
@@ -899,7 +899,7 @@ Python 实现的数据库。
     *   pyelftools：解析和分析 ELF 文件以及 DWARF 调试信息。[官网](https://github.com/eliben/pyelftools)
     *   python-statsd：[statsd](https://github.com/etsy/statsd/) 服务器的 Python 客户端。[官网](https://github.com/WoLpH/python-statsd)
 
-### Science and Data Analysis
+### 科学计算和数据分析
 
 用来进行科学计算和数据分析的库。
 
@@ -961,15 +961,18 @@ Python 实现的数据库。
 *   gensim：人性化的话题建模库。[官网](https://github.com/piskvorky/gensim)
 *   hebel：GPU 加速的深度学习库。[官网](https://github.com/hannes-brt/hebel)
 *   [keras](https://github.com/keras-team/keras): 以 tensorflow/theano/CNTK 为后端的深度学习封装库，快速上手神经网络。[官网](https://keras.io/)
+*   [MXNet](https://github.com/apache/incubator-mxnet)：一个高效和灵活的深度学习框架。[官网](http://mxnet.incubator.apache.org/)
 *   NuPIC：智能计算 Numenta 平台。[官网](https://github.com/numenta/nupic)
 *   pattern：Python 网络挖掘模块。[官网](https://github.com/clips/pattern)
 *   [PyBrain](http://hao.jobbole.com/pybrain/)：另一个 Python 机器学习库。[官网](https://github.com/pybrain/pybrain)
+*   pydeep：Python 深度学习库。[官网](https://github.com/andersbll/deeppy)
 *   [Pylearn2](http://hao.jobbole.com/pylearn2/)：一个基于 [Theano](https://github.com/Theano/Theano) 的机器学习库。[官网](https://github.com/lisa-lab/pylearn2)
 *   [python-recsys](http://hao.jobbole.com/python-recsys/)：一个用来实现推荐系统的 Python 库。[官网](https://github.com/ocelma/python-recsys)
-*   pydeep：Python 深度学习库。[官网](https://github.com/andersbll/deeppy)
+*   [Pytorch](https://github.com/pytorch/pytorch)：一个具有张量和动态神经网络，并有强大 GPU 加速能力的深度学习框架。[官网](http://pytorch.org/)
 *   scikit-learn：基于 SciPy 构建的机器学习 Python 模块。[官网](http://scikit-learn.org/)
 *   skflow：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。[官网](https://github.com/tensorflow/skflow)
 *   [TensorFlow](https://github.com/tensorflow/tensorflow)：谷歌开源的最受欢迎的深度学习框架。[官网](http://tensorflow.org/)
+*   Theano：一个快速数值计算库。[官网](https://github.com/Theano/Theano)
 *   vowpalporpoise：轻量级 [Vowpal Wabbit](https://github.com/JohnLangford/vowpalwabbit/) 的 Python 封装。[官网](https://github.com/josephreisinger/vowpalporpoise)
 
 ### MapReduce
