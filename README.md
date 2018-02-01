@@ -429,6 +429,7 @@ Python 实现的数据库。
 *   [web.py](http://hao.jobbole.com/python-webpy/)：一个 Python 的 web 框架，既简单，又强大。[官网](http://webpy.org/)
 *   web2py：一个全栈 web 框架和平台，专注于简单易用。[官网](http://www.web2py.com/)
 *   [Tornado](http://hao.jobbole.com/tornado/)：一个 web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/)
+*   sanic：基于 Python3.5+ 的异步网络框架。[官网](https://github.com/channelcat/sanic/)
 
 ### 权限
 
@@ -735,6 +736,7 @@ Python 实现的数据库。
 *   pulsar：事件驱动的并发框架。[官网](https://github.com/quantmind/pulsar)
 *   diesel：基于 Greenlet 的事件 I/O 框架。[官网](https://github.com/dieseldev/diesel)
 *   pyzmq：一个 ZeroMQ 消息库的 Python 封装。[官网](http://zeromq.github.io/pyzmq/)
+*   Toapi：一个轻巧，简单，快速的 Flask 库，致力于为所有网站提供 API 服务。[官网](https://github.com/gaojiuli/toapi)
 *   txZMQ：基于 Twisted 的 ZeroMQ 消息库的 Python 封装。[官网](https://github.com/smira/txZMQ)
 
 ### WebSocket
