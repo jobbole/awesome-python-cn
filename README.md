@@ -1040,8 +1040,9 @@ MapReduce 框架和库。
 *   Plan：如有神助地编写 crontab 文件。[官网](https://github.com/fengsp/plan)
 *   schedule：人性化的 Python 任务调度库。[官网](https://github.com/dbader/schedule)
 *   Spiff：使用纯 Python 实现的强大的工作流引擎。[官网](https://github.com/knipknap/SpiffWorkflow)
-*   TaskFlow：一个可以让你方便执行任务的 Python 库，一致并且可靠。[官网](http://docs.openstack.org/developer/taskflow/)
-
+*   TaskFlow：一个可以让你方便执行任务的 Python 库，一致并且可靠。[官网](http://docs.openstack.org/developer/taskflow/)
+*   AirFlow：Airflow 是Airbnb公司开源的，是一个工作流分配管理系统，通过有向非循环图的方式管理任务流程，设置任务依赖关系和时间调度。[官方](https://airflow.incubator.apache.org/)
+ 
 ### 外来函数接口
 
 使用外来函数接口的库。
