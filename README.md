@@ -218,6 +218,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   SnowNLP：一个用来处理中文文本的库。[官网](https://github.com/isnowfy/snownlp)
 *   TextBlob：为进行普通自然语言处理任务提供一致的 API。[官网](http://textblob.readthedocs.org/en/latest/)
 *   TextGrocery：一简单高效的短文本分类工具，基于 LibLinear 和 Jieba。[官网](https://github.com/2shou/TextGrocery)
+*   thulac:清华大学自然语言处理与社会人文计算实验室研制推出的一套中文词法分析工具包[官网](https://github.com/thunlp/THULAC-Python)
 
 ### 文档
 
