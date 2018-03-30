@@ -140,7 +140,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Chronyk：Python 3 的类库，用于解析手写格式的时间和日期。[官网](https://github.com/KoffeinFlummi/Chronyk)
 *   dateutil：Python datetime 模块的扩展。[官网](https://pypi.python.org/pypi/python-dateutil)
 *   delorean：解决 Python 中有关日期处理的棘手问题的库。[官网](https://github.com/myusuf3/delorean/)
-*   maya：一个更友好的时间处理库。[官网](https://github.com/kennethreitz/maya)
+*   maya：人性化的时间处理库。[官网](https://github.com/kennethreitz/maya)
 *   moment：一个用来处理时间和日期的 Python 库。灵感来自于 Moment.js。[官网](https://github.com/zachwill/moment)
 *   pendulum：一个比 arrow 更具有明确的，可预测的行为的时间操作库。[官网](https://github.com/sdispater/pendulum)
 *   PyTime：一个简单易用的 Python 模块，用于通过字符串来操作日期/时间。[官网](https://github.com/shinux/PyTime)
@@ -350,7 +350,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### HTTP
 
 使用 HTTP 的库。
-
+*   aiohttp：基于 asyncio 的异步 HTTP 网络库。[官网](https://github.com/aio-libs/aiohttp)
 *   requests：人性化的 HTTP 请求库。[官网](http://docs.python-requests.org/en/latest/)
 *   grequests：requests 库 + gevent ，用于异步 HTTP 请求.[官网](https://github.com/kennethreitz/grequests)
 *   httplib2：全面的 HTTP 客户端库。[官网](https://github.com/jcgregorio/httplib2)
