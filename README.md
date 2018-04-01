@@ -188,12 +188,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Office
     *   Marmir：把输入的 Python 数据结构转换为电子表单。[官网](https://github.com/brianray/mm)
     *   openpyxl：一个用来读写 Excel 2010 xlsx/xlsm/xltx/xltm 文件的库。[官网](https://openpyxl.readthedocs.org/en/latest/)
+    *   pyexcel：一个提供统一 API，用来读写，操作 Excel 文件的库。[官网](https://github.com/pyexcel/pyexcel)
     *   python-docx：读取，查询以及修改 Microsoft Word 2007/2008 docx 文件。[官网](https://github.com/python-openxml/python-docx)
+    *   relatorio：模板化 OpenDocument 文件。[官网](http://relatorio.tryton.org/)
     *   unoconv：在 LibreOffice/OpenOffice 支持的任意文件格式之间进行转换。[官网](https://github.com/dagwieers/unoconv)
     *   XlsxWriter：一个用于创建 Excel .xlsx 文件的 Python 模块。[官网](https://xlsxwriter.readthedocs.org/en/latest/)
     *   xlwings：一个使得在 Excel 中方便调用 Python 的库（反之亦然），基于 BSD 协议。[官网](http://xlwings.org/)
     *   [xlwt](http://hao.jobbole.com/xlwt/)：读写 Excel 文件的数据和格式信息。[官网](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd)
-    *   relatorio：模板化 OpenDocument 文件。[官网](http://relatorio.tryton.org/)
 *   PDF
     *   PDFMiner：一个用于从 PDF 文档中抽取信息的工具。[官网](https://github.com/euske/pdfminer)
     *   PyPDF2：一个可以分割，合并和转换 PDF 页面的库。[官网](https://github.com/mstamy2/PyPDF2)
