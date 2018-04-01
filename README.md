@@ -124,6 +124,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 文件管理和 MIME（多用途的网际邮件扩充协议）类型检测。
 
+*   aiofiles：基于 asyncio，提供文件异步操作。[官网](https://github.com/Tinche/aiofiles)
 *   imghdr：（Python 标准库）检测图片类型。[官网](https://docs.python.org/2/library/imghdr.html)
 *   mimetypes：（Python 标准库）将文件名映射为 MIME 类型。[官网](https://docs.python.org/2/library/mimetypes.html)
 *   path.py：对 os.path 进行封装的模块。[官网](https://github.com/jaraco/path.py)
@@ -371,9 +372,10 @@ Python 实现的数据库。
 用来连接和操作数据库的库。
 
 *   MySQL：[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/) 系列
+    *   aiomysql：基于 asyncio 的异步 MySQL 数据库操作库。[官网](https://github.com/aio-libs/aiomysql)
     *   mysql-python：Python 的 MySQL 数据库连接器。[官网](https://sourceforge.net/projects/mysql-python/)
     *   ysqlclient：[mysql-python](https://github.com/PyMySQL/mysqlclient-python) 分支，支持 Python 3。
-    *   oursql：一个更好的 MySQL 连接器，支持原生预编译指令和 BLOBs.[官网](https://pythonhosted.org/oursql/)
+    *   oursql：一个更好的 MySQL 连接器，支持原生预编译指令和 BLOBs。[官网](https://pythonhosted.org/oursql/)
     *   PyMySQL：纯 Python MySQL 驱动，兼容 mysql-python。[官网](https://github.com/PyMySQL/PyMySQL)
 *   PostgreSQL
     *   psycopg2：Python 中最流行的 PostgreSQL 适配器。[官网](http://initd.org/psycopg/)
