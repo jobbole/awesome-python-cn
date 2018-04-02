@@ -124,6 +124,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 文件管理和 MIME（多用途的网际邮件扩充协议）类型检测。
 
+*   aiofiles：基于 asyncio，提供文件异步操作。[官网](https://github.com/Tinche/aiofiles)
 *   imghdr：（Python 标准库）检测图片类型。[官网](https://docs.python.org/2/library/imghdr.html)
 *   mimetypes：（Python 标准库）将文件名映射为 MIME 类型。[官网](https://docs.python.org/2/library/mimetypes.html)
 *   path.py：对 os.path 进行封装的模块。[官网](https://github.com/jaraco/path.py)
@@ -187,12 +188,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Office
     *   Marmir：把输入的 Python 数据结构转换为电子表单。[官网](https://github.com/brianray/mm)
     *   openpyxl：一个用来读写 Excel 2010 xlsx/xlsm/xltx/xltm 文件的库。[官网](https://openpyxl.readthedocs.org/en/latest/)
+    *   pyexcel：一个提供统一 API，用来读写，操作 Excel 文件的库。[官网](https://github.com/pyexcel/pyexcel)
     *   python-docx：读取，查询以及修改 Microsoft Word 2007/2008 docx 文件。[官网](https://github.com/python-openxml/python-docx)
+    *   relatorio：模板化 OpenDocument 文件。[官网](http://relatorio.tryton.org/)
     *   unoconv：在 LibreOffice/OpenOffice 支持的任意文件格式之间进行转换。[官网](https://github.com/dagwieers/unoconv)
     *   XlsxWriter：一个用于创建 Excel .xlsx 文件的 Python 模块。[官网](https://xlsxwriter.readthedocs.org/en/latest/)
     *   xlwings：一个使得在 Excel 中方便调用 Python 的库（反之亦然），基于 BSD 协议。[官网](http://xlwings.org/)
     *   [xlwt](http://hao.jobbole.com/xlwt/)：读写 Excel 文件的数据和格式信息。[官网](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd)
-    *   relatorio：模板化 OpenDocument 文件。[官网](http://relatorio.tryton.org/)
 *   PDF
     *   PDFMiner：一个用于从 PDF 文档中抽取信息的工具。[官网](https://github.com/euske/pdfminer)
     *   PyPDF2：一个可以分割，合并和转换 PDF 页面的库。[官网](https://github.com/mstamy2/PyPDF2)
@@ -371,9 +373,10 @@ Python 实现的数据库。
 用来连接和操作数据库的库。
 
 *   MySQL：[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/) 系列
+    *   aiomysql：基于 asyncio 的异步 MySQL 数据库操作库。[官网](https://github.com/aio-libs/aiomysql)
     *   mysql-python：Python 的 MySQL 数据库连接器。[官网](https://sourceforge.net/projects/mysql-python/)
     *   ysqlclient：[mysql-python](https://github.com/PyMySQL/mysqlclient-python) 分支，支持 Python 3。
-    *   oursql：一个更好的 MySQL 连接器，支持原生预编译指令和 BLOBs.[官网](https://pythonhosted.org/oursql/)
+    *   oursql：一个更好的 MySQL 连接器，支持原生预编译指令和 BLOBs。[官网](https://pythonhosted.org/oursql/)
     *   PyMySQL：纯 Python MySQL 驱动，兼容 mysql-python。[官网](https://github.com/PyMySQL/PyMySQL)
 *   PostgreSQL
     *   psycopg2：Python 中最流行的 PostgreSQL 适配器。[官网](http://initd.org/psycopg/)
@@ -619,6 +622,7 @@ Python 实现的数据库。
 *   lxml：一个非常快速，简单易用，功能齐全的库，用来处理 HTML 和 XML。[官网](http://lxml.de/)
 *   MarkupSafe：为 Python 实现 XML/HTML/XHTML 标记安全字符串。[官网](https://github.com/pallets/markupsafe)
 *   pyquery：一个解析 HTML 的库，类似 jQuery。[官网](https://github.com/gawel/pyquery)
+*   requests-html：人性化的，Pythonic 的 HTML 解析库。[官网](https://github.com/kennethreitz/requests-html)
 *   untangle：将 XML 文档转换为 Python 对象，使其可以方便的访问。[官网](https://github.com/stchris/untangle)
 *   xhtml2pdf：HTML/CSS 转 PDF 工具。[官网](https://github.com/xhtml2pdf/xhtml2pdf)
 *   xmltodict：像处理 JSON 一样处理 XML。[官网](https://github.com/martinblech/xmltodict)
