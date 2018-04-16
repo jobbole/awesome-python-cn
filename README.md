@@ -884,6 +884,7 @@ Python 实现的数据库。
     *   pylama：Python 和 JavaScript 的代码审查工具。[官网](https://pylama.readthedocs.org/en/latest/)
 *   代码格式化
     *   autopep8：自动格式化 Python 代码，以使其符合 PEP8 规范。[官网](https://github.com/hhatto/autopep8)
+    *   black：一个坚定的 Python 代码格式化工具。[官网](https://github.com/ambv/black)
 
 ### 调试工具
 
