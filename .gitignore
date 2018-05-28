@@ -1,0 +1,9 @@
+# MacOS
+.DS_Store
+
+# for docs
+docs/index.md
+site/
+
+# for vscode
+.vscode/

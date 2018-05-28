@@ -1,0 +1,16 @@
+site_name: 'Python 资源大全中文版'
+site_url: 'https://github.com/jobbole/awesome-python-cn/'
+site_author: 'jobbole'
+repo_name: 'jobbole/awesome-python-cn/'
+repo_url: 'https://github.com/jobbole/awesome-python-cn/'
+theme: 'material'
+extra:
+  feature:
+    tabs: false
+    primary: 'blue'
+    accent: 'blue'
+  social:
+    - type: 'github'
+      link: 'https://github.com/jobbole/awesome-python-cn/'
+pages:
+  - "人生苦短，我用 Python": "index.md"
