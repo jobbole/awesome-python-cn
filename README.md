@@ -655,6 +655,7 @@ Python 实现的数据库。
 *   Schematics：数据结构验证。[官网](https://github.com/schematics/schematics)
 *   valideer：轻量级可扩展的数据验证和适配库。[官网](https://github.com/podio/valideer)
 *   voluptuous：一个 Python 数据验证库。主要是为了验证传入 Python 的 JSON，YAML 等数据。[官网](https://github.com/alecthomas/voluptuous)
+*   jsonschema：[JSON Schema](http://json-schema.org/)的python实现，用于JSON数据的验证。[官网](https://github.com/Julian/jsonschema)
 
 ### 反垃圾技术
 
@@ -673,7 +674,7 @@ Python 实现的数据库。
 
 管理界面库。
 
-*   Ajenti：一个你的服务器值得拥有的管理面板。[官网](https://github.com/Eugeny/ajenti)
+*   Ajenti：一个你的服务器值得拥有的管理面板。[官网](https://github.com/ajenti/ajenti)
 *   django-suit：Django 管理界面的一个替代品 (仅对于非商业用途是免费的)。[官网](http://djangosuit.com/)
 *   django-xadmin：Django admin 的一个替代品，具有很多不错的功能。[官网](https://github.com/sshwsfc/django-xadmin)
 *   flask-admin：一个用于 Flask 的简单可扩展的管理界面框架。[官网](https://github.com/flask-admin/flask-admin)
