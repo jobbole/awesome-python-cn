@@ -673,7 +673,7 @@ Python 实现的数据库。
 
 管理界面库。
 
-*   Ajenti：一个你的服务器值得拥有的管理面板。[官网](https://github.com/Eugeny/ajenti)
+*   Ajenti：一个你的服务器值得拥有的管理面板。[官网](https://github.com/ajenti/ajenti)
 *   django-suit：Django 管理界面的一个替代品 (仅对于非商业用途是免费的)。[官网](http://djangosuit.com/)
 *   django-xadmin：Django admin 的一个替代品，具有很多不错的功能。[官网](https://github.com/sshwsfc/django-xadmin)
 *   flask-admin：一个用于 Flask 的简单可扩展的管理界面框架。[官网](https://github.com/flask-admin/flask-admin)
