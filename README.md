@@ -655,6 +655,7 @@ Python 实现的数据库。
 *   Schematics：数据结构验证。[官网](https://github.com/schematics/schematics)
 *   valideer：轻量级可扩展的数据验证和适配库。[官网](https://github.com/podio/valideer)
 *   voluptuous：一个 Python 数据验证库。主要是为了验证传入 Python 的 JSON，YAML 等数据。[官网](https://github.com/alecthomas/voluptuous)
+*   jsonschema：[JSON Schema](http://json-schema.org/)的python实现，用于JSON数据的验证。[官网](https://github.com/Julian/jsonschema)
 
 ### 反垃圾技术
 
