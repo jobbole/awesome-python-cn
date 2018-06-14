@@ -365,6 +365,7 @@ Python 实现的数据库。
     *   dataset：在数据库中存储 Python 字典
     *   pymssql：一个简单的 Microsoft SQL Server 数据库接口。[官网](http://www.pymssql.org/en/latest/)
 *   NoSQL 数据库
+    *   asyncio-redis：基于 asyncio 的 redis 客户端 (PEP 3156)。[官网](https://github.com/jonathanslenders/asyncio-redis)
     *   cassandra-python-driver：Cassandra 的 Python 驱动。[官网](https://github.com/datastax/python-driver)
     *   HappyBase：一个为 Apache HBase 设计的，对开发者友好的库。[官网](http://happybase.readthedocs.org/en/latest/)
     *   Plyvel：一个快速且功能丰富的 LevelDB 的 Python 接口。[官网](https://plyvel.readthedocs.org/en/latest/)
@@ -655,7 +656,7 @@ Python 实现的数据库。
 *   Schematics：数据结构验证。[官网](https://github.com/schematics/schematics)
 *   valideer：轻量级可扩展的数据验证和适配库。[官网](https://github.com/podio/valideer)
 *   voluptuous：一个 Python 数据验证库。主要是为了验证传入 Python 的 JSON，YAML 等数据。[官网](https://github.com/alecthomas/voluptuous)
-*   jsonschema：[JSON Schema](http://json-schema.org/)的python实现，用于JSON数据的验证。[官网](https://github.com/Julian/jsonschema)
+*   jsonschema：[JSON Schema](http://json-schema.org/)的 python 实现，用于 JSON 数据的验证。[官网](https://github.com/Julian/jsonschema)
 
 ### 反垃圾技术
 
