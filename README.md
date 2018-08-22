@@ -940,6 +940,7 @@ Python实现的数据库。
 *   pyocr：Tesseract和Cuneiform的包装库。[官网](https://github.com/jflesch/pyocr)
 *   pytesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr)的另一包装库。[官网](https://github.com/madmaze/pytesseract)
 *   [SimpleCV](http://hao.jobbole.com/simplecv/)：一个用来创建计算机视觉应用的开源框架。[官网](http://simplecv.org/)
+*   aircv：在待查找图像中定位目标图像的位置。[官网](https://github.com/NetEaseGame/aircv)
 
 ### 机器学习
 
