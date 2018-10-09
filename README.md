@@ -572,6 +572,7 @@ Python 实现的数据库。
 *   modoboa：一个邮件托管和管理平台，具有现代的、简约的 Web UI。[官网](https://github.com/tonioo/modoboa)
 *   pyzmail：创建，发送和解析电子邮件。[官网](http://www.magiksys.net/pyzmail/)
 *   Talon：Mailgun 库，用来抽取信息和签名。[官网](https://github.com/mailgun/talon)
+*   yagmail：yagmail是一个GMAIL / SMTP客户端，旨在使其尽可能简单地发送电子邮件。[官网](https://pypi.org/project/yagmail/)
 
 ### 国际化
 
