@@ -54,6 +54,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   pip：Python 包和依赖关系管理工具。[官网](https://pip.pypa.io/)
 *   pip-tools：保证 Python 包依赖关系更新的一组工具。[官网](https://github.com/nvie/pip-tools)
 *   pipenv：Pyhton 官方推荐的新一代包管理工具。[官网](https://github.com/pypa/pipenv)
+*   poetry: 可完全取代 setup.py 的包管理工具。[官网](https://poetry.eustace.io)
 *   conda：跨平台，Python 二进制包管理工具。[官网](https://github.com/conda/conda/)
 *   Curdling：管理 Python 包的命令行工具。[官网](http://clarete.li/curdling/)
 *   wheel：Python 分发的新标准，意在取代 eggs。[官网](http://pythonwheels.com/)
