@@ -790,7 +790,7 @@ Python 实现的数据库。
 超赞的游戏开发库。
 
 *   Cocos2d：cocos2d 是一个用来开发 2D 游戏， 示例和其他图形/交互应用的框架。基于 pyglet。[官网](http://cocos2d.org/)
-*   Harfang3D : HARFANG 3D是3D/VR 游戏引擎，可用于开发Windows及Linux平台的软件。 (https://www.harfang3d.com)
+*   HARFANG® 3D : HARFANG 3D是3D/VR 游戏引擎，可用于开发Windows及Linux平台的软件。 [官网](https://www.harfang3d.com)
 *   Panda3D：由迪士尼开发的 3D 游戏引擎，并由卡内基梅陇娱乐技术中心负责维护。使用 C++ 编写, 针对 Python 进行了完全的封装。[官网](https://www.panda3d.org/)
 *   Pygame：Pygame 是一组 Python 模块，用来编写游戏。[官网](http://www.pygame.org/news.html)
 *   PyOgre：Ogre 3D 渲染引擎的 Python 绑定，可以用来开发游戏和仿真程序等任何 3D 应用。[官网](http://www.ogre3d.org/tikiwiki/PyOgre)
