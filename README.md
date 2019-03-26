@@ -611,6 +611,7 @@ Python 实现的数据库。
 爬取网络站点的库
 
 *   Scrapy：一个快速高级的屏幕爬取及网页采集框架。[官网](http://scrapy.org/)
+*   ScrapydWeb：一个用于 Scrapyd 集群管理的全功能 web UI，支持 Scrapy 日志分析和可视化，自动打包，定时器任务和邮件通知等特色功能。[官网](https://github.com/my8100/scrapydweb)
 *   cola：一个分布式爬虫框架。[官网](https://github.com/chineking/cola)
 *   Demiurge：基于 PyQuery 的爬虫微型框架。[官网](https://github.com/matiasb/demiurge)
 *   feedparser：通用 feed 解析器。[官网](http://pythonhosted.org/feedparser/)
