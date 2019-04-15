@@ -366,6 +366,7 @@ Python 实现的数据库。
     *   dataset：在数据库中存储 Python 字典
     *   pymssql：一个简单的 Microsoft SQL Server 数据库接口。[官网](http://www.pymssql.org/en/latest/)
 *   NoSQL 数据库
+    *   aioredis: [aioredis](asyncio (PEP 3156) Redis client library.)
     *   asyncio-redis：基于 asyncio 的 redis 客户端 (PEP 3156)。[官网](https://github.com/jonathanslenders/asyncio-redis)
     *   cassandra-python-driver：Cassandra 的 Python 驱动。[官网](https://github.com/datastax/python-driver)
     *   HappyBase：一个为 Apache HBase 设计的，对开发者友好的库。[官网](http://happybase.readthedocs.org/en/latest/)
@@ -1017,6 +1018,8 @@ MapReduce 框架和库。
 *   pexpect：Controlling interactive programs in a pseudo-terminal like 在一个伪终端中控制交互程序，就像 GNU expect 一样。[官网](https://github.com/pexpect/pexpect)
 *   psutil：一个跨平台进程和系统工具模块。[官网](https://github.com/giampaolo/psutil)
 *   supervisor：UNIX 的进程控制系统。[官网](https://github.com/Supervisor/supervisor)
+*   JenkinsAPI: Jenkins API For python
+*   python-jenkins: [python-jenkins](https://python-jenkins.readthedocs.io/en/latest/)
 
 ### 任务调度
 
