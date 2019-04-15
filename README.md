@@ -255,6 +255,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   mycli：一个 MySQL 命令行客户端，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/mycli)
     *   pgcli：Postgres 命令行工具，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/pgcli)
     *   try：一个从来没有更简单的命令行工具，用来试用 python 库。[官网](https://github.com/timofurrer/try)
+    *   CUP: common useful python-lib. (Currently, Most popular python lib in baidu) http://cup.iobusy.com
 
 ### 下载器
 
