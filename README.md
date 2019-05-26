@@ -73,6 +73,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 打包为可执行文件以便分发。
 
 *   PyInstaller：将 Python 程序转换成独立的执行文件（跨平台）。[官网](https://github.com/pyinstaller/pyinstaller)
+*   cx_Freeze：将python程序转换为带有一个动态链接库的可执行文件。[官网](https://cx-freeze.readthedocs.io/en/latest/index.html)
 *   dh-virtualenv：构建并将 virtualenv 虚拟环境作为一个 Debian 包来发布。[官网](http://dh-virtualenv.readthedocs.org/)
 *   Nuitka：将脚本、模块、包编译成可执行文件或扩展模块。[官网](http://nuitka.net/)
 *   py2app：将 Python 脚本变为独立软件包（Mac OS X）。[官网](http://pythonhosted.org/py2app/)
