@@ -1110,6 +1110,7 @@ Python 实现的算法和设计模式。
 *   [algorithms](http://hao.jobbole.com/algorithms/)：一个 Python 算法模块。[官网](https://github.com/nryoung/algorithms) 
 *   python-patterns：Python 设计模式的集合。[官网](https://github.com/faif/python-patterns)
 *   sortedcontainers：快速，纯 Python 实现的 SortedList，SortedDict 和 SortedSet 类型。[官网](http://www.grantjenks.com/docs/sortedcontainers/)
+*   Python：使用Python实现的算法大全。[官网](https://github.com/TheAlgorithms/Python)
 
 ### 编辑器插件
 
