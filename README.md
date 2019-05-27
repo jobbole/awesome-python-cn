@@ -46,6 +46,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Vex：可以在虚拟环境中执行命令。[官网](https://github.com/sashahart/vex)
 *   virtualenv：创建独立 Python 环境的工具。[官网](https://pypi.python.org/pypi/virtualenv)
 *   virtualenvwrapper：virtualenv 的一组扩展。[官网](https://pypi.python.org/pypi/virtualenvwrapper)
+*   buildout：在隔离环境初始化后使用声明性配置管理。[官网](http://www.buildout.org/en/latest)
 
 ### 包管理
 
