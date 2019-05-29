@@ -46,6 +46,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Vex：可以在虚拟环境中执行命令。[官网](https://github.com/sashahart/vex)
 *   virtualenv：创建独立 Python 环境的工具。[官网](https://pypi.python.org/pypi/virtualenv)
 *   virtualenvwrapper：virtualenv 的一组扩展。[官网](https://pypi.python.org/pypi/virtualenvwrapper)
+*   buildout：在隔离环境初始化后使用声明性配置管理。[官网](http://www.buildout.org/en/latest)
 
 ### 包管理
 
@@ -1109,6 +1110,7 @@ Python 实现的算法和设计模式。
 *   [algorithms](http://hao.jobbole.com/algorithms/)：一个 Python 算法模块。[官网](https://github.com/nryoung/algorithms) 
 *   python-patterns：Python 设计模式的集合。[官网](https://github.com/faif/python-patterns)
 *   sortedcontainers：快速，纯 Python 实现的 SortedList，SortedDict 和 SortedSet 类型。[官网](http://www.grantjenks.com/docs/sortedcontainers/)
+*   Python：使用Python实现的算法大全。[官网](https://github.com/TheAlgorithms/Python)
 
 ### 编辑器插件
 
