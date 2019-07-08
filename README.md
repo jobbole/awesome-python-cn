@@ -576,6 +576,7 @@ Python 实现的数据库。
 *   pyzmail：创建，发送和解析电子邮件。[官网](http://www.magiksys.net/pyzmail/)
 *   Talon：Mailgun 库，用来抽取信息和签名。[官网](https://github.com/mailgun/talon)
 *   yagmail：yagmail是一个GMAIL / SMTP客户端，旨在使其尽可能简单地发送电子邮件。[官网](https://pypi.org/project/yagmail/)
+*   zmail：zmail是一个SMTP/POP3客户端，拥有简洁的API，能够非常方便的发送和接受邮件。[官网](https://github.com/ZYunH/zmail)
 
 ### 国际化
 
