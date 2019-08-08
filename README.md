@@ -327,7 +327,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   GeoIP：MaxMind GeoIP Legacy 数据库的 Python API。[官网](https://github.com/maxmind/geoip-api-python)
 *   geojson：GeoJSON 的 Python 绑定及工具。[官网](https://github.com/frewsxcv/python-geojson)
 *   geopy：Python 地址编码工具箱。[官网](https://github.com/geopy/geopy)
-*   pygeoip：纯 Python GeoIP API。[官网](https://github.com/appliedsec/pygeoip)
+*   GeoIP2：GeoIP2 Webservice 客户端与数据库 Python API。[官网](https://github.com/maxmind/GeoIP2-python)
 *   django-countries：一个 Django 应用程序，提供用于表格的国家选择功能，国旗图标静态文件以及模型中的国家字段。[官网](https://github.com/SmileyChris/django-countries)
 
 ### HTTP
