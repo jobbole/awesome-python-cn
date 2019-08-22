@@ -95,7 +95,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 交互式解析器
 
 交互式 Python 解析器。
-
+*   Jupyter Notebook: 现代 Python 最新的必学工具，让你在浏览器上与 Python 程序交互式，功能强大，界面友好，谁用谁知道。[官网](https://jupyter.org/)
 *   IPython：功能丰富的工具，非常有效的使用交互式 Python。[官网](https://github.com/ipython/ipython)
 *   [bpython](http://hao.jobbole.com/bpython/)：界面丰富的 Python 解析器。[官网](http://bpython-interpreter.org/)
 *   ptpython：高级交互式 Python 解析器， 构建于 [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) 之上。[官网](https://github.com/jonathanslenders/ptpython)
@@ -1071,7 +1071,7 @@ MapReduce 框架和库。
 *   Mininet：一款流行的网络模拟器以及用 Python 编写的 API。[官网](http://mininet.org/)
 *   POX：一个针对基于 Python 的软件定义网络应用（例如 OpenFlow SDN 控制器）的开源开发平台。[官网](https://github.com/noxrepo/pox)
 *   Pyretic：火热的 SDN 编程语言中的一员，为网络交换机和模拟器提供强大的抽象能力。[官网](http://frenetic-lang.org/pyretic/)
-*   SDX Platform：基于 SDN 的 IXP 实现，影响了 Mininet, POX 和 Pyretic。[官网](https://github.com/sdn-ixp/internet2award)
+*   SDX Platform：基于 SDN 的 IXP 实现，影响了 Mininet, POX 和 Pyretic。[官网](https://github.com/sdn-ixp/internet2award)
 *   NRU：一个基于组件的软件定义网络框架。[官网](http://ryu.readthedocs.io/en/latest/)
 
 ### 硬件
@@ -1141,6 +1141,7 @@ Python 实现的算法和设计模式。
 用于开发聊天机器人的库
 
 *   Errbot：最简单和最流行的聊天机器人用来实现自动聊天工具。[官网](http://errbot.io/en/latest/)
+*   wxpy：最简单最好用的微信个人号API，可以用来自动聊天，消息永久保存，监控消息等。[github链接](https://github.com/youfou/wxpy)
 
 ## 服务
 
