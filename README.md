@@ -10,9 +10,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-python 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[Scrapy：Python 的爬虫框架](http://hao.jobbole.com/python-scrapy/)》
-  - 《[Flask：一个使用 Python 编写的轻量级 Web 应用框架](http://hao.jobbole.com/flask/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.importnew.com/)。可参考已整理的内容：
+  - 《[Scrapy：Python 的爬虫框架](http://hao.importnew.com/python-scrapy/)》
+  - 《[Flask：一个使用 Python 编写的轻量级 Web 应用框架](http://hao.importnew.com/flask/)》
 
 
 ### 如何为列表贡献新资源？
@@ -30,7 +30,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、[л stalgic](http://www.jobbole.com/members/fengfeng19910805/)、[硕恩](http://www.jobbole.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.jobbole.com/members/yuukilp/)、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.importnew.com/members/huanglimin/)、[atupal](http://www.importnew.com/members/atupal/)、[rainbow](http://www.importnew.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.importnew.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.importnew.com/members/libing1209/)、[赵叶宇](http://www.importnew.com/members/nelsonzhao/)、[л stalgic](http://www.importnew.com/members/fengfeng19910805/)、[硕恩](http://www.importnew.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.importnew.com/members/yuukilp/)、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)
 
 注：名单不分排名，不定期补充更新
 
@@ -97,7 +97,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 交互式 Python 解析器。
 
 *   IPython：功能丰富的工具，非常有效的使用交互式 Python。[官网](https://github.com/ipython/ipython)
-*   [bpython](http://hao.jobbole.com/bpython/)：界面丰富的 Python 解析器。[官网](http://bpython-interpreter.org/)
+*   [bpython](http://hao.importnew.com/bpython/)：界面丰富的 Python 解析器。[官网](http://bpython-interpreter.org/)
 *   ptpython：高级交互式 Python 解析器， 构建于 [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) 之上。[官网](https://github.com/jonathanslenders/ptpython)
 
 ### 文件
@@ -133,7 +133,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 用于解析和操作文本的库。
 
 *   通用
-    *   [chardet](http://hao.jobbole.com/chardet/)：字符编码检测器，兼容 Python2 和 Python3。[官网](https://github.com/chardet/chardet)
+    *   [chardet](http://hao.importnew.com/chardet/)：字符编码检测器，兼容 Python2 和 Python3。[官网](https://github.com/chardet/chardet)
     *   difflib：(Python 标准库)帮助我们进行差异化比较。[官网](https://docs.python.org/2/library/difflib.html)
     *   ftfy：让 Unicode 文本更完整更连贯。[官网](https://github.com/LuminosoInsight/python-ftfy)
     *   fuzzywuzzy：模糊字符串匹配。[官网](https://github.com/seatgeek/fuzzywuzzy)
@@ -175,7 +175,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   unoconv：在 LibreOffice/OpenOffice 支持的任意文件格式之间进行转换。[官网](https://github.com/dagwieers/unoconv)
     *   XlsxWriter：一个用于创建 Excel .xlsx 文件的 Python 模块。[官网](https://xlsxwriter.readthedocs.org/en/latest/)
     *   xlwings：一个使得在 Excel 中方便调用 Python 的库（反之亦然），基于 BSD 协议。[官网](http://xlwings.org/)
-    *   [xlwt](http://hao.jobbole.com/xlwt/)：读写 Excel 文件的数据和格式信息。[官网](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd)
+    *   [xlwt](http://hao.importnew.com/xlwt/)：读写 Excel 文件的数据和格式信息。[官网](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd)
 *   PDF
     *   PDFMiner：一个用于从 PDF 文档中抽取信息的工具。[官网](https://github.com/euske/pdfminer)
     *   PyPDF2：一个可以分割，合并和转换 PDF 页面的库。[官网](https://github.com/mstamy2/PyPDF2)
@@ -195,7 +195,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 用来处理人类语言的库。
 
-*   [NLTK](http://hao.jobbole.com/nltk/)：一个先进的平台，用以构建处理人类语言数据的 Python 程序。[官网](http://www.nltk.org/)
+*   [NLTK](http://hao.importnew.com/nltk/)：一个先进的平台，用以构建处理人类语言数据的 Python 程序。[官网](http://www.nltk.org/)
 *   jieba：中文分词工具。[官网](https://github.com/fxsjy/jieba)
 *   langid.py：独立的语言识别系统。[官网](https://github.com/saffsd/langid.py)
 *   Pattern：Python 网络信息挖掘模块。[官网](http://www.clips.ua.ac.be/pattern)
@@ -208,7 +208,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 用以生成项目文档的库。
 
-*   [Sphinx](http://hao.jobbole.com/sphinx/)：Python 文档生成器。[官网](http://www.sphinx-doc.org/en/latest/)
+*   [Sphinx](http://hao.importnew.com/sphinx/)：Python 文档生成器。[官网](http://www.sphinx-doc.org/en/latest/)
 *   awesome-sphinxdoc：[官网](https://github.com/yoloseem/awesome-sphinxdoc)
 *   MkDocs：对 Markdown 友好的文档生成器。[官网](http://www.mkdocs.org/)
 *   pdoc：一个可以替换 Epydoc 的库，可以自动生成 Python 库的 API 文档。[官网](https://github.com/BurntSushi/pdoc)
@@ -240,7 +240,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   Gooey：一条命令，将命令行程序变成一个 GUI 程序。[官网](https://github.com/chriskiehl/Gooey)
     *   python-prompt-toolkit：一个用于构建强大的交互式命令行程序的库。[官网](https://github.com/jonathanslenders/python-prompt-toolkit)
     *   python-fire：Google 出品的一个基于 Python 类的构建命令行界面的库。[官网](https://github.com/google/python-fire)
-    *   [Pythonpy](http://hao.jobbole.com/pythonpy/)：在命令行中直接执行任何 Python 指令。[官网](https://github.com/Russell91/pythonpy/wiki)
+    *   [Pythonpy](http://hao.importnew.com/pythonpy/)：在命令行中直接执行任何 Python 指令。[官网](https://github.com/Russell91/pythonpy/wiki)
 *   生产力工具
     *   aws-cli：Amazon Web Services 的通用命令行界面。[官网](https://github.com/aws/aws-cli)
     *   bashplotlib：在终端中进行基本绘图。[官网](https://github.com/glamp/bashplotlib)
@@ -271,7 +271,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 用来操作图像的库.
 
-*   [pillow](http://hao.jobbole.com/pillow/)：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。[官网](http://pillow.readthedocs.org/en/latest/)
+*   [pillow](http://hao.importnew.com/pillow/)：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。[官网](http://pillow.readthedocs.org/en/latest/)
 *   hmap：图像直方图映射。[官网](https://github.com/rossgoodwin/hmap)
 *   imgSeek：一个使用视觉相似性搜索一组图片集合的项目。[官网](https://sourceforge.net/projects/imgseek/)
 *   nude.py：裸体检测。[官网](https://github.com/hhatto/nude.py)
@@ -289,7 +289,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 光学字符识别库。
 
 *   pyocr：Tesseract 和 Cuneiform 的一个封装(wrapper)。[官网](https://github.com/jflesch/pyocr)
-*   [pytesseract](http://hao.jobbole.com/pytesseract/)：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一个封装(wrapper)。[官网](https://github.com/madmaze/pytesseract)
+*   [pytesseract](http://hao.importnew.com/pytesseract/)：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一个封装(wrapper)。[官网](https://github.com/madmaze/pytesseract)
 *   python-tesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个包装类。
 
 ### 音频
@@ -300,7 +300,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   audioread：交叉库 (GStreamer + Core Audio + MAD + FFmpeg) 音频解码。[官网](https://github.com/beetbox/audioread)
 *   beets：一个音乐库管理工具及 [MusicBrainz](https://musicbrainz.org/) 标签添加工具。[官网](http://beets.io/)
 *   dejavu：音频指纹提取和识别。[官网](https://github.com/worldveil/dejavu)
-*   [django-elastic-transcoder](http://hao.jobbole.com/django-elastic-transcoder/)：Django + [Amazon Elastic Transcoder](http://aws.amazon.com/elastictranscoder/)。[官网](https://github.com/StreetVoice/django-elastic-transcoder)
+*   [django-elastic-transcoder](http://hao.importnew.com/django-elastic-transcoder/)：Django + [Amazon Elastic Transcoder](http://aws.amazon.com/elastictranscoder/)。[官网](https://github.com/StreetVoice/django-elastic-transcoder)
 *   eyeD3：一个用来操作音频文件的工具，具体来讲就是包含 ID3 元信息的 MP3 文件。[官网](http://eyed3.nicfit.net/)
 *   id3reader：一个用来读取 MP3 元数据的 Python 模块。[官网](http://nedbatchelder.com/code/modules/id3reader.py)
 *   m3u8：一个用来解析 m3u8 文件的模块。[官网](https://github.com/globocom/m3u8)
@@ -387,7 +387,7 @@ Python 实现的数据库。
     *   Django Models：Django 的一部分。[官网](https://docs.djangoproject.com/en/dev/topics/db/models/)
     *   SQLAlchemy：Python SQL 工具以及对象关系映射工具。[官网](http://www.sqlalchemy.org/)
         *   [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) 系列
-    *   [Peewee](http://hao.jobbole.com/peewee/)：一个小巧，富有表达力的 ORM。[官网](https://github.com/coleifer/peewee)
+    *   [Peewee](http://hao.importnew.com/peewee/)：一个小巧，富有表达力的 ORM。[官网](https://github.com/coleifer/peewee)
     *   PonyORM：提供面向生成器的 SQL 接口的 ORM。[官网](https://ponyorm.com/)
     *   python-sql：编写 Python 风格的 SQL 查询。[官网](https://pypi.python.org/pypi/python-sql)
 *   NoSQL 数据库
@@ -404,18 +404,18 @@ Python 实现的数据库。
 
 全栈 Web 框架。
 
-*   [Django](http://hao.jobbole.com/django/)：Python 界最流行的 web 框架。[官网](https://www.djangoproject.com/)
+*   [Django](http://hao.importnew.com/django/)：Python 界最流行的 web 框架。[官网](https://www.djangoproject.com/)
     *   [awesome-django](https://gitlab.com/rosarior/awesome-django) 系列
-*   [Flask](http://hao.jobbole.com/flask/)：一个 Python 微型框架。[官网](http://flask.pocoo.org/)
+*   [Flask](http://hao.importnew.com/flask/)：一个 Python 微型框架。[官网](http://flask.pocoo.org/)
     *   [awesome-flask](https://github.com/humiaozuzu/awesome-flask) 系列
 *   pyramid：一个小巧，快速，接地气的开源 Python web 框架。
     *   [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) 系列
-*   [Bottle](http://hao.jobbole.com/bottle/)：一个快速小巧，轻量级的 WSGI 微型 web 框架。[官网](http://bottlepy.org/docs/dev/index.html)
+*   [Bottle](http://hao.importnew.com/bottle/)：一个快速小巧，轻量级的 WSGI 微型 web 框架。[官网](http://bottlepy.org/docs/dev/index.html)
 *   CherryPy：一个极简的 Python web 框架，服从 HTTP/1.1 协议且具有 WSGI 线程池。[官网](http://www.cherrypy.org/)
 *   TurboGears：一个可以扩展为全栈解决方案的微型框架。[官网](http://www.turbogears.org/)
-*   [web.py](http://hao.jobbole.com/python-webpy/)：一个 Python 的 web 框架，既简单，又强大。[官网](http://webpy.org/)
+*   [web.py](http://hao.importnew.com/python-webpy/)：一个 Python 的 web 框架，既简单，又强大。[官网](http://webpy.org/)
 *   web2py：一个全栈 web 框架和平台，专注于简单易用。[官网](http://www.web2py.com/)
-*   [Tornado](http://hao.jobbole.com/tornado/)：一个 web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/)
+*   [Tornado](http://hao.importnew.com/tornado/)：一个 web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/)
 *   sanic：基于 Python3.5+ 的异步网络框架。[官网](https://github.com/channelcat/sanic/)
 
 ### 权限
@@ -439,7 +439,7 @@ Python 实现的数据库。
 *   Opps：一个为杂志，报纸网站以及大流量门户网站设计的 CMS 平台，基于 Django。[官网](http://opps.github.io/opps/)
 *   Plone：一个构建于开源应用服务器 Zope 之上的 CMS。[官网](https://plone.org/)
 *   Quokka：灵活，可扩展的小型 CMS，基于 Flask 和 MongoDB。[官网](http://quokkaproject.org/)
-*   [Wagtail](http://hao.jobbole.com/wagtail/)：一个 Django 内容管理系统。[官网](https://wagtail.io/)
+*   [Wagtail](http://hao.importnew.com/wagtail/)：一个 Django 内容管理系统。[官网](https://wagtail.io/)
 *   Widgy：最新的 CMS 框架，基于 Django。[官网](https://wid.gy/)
 
 ### 电子商务
@@ -460,7 +460,7 @@ Python 实现的数据库。
 用来开发 RESTful APIs 的库
 
 *   Django
-    *   [django-rest-framework](http://hao.jobbole.com/django-rest-framework/)：一个强大灵活的工具，用来构建 web API。[官网](http://www.django-rest-framework.org/)
+    *   [django-rest-framework](http://hao.importnew.com/django-rest-framework/)：一个强大灵活的工具，用来构建 web API。[官网](http://www.django-rest-framework.org/)
     *   django-tastypie：为 Django 应用开发 API。[官网](http://tastypieapi.org/)
     *   django-formapi：为 Django 的表单验证，创建 JSON APIs 。[官网](https://github.com/5monkeys/django-formapi)
 *   Flask
@@ -502,7 +502,7 @@ Python 实现的数据库。
 
 模板生成和词法解析的库和工具。
 
-*   [Jinja2](http://hao.jobbole.com/jinja2/)：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/pallets/jinja)
+*   [Jinja2](http://hao.importnew.com/jinja2/)：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/pallets/jinja)
 *   Chameleon：一个 HTML/XML 模板引擎。 模仿了 ZPT（Zope Page Templates）, 进行了速度上的优化。[官网](https://chameleon.readthedocs.org/en/latest/)
 *   Genshi：Python 模板工具，用以生成 web 感知的结果。[官网](https://genshi.edgewall.org/)
 *   Mako：Python 平台的超高速轻量级模板。[官网](http://www.makotemplates.org/)
@@ -513,7 +513,7 @@ Python 实现的数据库。
 
 *   celery：一个异步任务队列/作业队列，基于分布式消息传递。[官网](http://www.celeryproject.org/)
 *   huey：小型多线程任务队列。[官网](https://github.com/coleifer/huey)
-*   [mrq](http://hao.jobbole.com/mrq/)：Mr. Queue -一个 Python 的分布式 worker 任务队列， 使用 Redis 和 gevent。[官网](https://github.com/pricingassistant/mrq)
+*   [mrq](http://hao.importnew.com/mrq/)：Mr. Queue -一个 Python 的分布式 worker 任务队列， 使用 Redis 和 gevent。[官网](https://github.com/pricingassistant/mrq)
 *   rq：简单的 Python 作业队列。[官网](http://python-rq.org/)
 *   simpleq：一个简单的，可无限扩张的，基于亚马逊 SQS 的队列。[官网](https://github.com/rdegges/simpleq)
 
@@ -631,9 +631,9 @@ Python 实现的数据库。
 *   html2text：将 HTML 转换为 Markdown 格式文本。[官网](https://github.com/Alir3z4/html2text)
 *   lassie：人性化的网页内容检索库。[官网](https://github.com/michaelhelmick/lassie)
 *   micawber：一个小型网页内容提取库，用来从 URLs 提取富内容。[官网](https://github.com/coleifer/micawber) 
-*   [newspaper](http://hao.jobbole.com/python-newspaper/)：使用 Python 进行新闻提取，文章提取以及内容策展。[官网](https://github.com/codelucas/newspaper)
+*   [newspaper](http://hao.importnew.com/python-newspaper/)：使用 Python 进行新闻提取，文章提取以及内容策展。[官网](https://github.com/codelucas/newspaper)
 *   opengraph：一个用来解析开放内容协议(Open Graph Protocol)的 Python 模块。[官网](https://github.com/erikriver/opengraph)
-*   [python-goose](http://hao.jobbole.com/python-goose/)：HTML 内容/文章提取器。[官网](https://github.com/grangier/python-goose)
+*   [python-goose](http://hao.importnew.com/python-goose/)：HTML 内容/文章提取器。[官网](https://github.com/grangier/python-goose)
 *   python-readability：arc90 公司 readability 工具的 Python 高速端口。[官网](https://github.com/buriy/python-readability)
 *   sanitize：为杂乱的数据世界带来调理性。[官网](https://github.com/Alir3z4/python-sanitize)
 *   sumy：一个为文本文件和 HTML 页面进行自动摘要的模块。[官网](https://github.com/miso-belica/sumy)
@@ -723,7 +723,7 @@ Python 实现的数据库。
 用于网络编程的库。
 
 *   asyncio：(Python 标准库) 异步 I/O, 事件循环, 协程以及任务。[官网](https://docs.python.org/3/library/asyncio.html)
-*   [Twisted](http://hao.jobbole.com/twisted/)：一个事件驱动的网络引擎。[官网](https://twistedmatrix.com/trac/)
+*   [Twisted](http://hao.importnew.com/twisted/)：一个事件驱动的网络引擎。[官网](https://twistedmatrix.com/trac/)
 *   pulsar：事件驱动的并发框架。[官网](https://github.com/quantmind/pulsar)
 *   diesel：基于 Greenlet 的事件 I/O 框架。[官网](https://github.com/dieseldev/diesel)
 *   pyzmq：一个 ZeroMQ 消息库的 Python 封装。[官网](http://zeromq.github.io/pyzmq/)
@@ -745,7 +745,7 @@ Python 实现的数据库。
 
 *   gunicorn：Pre-forked, 部分是由 C 语言编写的。[官网](https://pypi.python.org/pypi/gunicorn)
 *   uwsgi：uwsgi 项目的目的是开发一组全栈工具，用来建立托管服务， 由 C 语言编写。[官网](https://uwsgi-docs.readthedocs.org/en/latest/)
-*   [bjoern](http://hao.jobbole.com/bjoern/)：异步，非常快速，由 C 语言编写。[官网](https://pypi.python.org/pypi/bjoern)
+*   [bjoern](http://hao.importnew.com/bjoern/)：异步，非常快速，由 C 语言编写。[官网](https://pypi.python.org/pypi/bjoern)
 *   fapws3：异步 (仅对于网络端)，由 C 语言编写。[官网](http://www.fapws.org/)
 *   meinheld：异步，部分是由 C 语言编写的。[官网](https://pypi.python.org/pypi/meinheld)
 *   netius：异步，非常快速。[官网](https://github.com/hivesolutions/netius)
@@ -777,7 +777,7 @@ Python 实现的数据库。
 
 *   curses：内建的 [ncurses](http://www.gnu.org/software/ncurses/) 封装，用来创建终端图形用户界面。[官网](https://docs.python.org/2/library/curses.html#module-curses)
 *   enaml：使用类似 QML 的 Declaratic 语法来创建美观的用户界面。[官网](https://github.com/nucleic/enaml)
-*   [kivy](http://hao.jobbole.com/kivy/)：一个用来创建自然用户交互（NUI）应用程序的库，可以运行在 Windows, Linux, Mac OS X, Android 以及 iOS 平台上。[官网](https://kivy.org/)
+*   [kivy](http://hao.importnew.com/kivy/)：一个用来创建自然用户交互（NUI）应用程序的库，可以运行在 Windows, Linux, Mac OS X, Android 以及 iOS 平台上。[官网](https://kivy.org/)
 *   pyglet：一个 Python 的跨平台窗口及多媒体库。[官网](https://bitbucket.org/pyglet/pyglet/wiki/Home)
 *   PyQt：跨平台用户界面框架 [Qt](http://www.qt.io/) 的 Python 绑定 ，支持 Qt v4 和 Qt v5。[官网](https://riverbankcomputing.com/software/pyqt/intro)
 *   PySide：跨平台用户界面框架 [Qt](http://www.qt.io/) 的 Python 绑定 ，支持 Qt v4。[官网](https://wiki.qt.io/PySide)
@@ -886,7 +886,7 @@ Python 实现的数据库。
     *   flask-debugtoolbar：django-debug-toolbar 的 flask 版。[官网](https://github.com/mgood/flask-debugtoolbar)
 *   性能分析器
     *   lineprofiler：逐行性能分析。[官网](https://github.com/rkern/lineprofiler)
-    *   [Memory Profiler](http://hao.jobbole.com/memory_profiler/)：监控 Python 代码的内存使用。[官网](http://pypi.python.org/pypi/memory_profiler)、[内存](https://github.com/fabianp/memoryprofiler)
+    *   [Memory Profiler](http://hao.importnew.com/memory_profiler/)：监控 Python 代码的内存使用。[官网](http://pypi.python.org/pypi/memory_profiler)、[内存](https://github.com/fabianp/memoryprofiler)
     *   profiling：一个交互式 Python 性能分析工具。[官网](https://github.com/what-studio/profiling)
 *   其他
     *   pyelftools：解析和分析 ELF 文件以及 DWARF 调试信息。[官网](https://github.com/eliben/pyelftools)
@@ -897,27 +897,27 @@ Python 实现的数据库。
 用来进行科学计算和数据分析的库。
 
 *   astropy：一个天文学 Python 库。[官网](http://www.astropy.org/)
-*   [bcbio-nextgen](http://hao.jobbole.com/bcbio-nextgen/)：这个工具箱为全自动高通量测序分析提供符合最佳实践的处理流程。[官网](https://github.com/chapmanb/bcbio-nextgen)
+*   [bcbio-nextgen](http://hao.importnew.com/bcbio-nextgen/)：这个工具箱为全自动高通量测序分析提供符合最佳实践的处理流程。[官网](https://github.com/chapmanb/bcbio-nextgen)
 *   bccb：生物分析相关代码集合。[官网](https://github.com/chapmanb/bcbb)
 *   Biopython：Biopython 是一组可以免费使用的用来进行生物计算的工具。[官网](http://biopython.org/wiki/MainPage)
-*   [blaze](http://hao.jobbole.com/blaze/)：NumPy 和 Pandas 的大数据接口。[官网](http://blaze.readthedocs.org/en/latest/index.html)
-*   [cclib](http://hao.jobbole.com/cclib/)：一个用来解析和解释计算化学软件包输出结果的库。[官网](http://cclib.github.io/)
+*   [blaze](http://hao.importnew.com/blaze/)：NumPy 和 Pandas 的大数据接口。[官网](http://blaze.readthedocs.org/en/latest/index.html)
+*   [cclib](http://hao.importnew.com/cclib/)：一个用来解析和解释计算化学软件包输出结果的库。[官网](http://cclib.github.io/)
 *   NetworkX：一个为复杂网络设计的高性能软件。[官网](https://networkx.github.io/)
 *   Neupy：执行和测试各种不同的人工神经网络算法。[官网](http://neupy.com/pages/home.html)
 *   Numba：Python JIT (just in time) 编译器，针对科学用的 Python ，由 Cython 和 NumPy 的开发者开发。[官网](http://numba.pydata.org/)
-*   [NumPy](http://hao.jobbole.com/numpy/)：使用 Python 进行科学计算的基础包。[官网](http://www.numpy.org/)
+*   [NumPy](http://hao.importnew.com/numpy/)：使用 Python 进行科学计算的基础包。[官网](http://www.numpy.org/)
 *   Open Babel：一个化学工具箱，用来描述多种化学数据。[官网](http://openbabel.org/wiki/MainPage)
-*   [Open Mining](http://hao.jobbole.com/open-mining/)：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。[官网](https://github.com/mining/mining)
-*   [orange](http://hao.jobbole.com/orange/)：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[官网](http://orange.biolab.si/)
+*   [Open Mining](http://hao.importnew.com/open-mining/)：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。[官网](https://github.com/mining/mining)
+*   [orange](http://hao.importnew.com/orange/)：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[官网](http://orange.biolab.si/)
 *   Pandas：提供高性能，易用的数据结构和数据分析工具。[官网](http://pandas.pydata.org/)
 *   PyDy：PyDy 是 Python Dynamics 的缩写，用来为动力学运动建模工作流程提供帮助， 基于 NumPy, SciPy, IPython 和 matplotlib。[官网](http://www.pydy.org/)
-*   [PyMC](http://hao.jobbole.com/pymc/)：马尔科夫链蒙特卡洛采样工具。[官网](https://github.com/pymc-devs/pymc3)
+*   [PyMC](http://hao.importnew.com/pymc/)：马尔科夫链蒙特卡洛采样工具。[官网](https://github.com/pymc-devs/pymc3)
 *   RDKit：化学信息学和机器学习软件。[官网](http://www.rdkit.org/)
-*   [SciPy](http://hao.jobbole.com/scipy/)：由一些基于 Python ，用于数学，科学和工程的开源软件构成的生态系统。[官网](http://www.scipy.org/)
-*   [statsmodels](http://hao.jobbole.com/statsmodels/)：统计建模和计量经济学。[官网](https://github.com/statsmodels/statsmodels)
+*   [SciPy](http://hao.importnew.com/scipy/)：由一些基于 Python ，用于数学，科学和工程的开源软件构成的生态系统。[官网](http://www.scipy.org/)
+*   [statsmodels](http://hao.importnew.com/statsmodels/)：统计建模和计量经济学。[官网](https://github.com/statsmodels/statsmodels)
 *   SymPy：一个用于符号数学的 Python 库。[官网](https://github.com/sympy/sympy)
 *   zipline：一个 Python 算法交易库。[官网](https://github.com/quantopian/zipline)
-*   [Bayesian-belief-networks](http://hao.jobbole.com/bayesian-belief-networks/)：优雅的贝叶斯信念网络框架。[官网](https://github.com/eBay/bayesian-belief-networks)
+*   [Bayesian-belief-networks](http://hao.importnew.com/bayesian-belief-networks/)：优雅的贝叶斯信念网络框架。[官网](https://github.com/eBay/bayesian-belief-networks)
 
 ### 数据可视化
 
@@ -942,7 +942,7 @@ Python 实现的数据库。
 *   OpenCV：开源计算机视觉库。[官网](http://opencv.org/)
 *   pyocr：Tesseract 和 Cuneiform 的包装库。[官网](https://github.com/jflesch/pyocr)
 *   pytesseract：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一包装库。[官网](https://github.com/madmaze/pytesseract)
-*   [SimpleCV](http://hao.jobbole.com/simplecv/)：一个用来创建计算机视觉应用的开源框架。[官网](http://simplecv.org/)
+*   [SimpleCV](http://hao.importnew.com/simplecv/)：一个用来创建计算机视觉应用的开源框架。[官网](http://simplecv.org/)
 
 ### 机器学习
 
@@ -957,10 +957,10 @@ Python 实现的数据库。
 *   [MXNet](https://github.com/apache/incubator-mxnet)：一个高效和灵活的深度学习框架。[官网](http://mxnet.incubator.apache.org/)
 *   NuPIC：智能计算 Numenta 平台。[官网](https://github.com/numenta/nupic)
 *   pattern：Python 网络挖掘模块。[官网](https://github.com/clips/pattern)
-*   [PyBrain](http://hao.jobbole.com/pybrain/)：另一个 Python 机器学习库。[官网](https://github.com/pybrain/pybrain)
+*   [PyBrain](http://hao.importnew.com/pybrain/)：另一个 Python 机器学习库。[官网](https://github.com/pybrain/pybrain)
 *   pydeep：Python 深度学习库。[官网](https://github.com/andersbll/deeppy)
-*   [Pylearn2](http://hao.jobbole.com/pylearn2/)：一个基于 [Theano](https://github.com/Theano/Theano) 的机器学习库。[官网](https://github.com/lisa-lab/pylearn2)
-*   [python-recsys](http://hao.jobbole.com/python-recsys/)：一个用来实现推荐系统的 Python 库。[官网](https://github.com/ocelma/python-recsys)
+*   [Pylearn2](http://hao.importnew.com/pylearn2/)：一个基于 [Theano](https://github.com/Theano/Theano) 的机器学习库。[官网](https://github.com/lisa-lab/pylearn2)
+*   [python-recsys](http://hao.importnew.com/python-recsys/)：一个用来实现推荐系统的 Python 库。[官网](https://github.com/ocelma/python-recsys)
 *   [Pytorch](https://github.com/pytorch/pytorch)：一个具有张量和动态神经网络，并有强大 GPU 加速能力的深度学习框架。[官网](http://pytorch.org/)
 *   scikit-learn：基于 SciPy 构建的机器学习 Python 模块。[官网](http://scikit-learn.org/)
 *   skflow：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。[官网](https://github.com/tensorflow/skflow)
@@ -972,7 +972,7 @@ Python 实现的数据库。
 
 MapReduce 框架和库。
 
-*   [dpark](http://hao.jobbole.com/dpark/)：Spark 的 Python 克隆版，一个类似 MapReduce 的框架。[官网](https://github.com/douban/dpark)
+*   [dpark](http://hao.importnew.com/dpark/)：Spark 的 Python 克隆版，一个类似 MapReduce 的框架。[官网](https://github.com/douban/dpark)
 *   dumbo：这个 Python 模块可以让人轻松的编写和运行 Hadoop 程序。[官网](https://github.com/klbostee/dumbo)
 *   luigi：这个模块帮你构建批处理作业的复杂流水线。[官网](https://github.com/spotify/luigi)
 *   mrjob：在 Hadoop 或 Amazon Web Services 上运行 MapReduce 任务。[官网](https://github.com/Yelp/mrjob)
@@ -1040,7 +1040,7 @@ MapReduce 框架和库。
 使用外来函数接口的库。
 
 *   cffi：用来调用 C 代码的外来函数接口。[官网](https://pypi.python.org/pypi/cffi)
-*   [ctypes](http://hao.jobbole.com/ctypes/)：(Python 标准库) 用来调用 C 代码的外来函数接口。[官网](https://docs.python.org/2/library/ctypes.html)
+*   [ctypes](http://hao.importnew.com/ctypes/)：(Python 标准库) 用来调用 C 代码的外来函数接口。[官网](https://docs.python.org/2/library/ctypes.html)
 *   PyCUDA：Nvidia CUDA API 的封装。[官网](https://mathema.tician.de/software/pycuda/)
 *   SWIG：简化的封装和接口生成器。[官网](http://www.swig.org/Doc1.3/Python.html)
 
@@ -1051,7 +1051,7 @@ MapReduce 框架和库。
 *   Cython：优化的 Python 静态编译器。使用类型混合使 Python 编译成 C 或 C++ 模块来获得性能的极大提升。[官网](http://cython.org/)
 *   PeachPy：嵌入 Python 的 x86-64 汇编器。可以被用作 Python 内联的汇编器或者是独立的汇编器，用于 Windows, Linux, OS X, Native Client 或者 Go 。[官网](https://github.com/Maratyszcza/PeachPy)
 *   PyPy：使用 Python 实现的 Python。解释器使用黑魔法加快 Python 运行速度且不需要加入额外的类型信息。[官网](http://pypy.org/)
-*   [Pyston](http://hao.jobbole.com/pyston-llvm-jit/)：使用 LLVM 和现代 JIT 技术构建的 Python 实现，目标是为了获得很好的性能。[官网](https://github.com/dropbox/pyston)
+*   [Pyston](http://hao.importnew.com/pyston-llvm-jit/)：使用 LLVM 和现代 JIT 技术构建的 Python 实现，目标是为了获得很好的性能。[官网](https://github.com/dropbox/pyston)
 *   Stackless Python：一个强化版的 Python。[官网](https://bitbucket.org/stackless-dev/stackless/overview)
 
 ### 微软的 Windows 平台
@@ -1101,13 +1101,13 @@ MapReduce 框架和库。
 *   itsdangerous：一系列辅助工具用来将可信的数据传入不可信的环境。[官网](https://github.com/pallets/itsdangerous)
 *   pluginbase：一个简单但是非常灵活的 Python 插件系统。[官网](https://github.com/mitsuhiko/pluginbase)
 *   Pychievements：一个用来创建和追踪成就的 Python 框架。[官网](https://github.com/PacketPerception/pychievements)
-*   [Tryton](http://hao.jobbole.com/tryton/)：一个通用商务框架。[官网](http://www.tryton.org/)
+*   [Tryton](http://hao.importnew.com/tryton/)：一个通用商务框架。[官网](http://www.tryton.org/)
 
 ### 算法和设计模式
 
 Python 实现的算法和设计模式。
 
-*   [algorithms](http://hao.jobbole.com/algorithms/)：一个 Python 算法模块。[官网](https://github.com/nryoung/algorithms) 
+*   [algorithms](http://hao.importnew.com/algorithms/)：一个 Python 算法模块。[官网](https://github.com/nryoung/algorithms) 
 *   python-patterns：Python 设计模式的集合。[官网](https://github.com/faif/python-patterns)
 *   sortedcontainers：快速，纯 Python 实现的 SortedList，SortedDict 和 SortedSet 类型。[官网](http://www.grantjenks.com/docs/sortedcontainers/)
 *   Python：使用Python实现的算法大全。[官网](https://github.com/TheAlgorithms/Python)
@@ -1122,7 +1122,7 @@ Python 实现的算法和设计模式。
     *   SublimeJEDI：一个 Sublime Text 插件，用来使用超赞的自动补全库 Jedi。[官网](https://github.com/srusskih/SublimeJEDI)
     *   Anaconda：Anaconda 把你的 Sublime Text 3 变成一个功能齐全的 Python IDE。[官网](https://github.com/DamnWidget/anaconda)
 *   Vim
-    *   [YouCompleteMe](http://hao.jobbole.com/youcompleteme/)：引入基于 [Jedi](https://github.com/davidhalter/jedi) 的 Python 自动补全引擎。[官网](https://github.com/Valloric/YouCompleteMe)
+    *   [YouCompleteMe](http://hao.importnew.com/youcompleteme/)：引入基于 [Jedi](https://github.com/davidhalter/jedi) 的 Python 自动补全引擎。[官网](https://github.com/Valloric/YouCompleteMe)
     *   Jedi-vim：绑定 Vim 和 Jedi 自动补全库对 Python 进行自动补全。[官网](https://github.com/davidhalter/jedi-vim)
     *   Python-mode：将 Vim 变成 Python IDE 的一款多合一插件。[官网](https://github.com/klen/python-mode)
 *   Visual Studio
@@ -1198,16 +1198,16 @@ Python 实现的算法和设计模式。
 *   [@PythonWeekly](https://twitter.com/PythonWeekly)
 
 ### 学习指南
-*   [Scipy-lecture-notes](http://hao.jobbole.com/scipy-lecture-notes/)：如何用 Python 来做学术？[官网](https://github.com/scipy-lectures/scipy-lecture-notes)
-*   [SScientific-python-lectures](http://hao.jobbole.com/scientific-python-lectures/)：Python 科学计算的资料。[官网](https://github.com/jrjohansson/scientific-python-lectures)
-*   [Mario-Level-1](http://hao.jobbole.com/mario-level-1/)：用 Python 和 Pygame 写的超级马里奥第一关。[官网](https://github.com/justinmeister/Mario-Level-1)
-*   [Python Koans](http://hao.jobbole.com/python-koans/)：Python 的交互式学习工具。[官网](https://github.com/gregmalcolm/python_koans)
-*   [Minecraft](http://hao.jobbole.com/minecraft-python/)：用 python 写的 Minecraft 游戏。[官网](https://github.com/fogleman/Minecraft)
-*   [pycrumbs](http://hao.jobbole.com/python-pycrumbs/)：Python 资源大全。[官网](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
-*   [python-patterns](http://hao.jobbole.com/python-patterns/)：使用 python 实现设计模式。[官网](https://github.com/faif/python-patterns)
-*   [Projects](http://hao.jobbole.com/python-projects/)：Python 项目大集合。[官网](https://github.com/karan/Projects)
-*   [The Hitchhiker’s Guide to Python](http://hao.jobbole.com/the-hitchhikers-guide-to-python/)：旅行者的 Python 学习指南。[官网](http://docs.python-guide.org/en/latest/)
-*	[Code Like a Pythonista: Idiomatic Python](http://top.jobbole.com/18767/)：如何像 Python 高手(Pythonista)一样编程。[官网](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+*   [Scipy-lecture-notes](http://hao.importnew.com/scipy-lecture-notes/)：如何用 Python 来做学术？[官网](https://github.com/scipy-lectures/scipy-lecture-notes)
+*   [SScientific-python-lectures](http://hao.importnew.com/scientific-python-lectures/)：Python 科学计算的资料。[官网](https://github.com/jrjohansson/scientific-python-lectures)
+*   [Mario-Level-1](http://hao.importnew.com/mario-level-1/)：用 Python 和 Pygame 写的超级马里奥第一关。[官网](https://github.com/justinmeister/Mario-Level-1)
+*   [Python Koans](http://hao.importnew.com/python-koans/)：Python 的交互式学习工具。[官网](https://github.com/gregmalcolm/python_koans)
+*   [Minecraft](http://hao.importnew.com/minecraft-python/)：用 python 写的 Minecraft 游戏。[官网](https://github.com/fogleman/Minecraft)
+*   [pycrumbs](http://hao.importnew.com/python-pycrumbs/)：Python 资源大全。[官网](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+*   [python-patterns](http://hao.importnew.com/python-patterns/)：使用 python 实现设计模式。[官网](https://github.com/faif/python-patterns)
+*   [Projects](http://hao.importnew.com/python-projects/)：Python 项目大集合。[官网](https://github.com/karan/Projects)
+*   [The Hitchhiker’s Guide to Python](http://hao.importnew.com/the-hitchhikers-guide-to-python/)：旅行者的 Python 学习指南。[官网](http://docs.python-guide.org/en/latest/)
+*	[Code Like a Pythonista: Idiomatic Python](http://top.importnew.com/18767/)：如何像 Python 高手(Pythonista)一样编程。[官网](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
 <h3 id="websites">知名网站</h3>
 
@@ -1215,11 +1215,11 @@ Python 实现的算法和设计模式。
 
 <h4>中文站点</h4>
 
-* 伯乐在线 Python 频道：分享 Python 开发技术、相关的行业动态。[官网](http://python.jobbole.com/)
+* 伯乐在线 Python 频道：分享 Python 开发技术、相关的行业动态。[官网](http://python.importnew.com/)
 
 <h4>英文站点</h4>
 
-* 《[值得关注的 10 个 Python 英文博客](http://python.jobbole.com/81730/)》
+* 《[值得关注的 10 个 Python 英文博客](http://python.importnew.com/81730/)》
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
 
