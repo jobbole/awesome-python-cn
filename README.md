@@ -417,6 +417,7 @@ Python 实现的数据库。
 *   web2py：一个全栈 web 框架和平台，专注于简单易用。[官网](http://www.web2py.com/)
 *   [Tornado](http://hao.importnew.com/tornado/)：一个 web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/)
 *   sanic：基于 Python3.5+ 的异步网络框架。[官网](https://github.com/channelcat/sanic/)
+*   starlette: 一款轻量级，高性能的 ASGI 框架  🌟。 [官网](https://www.starlette.io/)
 
 ### 权限
 
@@ -1034,7 +1035,7 @@ MapReduce 框架和库。
 *   Spiff：使用纯 Python 实现的强大的工作流引擎。[官网](https://github.com/knipknap/SpiffWorkflow)
 *   TaskFlow：一个可以让你方便执行任务的 Python 库，一致并且可靠。[官网](http://docs.openstack.org/developer/taskflow/)
 *   AirFlow：Airflow 是Airbnb公司开源的，是一个工作流分配管理系统，通过有向非循环图的方式管理任务流程，设置任务依赖关系和时间调度。[官方](https://airflow.incubator.apache.org/)
- 
+
 ### 外来函数接口
 
 使用外来函数接口的库。
