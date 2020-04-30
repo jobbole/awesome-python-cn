@@ -224,6 +224,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ConfigParser：(Python 标准库) INI 文件解析器。[官网](https://docs.python.org/2/library/configparser.html)
 *   profig：通过多种格式进行配置，具有数值转换功能。[官网](http://profig.readthedocs.org/en/default/)
 *   python-decouple：将设置和代码完全隔离。[官网](https://github.com/henriquebastos/python-decouple)
+*   TextFSM: 基于模板的半结构化文本解析工具，用法简单，扩展性好。[官网](https://github.com/google/textfsm)
 
 ### 命令行工具
 
@@ -1034,7 +1035,7 @@ MapReduce 框架和库。
 *   Spiff：使用纯 Python 实现的强大的工作流引擎。[官网](https://github.com/knipknap/SpiffWorkflow)
 *   TaskFlow：一个可以让你方便执行任务的 Python 库，一致并且可靠。[官网](http://docs.openstack.org/developer/taskflow/)
 *   AirFlow：Airflow 是Airbnb公司开源的，是一个工作流分配管理系统，通过有向非循环图的方式管理任务流程，设置任务依赖关系和时间调度。[官方](https://airflow.incubator.apache.org/)
- 
+
 ### 外来函数接口
 
 使用外来函数接口的库。
