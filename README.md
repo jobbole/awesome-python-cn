@@ -417,6 +417,7 @@ Python 实现的数据库。
 *   web2py：一个全栈 web 框架和平台，专注于简单易用。[官网](http://www.web2py.com/)
 *   [Tornado](http://hao.importnew.com/tornado/)：一个 web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/)
 *   sanic：基于 Python3.5+ 的异步网络框架。[官网](https://github.com/channelcat/sanic/)
+*   starlette: 一款轻量级，高性能的 ASGI 框架  🌟。 [官网](https://www.starlette.io/)
 
 ### 权限
 
