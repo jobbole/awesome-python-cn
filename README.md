@@ -257,6 +257,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   mycli：一个 MySQL 命令行客户端，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/mycli)
     *   pgcli：Postgres 命令行工具，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/pgcli)
     *   try：一个从来没有更简单的命令行工具，用来试用 python 库。[官网](https://github.com/timofurrer/try)
+    *   CUP: 在百度流行的python库[官网](https://github.com/baidu/CUP)
 
 ### 下载器
 
@@ -368,6 +369,7 @@ Python 实现的数据库。
     *   dataset：在数据库中存储 Python 字典
     *   pymssql：一个简单的 Microsoft SQL Server 数据库接口。[官网](http://www.pymssql.org/en/latest/)
 *   NoSQL 数据库
+    *   aioredis: [aioredis](异步Redis客户端库)[官网](https://github.com/aio-libs/aioredis)
     *   asyncio-redis：基于 asyncio 的 redis 客户端 (PEP 3156)。[官网](https://github.com/jonathanslenders/asyncio-redis)
     *   cassandra-python-driver：Cassandra 的 Python 驱动。[官网](https://github.com/datastax/python-driver)
     *   HappyBase：一个为 Apache HBase 设计的，对开发者友好的库。[官网](http://happybase.readthedocs.org/en/latest/)
@@ -1021,6 +1023,8 @@ MapReduce 框架和库。
 *   pexpect：Controlling interactive programs in a pseudo-terminal like 在一个伪终端中控制交互程序，就像 GNU expect 一样。[官网](https://github.com/pexpect/pexpect)
 *   psutil：一个跨平台进程和系统工具模块。[官网](https://github.com/giampaolo/psutil)
 *   supervisor：UNIX 的进程控制系统。[官网](https://github.com/Supervisor/supervisor)
+*   JenkinsAPI: Python版本的Jenkins API库
+*   python-jenkins: Python版本的Jenkins API库[官网](https://python-jenkins.readthedocs.io/en/latest/)
 
 ### 任务调度
 
