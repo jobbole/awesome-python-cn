@@ -180,6 +180,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   PDFMiner：一个用于从 PDF 文档中抽取信息的工具。[官网](https://github.com/euske/pdfminer)
     *   PyPDF2：一个可以分割，合并和转换 PDF 页面的库。[官网](https://github.com/mstamy2/PyPDF2)
     *   ReportLab：快速创建富文本 PDF 文档。[官网](http://www.reportlab.com/opensource/)
+    *   python-pdfkit: 将网页转换为PDF文档。 [官网](https://github.com/JazzCore/python-pdfkit)
 *   Markdown
     *   Mistune：快速并且功能齐全的纯 Python 实现的 Markdown 解析器。[官网](https://github.com/lepture/mistune)
     *   Python-Markdown：John Gruber’s Markdown 的 Python 版实现。[官网](https://github.com/waylan/Python-Markdown)
