@@ -303,7 +303,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [django-elastic-transcoder](http://hao.importnew.com/django-elastic-transcoder/)：Django + [Amazon Elastic Transcoder](http://aws.amazon.com/elastictranscoder/)。[官网](https://github.com/StreetVoice/django-elastic-transcoder)
 *   eyeD3：一个用来操作音频文件的工具，具体来讲就是包含 ID3 元信息的 MP3 文件。[官网](http://eyed3.nicfit.net/)
 *   id3reader：一个用来读取 MP3 元数据的 Python 模块。[官网](http://nedbatchelder.com/code/modules/id3reader.py)
-*   LibROSA：一个用于音乐和音频分析的模块，支持时频处理、特征提取、绘制声音图形等功能。[官网](https://librosa.org/librosa/)
+*   LibROSA：一个用于音乐和音频分析的模块，支持时频处理、特征提取、绘制声音图形等功能。[官网](https://librosa.org/doc/latest/index.html)
 *   m3u8：一个用来解析 m3u8 文件的模块。[官网](https://github.com/globocom/m3u8)
 *   mutagen：一个用来处理音频元数据的 Python 模块。[官网](https://bitbucket.org/lazka/mutagen)
 *   pydub：通过简单、简洁的高层接口来操作音频文件。[官网](https://github.com/jiaaro/pydub)
