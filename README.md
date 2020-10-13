@@ -333,6 +333,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### HTTP
 
 使用 HTTP 的库。
+
 *   aiohttp：基于 asyncio 的异步 HTTP 网络库。[官网](https://github.com/aio-libs/aiohttp)
 *   requests：人性化的 HTTP 请求库。[官网](http://docs.python-requests.org/en/latest/)
 *   grequests：requests 库 + gevent ，用于异步 HTTP 请求.[官网](https://github.com/kennethreitz/grequests)
