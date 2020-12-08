@@ -12,6 +12,9 @@
 ### 本项目的参与者
 
 - 维护者：「开源前哨」和「Python开发者」微信公号
+
+![](https://github.com/jobbole/awesome-python-cn/blob/master/kaiyuanqianshao.jpg?raw=true)
+![](https://github.com/jobbole/awesome-python-cn/blob/master/PythonDev.jpg?raw=true)
 - 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、黄利民、atupal、rainbow、[木头lbj](https://github.com/mutoulbj)、beyondwu、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、冰斌、赵叶宇、л stalgic、硕恩、[strongit](https://github.com/strongit)、yuukilp、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)、[zhucebuliaopx](https://github.com/zhucebuliaopx)、[wardseptember](https://github.com/wardseptember)
 
 注：名单不分排名，不定期补充更新
@@ -1406,36 +1409,3 @@ GraphQL 相关库。
 *   [magenta](https://github.com/magenta/magenta)：使用人工智能生成音乐与艺术的工具。
 *   [pluginbase](https://github.com/mitsuhiko/pluginbase)：一个简单但灵活的Python插件系统。
 *   [tryton](http://www.tryton.org/)：一个通用业务框架。
-
-### 相关站点
-
-* 教程
-  * [Full Stack Python](https://www.fullstackpython.com/)
-  * [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-  * [Real Python](https://realpython.com)
-  * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-  * [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
-* 库
-  * [Awesome Python @LibHunt](https://python.libhunt.com/)
-* 其他
-  * [Python ZEEF](https://python.zeef.com/alan.richmond)
-  * [Pythonic News](https://news.python.sc/)
-  * [What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
-
-### 时事讯息
-
-* [Awesome Python Newsletter](http://python.libhunt.com/newsletter)
-* [Pycoder's Weekly](http://pycoders.com/)
-* [Python Tricks](https://realpython.com/python-tricks/)
-* [Python Weekly](http://www.pythonweekly.com/)
-
-### 播客
-
-* [Django Chat](https://djangochat.com/)
-* [Podcast.\_\_init__](https://podcastinit.com/)
-* [Python Bytes](https://pythonbytes.fm)
-* [Running in Production](https://runninginproduction.com/)
-* [Talk Python To Me](https://talkpython.fm/)
-* [Test and Code](https://testandcode.com/)
-* [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
-
