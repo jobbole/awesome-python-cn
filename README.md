@@ -13,8 +13,7 @@
 
 - 维护者：「开源前哨」和「Python开发者」微信公号
 
-![](https://github.com/jobbole/awesome-python-cn/blob/master/kaiyuanqianshao.jpg?raw=true)
-![](https://github.com/jobbole/awesome-python-cn/blob/master/PythonDev.jpg?raw=true)
+![](https://github.com/jobbole/awesome-python-cn/blob/master/%E5%BC%80%E6%BA%90%E5%89%8D%E5%93%A8%20+%20Python%E4%BA%8C%E7%BB%B4%E7%A0%81.png?raw=true&width=500)
 - 贡献者：唐尤华、[qtvspa](https://github.com/qtvspa)、[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、黄利民、atupal、rainbow、[木头lbj](https://github.com/mutoulbj)、beyondwu、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、冰斌、赵叶宇、л stalgic、硕恩、[strongit](https://github.com/strongit)、yuukilp、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)、[zhucebuliaopx](https://github.com/zhucebuliaopx)、[wardseptember](https://github.com/wardseptember)
 
 注：名单不分排名，不定期补充更新
