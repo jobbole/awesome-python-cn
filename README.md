@@ -205,7 +205,7 @@
 
 用以生成项目文档的库。
 
-*   [Sphinx](http://www.sphinx-doc.org/en/latest/)：Python 文档生成器。
+*   [Sphinx](https://www.sphinx-doc.org/en/master/)：Python 文档生成器。
     * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
 *   [MkDocs](http://www.mkdocs.org/)：对 Markdown 友好的文档生成器。
 *   [pdoc](https://github.com/BurntSushi/pdoc)：一个可以替换 Epydoc 的库，可以自动生成 Python 库的 API 文档。
