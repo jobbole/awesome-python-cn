@@ -842,7 +842,7 @@ Web socket 相关库。
 *   [paste](http://pythonpaste.org/)：多线程，稳定，久经考验。
 *   [rocket](https://pypi.python.org/pypi/rocket)：多线程。
 *   [waitress](https://waitress.readthedocs.org/en/latest/)：多线程, 是它驱动着 Pyramid 框架。
-*   [Werkzeug](http://werkzeug.pocoo.org/)：一个 WSGI 工具库，驱动着 Flask ，而且可以很方便大嵌入到你的项目中去。
+*   [Werkzeug](http://werkzeug.pocoo.org/)：一个 WSGI 工具库，驱动着 Flask ，而且可以很方便的嵌入到你的项目中去。
 
 ### ASGI 服务器
 
