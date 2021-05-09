@@ -17,7 +17,7 @@
 
 管理 Python 版本和环境的工具
 
-*   [p](https://github.com/qw3rtman/p)：非常简单的交互式 python 版本管理工具。
+*   [p](https://github.com/qw3rtman/p)：非常简单的交互式 Python 版本管理工具。
 *   [pyenv](https://github.com/yyuu/pyenv)：简单的 Python 版本管理工具。
 *   [Vex](https://github.com/sashahart/vex)：可以在虚拟环境中执行命令。
 *   [virtualenv](https://pypi.python.org/pypi/virtualenv)：创建独立 Python 环境的工具。
