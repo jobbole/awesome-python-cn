@@ -1175,6 +1175,7 @@ Web socket 相关库。
 *   [Ray](https://github.com/ray-project/ray/)：一个用于并行和分布式 Python 的系统，它统一了机器学习生态系统。
 *   [faust](https://github.com/robinhood/faust)：一个 Python 流处理库，核心思想来源 [Kafka Streams](https://kafka.apache.org/documentation/streams/)。
 *   [streamparse](https://github.com/Parsely/streamparse)：运行针对事实数据流的 Python 代码。集成了 [Apache Storm](http://storm.apache.org/)。
+*   [mars](https://github.com/mars-project/mars)：是基于张量的，用于进行大规模数据计算的统一计算框架。
 
 ### 函数式编程
 
