@@ -415,13 +415,12 @@ Python 实现的数据库。
     *   [SQLAlchemy](http://www.sqlalchemy.org/)：Python SQL 工具以及对象关系映射工具。
         * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
     *   [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) 系列
-    *   [Peewee](https://github.com/coleifer/peewee)：一个小巧，富有表达力的 ORM。
+    *   [Peewee](https://github.com/coleifer/peewee)：一个小巧，富有表现力的 ORM。
     *   [PonyORM](https://ponyorm.com/)：提供面向生成器的 SQL 接口的 ORM。
     *   [python-sql](https://pypi.python.org/pypi/python-sql)：编写 Python 风格的 SQL 查询。
     *   [dataset](https://github.com/pudo/dataset)：在数据库中存储字典，支持 SQLite，MySQL 和 PostgreSQL。
     *   [orator](https://github.com/sdispater/orator)：Orator ORM，提供了一个简单而美观的 ActiveRecord 实现。
     *   [orm](https://github.com/encode/orm)：一个异步的 ORM。
-    *   [peewee](https://github.com/coleifer/peewee)：一个小但是很有表现力的 ORM。
     *   [pony](https://github.com/ponyorm/pony/)：提供面向生成器的SQL接口的ORM。
     *   [pydal](https://github.com/web2py/pydal/)：纯 Python 数据库抽象接口层。
 *   NoSQL 数据库
