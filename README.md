@@ -104,7 +104,6 @@
 *   [dateutil](https://pypi.python.org/pypi/python-dateutil)：Python datetime 模块的扩展。
 *   [delorean](https://github.com/myusuf3/delorean/)：解决 Python 中有关日期处理的棘手问题的库。
 *   [maya](https://github.com/kennethreitz/maya)：人性化的时间处理库。
-*   [moment](https://github.com/zachwill/moment)：一个用来处理时间和日期的 Python 库。灵感来自于 Moment.js。
 *   [pendulum](https://github.com/sdispater/pendulum)：一个比 arrow 更具有明确的，可预测的行为的时间操作库。
 *   [PyTime](https://github.com/shinux/PyTime)：一个简单易用的 Python 模块，用于通过字符串来操作日期/时间。
 *   [pytz](https://launchpad.net/pytz)：现代以及历史版本的世界时区定义。将时区数据库引入 Python。
