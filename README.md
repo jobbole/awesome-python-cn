@@ -302,7 +302,7 @@
 ### OCR
 
 光学字符识别库。
-
+*   [paddleocr](https://github.com/PaddlePaddle/PaddleOCR): 除光学字符识别外还引入了表格识别。
 *   [pyocr](https://gitlab.gnome.org/World/OpenPaperwork/pyocr)：Tesseract 和 Cuneiform 的一个封装。
 *   [pytesseract](https://github.com/madmaze/pytesseract)：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个封装。
 
