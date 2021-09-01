@@ -481,7 +481,7 @@ Web socket 相关库。
 *   [Mezzanine](http://mezzanine.jupo.org/)：一个强大的，持续的，灵活的内容管理平台。
 *   [Opps](http://opps.github.io/opps/)：一个为杂志，报纸网站以及大流量门户网站设计的 CMS 平台，基于 Django。
 *   [Plone](https://plone.org/)：一个构建于开源应用服务器 Zope 之上的 CMS。
-*   [Quokka](http://quokkaproject.org/)：灵活，可扩展的小型 CMS，基于 Flask 和 MongoDB。
+*   [Quokka](https://quintagroup.com/cms/python/quokka)：灵活，可扩展的小型 CMS，基于 Flask 和 MongoDB。
 *   [Wagtail](https://wagtail.io/)：一个 Django 内容管理系统。
 *   [Widgy](https://wid.gy/)：最新的 CMS 框架，基于 Django。
 *   [indico](https://github.com/indico/indico)：一个功能丰富的事件管理系统，由 @[CERN](https://en.wikipedia.org/wiki/CERN) 开发。
