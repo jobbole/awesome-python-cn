@@ -7,7 +7,7 @@
 
 - 维护者：[「开源前哨」和「Python开发者」微信公号团队](https://github-1255921244.cos.ap-nanjing.myqcloud.com/awesome-python-cn.png)。「开源前哨」会定期在知乎专栏分享最新、有趣和热门的开源项目，每个项目都有详细的介绍和示例。传送门：<https://www.zhihu.com/column/c_1317124962785062912>
 
-- 贡献者：[唐尤华](https://github.com/orgs/jobbole/people/tangyouhua)、[qtvspa](https://github.com/qtvspa)、[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、黄利民、atupal、rainbow、[木头lbj](https://github.com/mutoulbj)、beyondwu、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、冰斌、赵叶宇、л stalgic、硕恩、[strongit](https://github.com/strongit)、yuukilp、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)、[zhucebuliaopx](https://github.com/zhucebuliaopx)、[wardseptember](https://github.com/wardseptember)、[vmp65l3](https://github.com/vmp65l3)、[JiaxingZhao](https://github.com/JiaxingZhao)、[zhtyyx](https://github.com/zhtyyx)、You
+- 贡献者：[唐尤华](https://github.com/orgs/jobbole/people/tangyouhua)、[qtvspa](https://github.com/qtvspa)、[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、黄利民、atupal、rainbow、[木头lbj](https://github.com/mutoulbj)、beyondwu、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、冰斌、赵叶宇、л stalgic、硕恩、[strongit](https://github.com/strongit)、yuukilp、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)、[zhucebuliaopx](https://github.com/zhucebuliaopx)、[wardseptember](https://github.com/wardseptember)、[vmp65l3](https://github.com/vmp65l3)、[JiaxingZhao](https://github.com/JiaxingZhao)、[zhtyyx](https://github.com/zhtyyx)、[Lynn Cao](https://github.com/caolincn)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -120,7 +120,7 @@
     *   [chardet](https://github.com/chardet/chardet)：字符编码检测器，兼容 Python 2 和 Python 3。
     *   [difflib](https://docs.python.org/2/library/difflib.html)：(Python 标准库)帮助我们进行差异化比较。
     *   [ftfy](https://github.com/LuminosoInsight/python-ftfy)：让 Unicode 文本更完整更连贯。
-    *   [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)：模糊字符串匹配。
+    *   [thefuzz](https://github.com/seatgeek/thefuzz)：模糊字符串匹配。
     *   [Levenshtein](https://github.com/ztane/python-Levenshtein/)：快速计算编辑距离以及字符串的相似度。
     *   [pangu.py](https://github.com/vinta/pangu.py)：在中日韩语字符和数字字母之间添加空格。
     *   [pypinyin](https://github.com/mozillazg/python-pinyin)：汉字拼音转换工具 Python 版。
