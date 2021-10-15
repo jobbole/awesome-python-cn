@@ -1390,6 +1390,12 @@ GraphQL 相关库。
 * [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi/)：Tartiflette GraphQL 引擎的 ASGI 支持。
 * [tartiflette](https://tartiflette.io)：支持 Python 3.6+ 和 asyncio 的 SDL 优先的 GraphQL 引擎实现。
 
+### 股票金融
+- [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS)：支持任务调度，分布式部署的股票/期货/期权/港股/虚拟货币的数据/回测/模拟/交易/可视化/多账户纯本地量化解决方案
+- [abu](https://github.com/bbfamily/abu): 基于python的开源量化交易，量化投资架构
+- [Hikyuu Quant](https://github.com/fasiondog/hikyuu)：基于C++/Python的开源量化交易研究框架，用于策略分析及回测（仅受限于数据，如有数据也可用于期货等）
+- [vnpy](https://github.com/vnpy/vnpy)：基于Python的开源量化交易系统开发框架，整合了多种交易接口，并针对具体策略算法和功能开发提供了简洁易用的API，用于快速构建交易员所需的量化交易应用
+
 ### 杂项
 
 不属于上面任何一个类别，但是非常有用的库。
