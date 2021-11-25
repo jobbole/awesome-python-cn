@@ -164,6 +164,7 @@
     *   [xlwings](http://xlwings.org/)：一个使得在 Excel 中方便调用 Python 的库（反之亦然），基于 BSD 协议。
     *   [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd)：读写 Excel 文件的数据和格式信息。
     *   [docxtpl](https://github.com/elapouya/python-docx-template)：通过 jinja2 模版编辑 docx 文档。
+    *   [xltpl](https://github.com/zhangyu836/xltpl) ：使用 xls/x 文件作为模板来生成 xls/x 文件。
 *   PDF
     *   [PDFMiner](https://github.com/euske/pdfminer)：一个用于从 PDF 文档中抽取信息的工具。
     *   [PyPDF2](https://github.com/mstamy2/PyPDF2)：一个可以分割，合并和转换 PDF 页面的库。
