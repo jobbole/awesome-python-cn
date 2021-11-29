@@ -666,7 +666,6 @@ Web socket 相关库。
 *   [pyquery](https://github.com/gawel/pyquery)：一个解析 HTML 的库，类似 jQuery。
 *   [requests-html](https://github.com/kennethreitz/requests-html)：人性化的，Pythonic 的 HTML 解析库。
 *   [untangle](https://github.com/stchris/untangle)：将 XML 文档转换为 Python 对象，使其可以方便的访问。
-*   [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)：HTML/CSS 转 PDF 工具。
 *   [xmltodict](https://github.com/martinblech/xmltodict)：像处理 JSON 一样处理 XML。
 *   [WeasyPrint](http://weasyprint.org)：用于HTML和CSS的可视化呈现引擎，并可以导出为 PDF。
 *   [xmldataset](https://xmldataset.readthedocs.io/en/latest/)：简单 XML 解析。
