@@ -7,7 +7,7 @@
 
 - 维护者：[「开源前哨」和「Python开发者」微信公号团队](https://github-1255921244.cos.ap-nanjing.myqcloud.com/awesome-python-cn.png)。「开源前哨」会定期在知乎专栏分享最新、有趣和热门的开源项目，每个项目都有详细的介绍和示例。传送门：<https://www.zhihu.com/column/c_1317124962785062912>
 
-- 贡献者：[唐尤华](https://github.com/orgs/jobbole/people/tangyouhua)、[qtvspa](https://github.com/qtvspa)、[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、黄利民、atupal、rainbow、[木头lbj](https://github.com/mutoulbj)、beyondwu、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、冰斌、赵叶宇、л stalgic、硕恩、[strongit](https://github.com/strongit)、yuukilp、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)、[zhucebuliaopx](https://github.com/zhucebuliaopx)、[wardseptember](https://github.com/wardseptember)
+- 贡献者：[唐尤华](https://github.com/orgs/jobbole/people/tangyouhua)、[qtvspa](https://github.com/qtvspa)、[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、黄利民、atupal、rainbow、[木头lbj](https://github.com/mutoulbj)、beyondwu、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、冰斌、赵叶宇、л stalgic、硕恩、[strongit](https://github.com/strongit)、yuukilp、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)、[zhucebuliaopx](https://github.com/zhucebuliaopx)、[wardseptember](https://github.com/wardseptember)、[vmp65l3](https://github.com/vmp65l3)、[JiaxingZhao](https://github.com/JiaxingZhao)、[zhtyyx](https://github.com/zhtyyx)、[Lynn Cao](https://github.com/caolincn)、[River](https://github.com/lihuafengzi)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -17,7 +17,7 @@
 
 管理 Python 版本和环境的工具
 
-*   [p](https://github.com/qw3rtman/p)：非常简单的交互式 python 版本管理工具。
+*   [p](https://github.com/qw3rtman/p)：非常简单的交互式 Python 版本管理工具。
 *   [pyenv](https://github.com/yyuu/pyenv)：简单的 Python 版本管理工具。
 *   [Vex](https://github.com/sashahart/vex)：可以在虚拟环境中执行命令。
 *   [virtualenv](https://pypi.python.org/pypi/virtualenv)：创建独立 Python 环境的工具。
@@ -104,7 +104,6 @@
 *   [dateutil](https://pypi.python.org/pypi/python-dateutil)：Python datetime 模块的扩展。
 *   [delorean](https://github.com/myusuf3/delorean/)：解决 Python 中有关日期处理的棘手问题的库。
 *   [maya](https://github.com/kennethreitz/maya)：人性化的时间处理库。
-*   [moment](https://github.com/zachwill/moment)：一个用来处理时间和日期的 Python 库。灵感来自于 Moment.js。
 *   [pendulum](https://github.com/sdispater/pendulum)：一个比 arrow 更具有明确的，可预测的行为的时间操作库。
 *   [PyTime](https://github.com/shinux/PyTime)：一个简单易用的 Python 模块，用于通过字符串来操作日期/时间。
 *   [pytz](https://launchpad.net/pytz)：现代以及历史版本的世界时区定义。将时区数据库引入 Python。
@@ -118,10 +117,10 @@
 用于解析和操作文本的库。
 
 *   通用
-    *   [chardet](https://github.com/chardet/chardet)：字符编码检测器，兼容 Python2 和 Python3。
+    *   [chardet](https://github.com/chardet/chardet)：字符编码检测器，兼容 Python 2 和 Python 3。
     *   [difflib](https://docs.python.org/2/library/difflib.html)：(Python 标准库)帮助我们进行差异化比较。
     *   [ftfy](https://github.com/LuminosoInsight/python-ftfy)：让 Unicode 文本更完整更连贯。
-    *   [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)：模糊字符串匹配。
+    *   [thefuzz](https://github.com/seatgeek/thefuzz)：模糊字符串匹配。
     *   [Levenshtein](https://github.com/ztane/python-Levenshtein/)：快速计算编辑距离以及字符串的相似度。
     *   [pangu.py](https://github.com/vinta/pangu.py)：在中日韩语字符和数字字母之间添加空格。
     *   [pypinyin](https://github.com/mozillazg/python-pinyin)：汉字拼音转换工具 Python 版。
@@ -197,7 +196,7 @@
 *   [pytext](https://github.com/facebookresearch/pytext)：基于 PyTouch 的自然语言模型框架。
 *   [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP)：一个支持快速深度学习 NLP 原型研究的工具包。
 *   [spacy](https://spacy.io/)：Python 和 Cython 中用于工业级自然语言处理的库。
-*   [Stanza](https://github.com/stanfordnlp/stanza)：斯坦福 NLP 集团的官方 Python 库，支持60多种语言。
+*   [Stanza](https://github.com/stanfordnlp/stanza)：斯坦福 NLP 集团的官方 Python 库，支持 60 多种语言。
 *   [funNLP](https://github.com/fighting41love/funNLP)：中文自然语言处理的工具和数据集。
 *   [pkuseg-python](https://github.com/lancopku/pkuseg-python)：一个支持对不同领域进行中文分词的工具箱。
 
@@ -246,7 +245,7 @@
     * [tqdm](https://github.com/tqdm/tqdm)：一个可在循环和命令行中使用的快速、可扩展的进度条。
 *   生产力工具
     *   [aws-cli](https://github.com/aws/aws-cli)：Amazon Web Services 的通用命令行界面。
-    *   [caniusepython3](https://github.com/brettcannon/caniusepython3)：判断是哪个项目妨碍你你移植到 Python3。
+    *   [caniusepython3](https://github.com/brettcannon/caniusepython3)：判断是哪个项目妨碍你你移植到 Python 3。
     *   [cookiecutter](https://github.com/audreyr/cookiecutter)：从 cookiecutters（项目模板）创建项目的一个命令行工具。
     *   [doitlive](https://github.com/sloria/doitlive)：一个用来在终端中进行现场演示的工具。
     *   [pyftpdlib](https://github.com/giampaolo/pyftpdlib)：一个速度极快和可扩展的 Python FTP 服务库。
@@ -275,7 +274,7 @@
 
 *   [s3cmd](https://github.com/s3tools/s3cmd)：一个用来管理 Amazon S3 和 CloudFront 的命令行工具。
 *   [s4cmd](https://github.com/bloomreach/s4cmd)：超级 S3 命令行工具，性能更加强劲。
-*   [you-get](https://www.soimort.org/you-get/)：一个 YouTube/Youku/Niconico 视频下载器，使用 Python3 编写。
+*   [you-get](https://www.soimort.org/you-get/)：一个 YouTube/Youku/Niconico 视频下载器，使用 Python 3 编写。
 *   [youtube-dl](http://rg3.github.io/youtube-dl/)：一个小巧的命令行程序，用来下载 YouTube 视频。
 *   [akshare](https://github.com/jindaxiang/akshare)：为方便人使用而创建的金融数据接口库。
 
@@ -294,7 +293,7 @@
 *   [scikit-image](http://scikit-image.org/)：一个用于（科学）图像处理的 Python 库。
 *   [thumbor](https://github.com/thumbor/thumbor)：一个小型图像服务，具有剪裁，尺寸重设和翻转功能。
 *   [wand](https://github.com/dahlia/wand)：[MagickWand ](http://www.imagemagick.org/script/magick-wand.php)的 Python 绑定。MagickWand 是 ImageMagick 的 C API 。
-*   [face_recognition](https://github.com/ageitgey/face_recognition)：简单易用的 python 人脸识别库。
+*   [face_recognition](https://github.com/ageitgey/face_recognition)：简单易用的 Python 人脸识别库。
 *   [pagan](https://github.com/daboth/pagan)：基于输入和哈希的复古风图标（头像）生成工具。
 *   [PyMatting](https://github.com/pymatting/pymatting)：支持 alpha matting 的库。
 *   [pywal](https://github.com/dylanaraps/pywal)：由图像生成配色方案的工具。
@@ -303,7 +302,7 @@
 ### OCR
 
 光学字符识别库。
-
+*   [paddleocr](https://github.com/PaddlePaddle/PaddleOCR): 除光学字符识别外还引入了表格识别。
 *   [pyocr](https://gitlab.gnome.org/World/OpenPaperwork/pyocr)：Tesseract 和 Cuneiform 的一个封装。
 *   [pytesseract](https://github.com/madmaze/pytesseract)：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个封装。
 
@@ -415,13 +414,12 @@ Python 实现的数据库。
     *   [SQLAlchemy](http://www.sqlalchemy.org/)：Python SQL 工具以及对象关系映射工具。
         * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
     *   [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) 系列
-    *   [Peewee](https://github.com/coleifer/peewee)：一个小巧，富有表达力的 ORM。
+    *   [Peewee](https://github.com/coleifer/peewee)：一个小巧，富有表现力的 ORM。
     *   [PonyORM](https://ponyorm.com/)：提供面向生成器的 SQL 接口的 ORM。
     *   [python-sql](https://pypi.python.org/pypi/python-sql)：编写 Python 风格的 SQL 查询。
     *   [dataset](https://github.com/pudo/dataset)：在数据库中存储字典，支持 SQLite，MySQL 和 PostgreSQL。
     *   [orator](https://github.com/sdispater/orator)：Orator ORM，提供了一个简单而美观的 ActiveRecord 实现。
     *   [orm](https://github.com/encode/orm)：一个异步的 ORM。
-    *   [peewee](https://github.com/coleifer/peewee)：一个小但是很有表现力的 ORM。
     *   [pony](https://github.com/ponyorm/pony/)：提供面向生成器的SQL接口的ORM。
     *   [pydal](https://github.com/web2py/pydal/)：纯 Python 数据库抽象接口层。
 *   NoSQL 数据库
@@ -483,7 +481,7 @@ Web socket 相关库。
 *   [Mezzanine](http://mezzanine.jupo.org/)：一个强大的，持续的，灵活的内容管理平台。
 *   [Opps](http://opps.github.io/opps/)：一个为杂志，报纸网站以及大流量门户网站设计的 CMS 平台，基于 Django。
 *   [Plone](https://plone.org/)：一个构建于开源应用服务器 Zope 之上的 CMS。
-*   [Quokka](http://quokkaproject.org/)：灵活，可扩展的小型 CMS，基于 Flask 和 MongoDB。
+*   [Quokka](https://quintagroup.com/cms/python/quokka)：灵活，可扩展的小型 CMS，基于 Flask 和 MongoDB。
 *   [Wagtail](https://wagtail.io/)：一个 Django 内容管理系统。
 *   [Widgy](https://wid.gy/)：最新的 CMS 框架，基于 Django。
 *   [indico](https://github.com/indico/indico)：一个功能丰富的事件管理系统，由 @[CERN](https://en.wikipedia.org/wiki/CERN) 开发。
@@ -670,7 +668,7 @@ Web socket 相关库。
 *   [untangle](https://github.com/stchris/untangle)：将 XML 文档转换为 Python 对象，使其可以方便的访问。
 *   [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)：HTML/CSS 转 PDF 工具。
 *   [xmltodict](https://github.com/martinblech/xmltodict)：像处理 JSON 一样处理 XML。
-*   [WeasyPrint](http://weasyprint.org)：用于HTML和CSS的可视化呈现引擎，并可以导出为PDF。
+*   [WeasyPrint](http://weasyprint.org)：用于HTML和CSS的可视化呈现引擎，并可以导出为 PDF。
 *   [xmldataset](https://xmldataset.readthedocs.io/en/latest/)：简单 XML 解析。
 
 爬取网络站点的库
@@ -710,7 +708,7 @@ Web socket 相关库。
 *   [Deform](http://deform.readthedocs.org/en/latest/)：Python HTML 表单生成库，受到了 formish 表单生成库的启发。
 *   [django-bootstrap3](https://github.com/dyve/django-bootstrap3)：集成了 Bootstrap 3 的 Django。
 *   [django-bootstrap4](https://github.com/zostera/django-bootstrap4)：集成了 Bootstrap 4 的 Django。
-*   [django-crispy-forms](http://django-crispy-forms.readthedocs.org/en/latest/)：一个 Django 应用，他可以让你以一种非常优雅且 DRY（Don't repeat yourself） 的方式来创建美观的表单。
+*   [django-crispy-forms](http://django-crispy-forms.readthedocs.org/en/latest/)：一个 Django 应用，他可以让你以一种非常优雅且 DRY (Don't repeat yourself) 的方式来创建美观的表单。
 *   [django-remote-forms](https://github.com/WiserTogether/django-remote-forms)：一个平台独立的 Django 表单序列化工具。
 *   [WTForms](http://wtforms.readthedocs.org/en/latest/)：一个灵活的表单验证和呈现库。
 *   [WTForms-JSON](http://wtforms-json.readthedocs.org/en/latest/)：一个 WTForms 扩展，用来处理 JSON 数据。
@@ -755,7 +753,7 @@ Web socket 相关库。
 管理界面库。
 
 *   [Ajenti](https://github.com/ajenti/ajenti)：一个你的服务器值得拥有的管理面板。
-*   [django-suit](http://djangosuit.com/)：Django 管理界面的一个替代品 (仅对于非商业用途是免费的)。
+*   [django-suit](http://djangosuit.com/)：Django 管理界面的一个替代品（仅对于非商业用途是免费的）。
 *   [django-xadmin](https://github.com/sshwsfc/django-xadmin)：Django admin 的一个替代品，具有很多不错的功能。
 *   [flask-admin](https://github.com/flask-admin/flask-admin)：一个用于 Flask 的简单可扩展的管理界面框架。
 *   [flower](https://github.com/mher/flower)：一个对 Celery 集群进行实时监控和提供 web 管理界面的工具。
@@ -782,7 +780,7 @@ Web socket 相关库。
 *   [Nikola](https://www.getnikola.com/)：一个静态网站和博客生成器。
 *   [Tinkerer](http://tinkerer.me/)：Tinkerer 是一个博客引擎/静态站点生成器，由 Sphinx 驱动。
 *   [Lektor](https://www.getlektor.com/)：一个简单易用的静态 CMS 和博客引擎。
-*   [makesite](https://github.com/sunainapai/makesite)：简单轻量的站点/博客生成器 (小于 130 行代码)。
+*   [makesite](https://github.com/sunainapai/makesite)：简单轻量的站点/博客生成器（小于 130 行代码）。
 
 ### 进程
 
@@ -811,7 +809,7 @@ Web socket 相关库。
 
 用于网络编程的库。
 
-*   [asyncio](https://docs.python.org/3/library/asyncio.html)：(Python 标准库) 异步 I/O, 事件循环, 协程以及任务。
+*   [asyncio](https://docs.python.org/3/library/asyncio.html)：(Python 标准库) 异步 I/O，事件循环，协程以及任务。
 *   [trio](https://github.com/python-trio/trio)：异步并发和 I/O 友好的库。
 *   [Twisted](https://twistedmatrix.com/trac/)：一个事件驱动的网络引擎。
 *   [pulsar](https://github.com/quantmind/pulsar)：事件驱动的并发框架。
@@ -824,7 +822,7 @@ Web socket 相关库。
 
 帮助使用 WebSocket 的库。
 
-*   [AutobahnPython](https://github.com/crossbario/autobahn-python)：给 Python 、使用的 WebSocket & WAMP 基于 Twisted 和 [asyncio](https://docs.python.org/3/library/asyncio.html)。
+*   [AutobahnPython](https://github.com/crossbario/autobahn-python)：给 Python、使用的 WebSocket & WAMP 基于 Twisted 和 [asyncio](https://docs.python.org/3/library/asyncio.html)。
 *   [Crossbar](https://github.com/crossbario/crossbar/)：开源统一应用路由(Websocket & WAMP for Python on Autobahn)。
 *   [django-socketio](https://github.com/stephenmcd/django-socketio)：给 Django 用的 WebSockets。
 *   [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python)：为 Python2/3 以及 PyPy 编写的 WebSocket 客户端和服务器库。
@@ -834,15 +832,15 @@ Web socket 相关库。
 兼容 WSGI 的 web 服务器
 
 *   [gunicorn](https://pypi.python.org/pypi/gunicorn)：Pre-forked, 部分是由 C 语言编写的。
-*   [uwsgi](https://uwsgi-docs.readthedocs.org/en/latest/)：uwsgi 项目的目的是开发一组全栈工具，用来建立托管服务， 由 C 语言编写。
+*   [uwsgi](https://uwsgi-docs.readthedocs.org/en/latest/)：uwsgi 项目的目的是开发一组全栈工具，用来建立托管服务，由 C 语言编写。
 *   [bjoern](https://pypi.python.org/pypi/bjoern)：异步，非常快速，由 C 语言编写。
 *   [fapws3](http://www.fapws.org/)：异步 (仅对于网络端)，由 C 语言编写。
 *   [meinheld](https://pypi.python.org/pypi/meinheld)：异步，部分是由 C 语言编写的。
 *   [netius](https://github.com/hivesolutions/netius)：异步，非常快速。
 *   [paste](http://pythonpaste.org/)：多线程，稳定，久经考验。
 *   [rocket](https://pypi.python.org/pypi/rocket)：多线程。
-*   [waitress](https://waitress.readthedocs.org/en/latest/)：多线程, 是它驱动着 Pyramid 框架。
-*   [Werkzeug](http://werkzeug.pocoo.org/)：一个 WSGI 工具库，驱动着 Flask ，而且可以很方便大嵌入到你的项目中去。
+*   [waitress](https://waitress.readthedocs.org/en/latest/)：多线程，是它驱动着 Pyramid 框架。
+*   [Werkzeug](http://werkzeug.pocoo.org/)：一个 WSGI 工具库，驱动着 Flask，而且可以很方便大嵌入到你的项目中去。
 
 ### ASGI 服务器
 
@@ -880,7 +878,7 @@ Web socket 相关库。
 *   [PyQt](https://riverbankcomputing.com/software/pyqt/intro)：跨平台用户界面框架 [Qt](http://www.qt.io/) 的 Python 绑定 ，支持 Qt v4 和 Qt v5。
 *   [PySide](https://wiki.qt.io/PySide)：跨平台用户界面框架 [Qt](http://www.qt.io/) 的 Python 绑定 ，支持 Qt v4。
 *   [Tkinter](https://wiki.python.org/moin/TkInter)：Tkinter 是 Python GUI 的一个事实标准库。
-*   [Toga](https://github.com/pybee/toga)：一个 Python 原生的, 操作系统原生的 GUI 工具包。
+*   [Toga](https://github.com/pybee/toga)：一个 Python 原生的，操作系统原生的 GUI 工具包。
 *   [urwid](http://urwid.org/)：一个用来创建终端 GUI 应用的库，支持组件，事件和丰富的色彩等。
 *   [wxPython](http://wxpython.org/)：wxPython 是 wxWidgets C++ 类库和 Python 语言混合的产物。
 *   [PyGObject](https://wiki.gnome.org/Projects/PyGObject)：GLib/GObject/GIO/GTK+ (GTK+3) 的 Python 绑定。
@@ -943,7 +941,7 @@ Web socket 相关库。
     *   [Schemathesis](https://github.com/kiwicom/schemathesis)：基于属性的自动测试工具，用于测试使用 Open API / Swagger 规范构建的 Web 应用程序。
 *   Mock 测试
     *   [mock](https://docs.python.org/3/library/unittest.mock.html)：(Python 标准库) 一个用于伪造测试的库。
-    *   [doublex](https://pypi.python.org/pypi/doublex)：Python 的一个功能强大的 doubles  测试框架。
+    *   [doublex](https://pypi.python.org/pypi/doublex)：Python 的一个功能强大的 doubles 测试框架。
     *   [freezegun](https://github.com/spulec/freezegun)：通过伪造日期模块来生成不同的时间。
     *   [httmock](https://github.com/patrys/httmock)：针对 Python 2.6+ 和 3.2+ 生成 伪造请求的库。
     *   [httpretty](http://falcao.it/HTTPretty/)：Python 的 HTTP 请求 mock 工具。
@@ -1093,9 +1091,9 @@ Web socket 相关库。
 *   [vincent](https://github.com/wrobstory/vincent)：把 Python 转换为 Vega 语法的转换工具。
 *   [VisPy](http://vispy.org/)：基于 OpenGL 的高性能科学可视化工具。
 *   [Altair](https://github.com/altair-viz/altair)：用于 Python 的声明式统计可视化库。
-*   [bqplot](https://github.com/bloomberg/bqplot)：Jupyter Notebook的交互式绘图库。
-*   [Cartopy](https://github.com/SciTools/cartopy)：具有 matplotlib 支持的 python 制图库。
-*   [Dash](https://plot.ly/products/dash/)：构建在 Flask、React 和 Plotly之上，旨在用于分析 Web 应用程序。
+*   [bqplot](https://github.com/bloomberg/bqplot)：Jupyter Notebook 的交互式绘图库。
+*   [Cartopy](https://github.com/SciTools/cartopy)：具有 matplotlib 支持的 Python 制图库。
+*   [Dash](https://plot.ly/products/dash/)：构建在 Flask、React 和 Plotly 之上，旨在用于分析 Web 应用程序。
     * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 *   [diagrams](https://github.com/mingrammer/diagrams)：用图表作为代码。
 *   [plotnine](https://github.com/has2k1/plotnine)：基于ggplot2的Python图形语法。
@@ -1148,7 +1146,7 @@ Web socket 相关库。
 *   [Metrics](https://github.com/benhamner/Metrics)：机器学习的评估指标。
 *   [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise)：Python 版 [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/) 装饰器。
 *   [xgboost](https://github.com/dmlc/xgboost)：可扩展，便携式和分布式梯度提升库。
-*   [MindsDB](https://github.com/mindsdb/mindsdb)：MindsDB是现有数据库的开源AI层，可让使用标准查询轻松地进行开发，训练和部署最新的机器学习模型。
+*   [MindsDB](https://github.com/mindsdb/mindsdb)：MindsDB 是现有数据库的开源 AI 层，可让使用标准查询轻松地进行开发，训练和部署最新的机器学习模型。
 
 ### 推荐系统
 
@@ -1176,6 +1174,7 @@ Web socket 相关库。
 *   [Ray](https://github.com/ray-project/ray/)：一个用于并行和分布式 Python 的系统，它统一了机器学习生态系统。
 *   [faust](https://github.com/robinhood/faust)：一个 Python 流处理库，核心思想来源 [Kafka Streams](https://kafka.apache.org/documentation/streams/)。
 *   [streamparse](https://github.com/Parsely/streamparse)：运行针对事实数据流的 Python 代码。集成了 [Apache Storm](http://storm.apache.org/)。
+*   [mars](https://github.com/mars-project/mars)：是基于张量的，用于进行大规模数据计算的统一计算框架。
 
 ### 函数式编程
 
@@ -1266,12 +1265,12 @@ Python 重构相关库和工具。
 *   [Cython](http://cython.org/)：优化的 Python 静态编译器。使用类型混合使 Python 编译成 C 或 C++ 模块来获得性能的极大提升。
 *   [CLPython](https://github.com/metawilm/cl-python)：用 Common Lisp 编写的 Python 编程语言的实现。
 *   [Grumpy](https://github.com/google/grumpy)：编译器比解释器更强大的 cpython2.7 替代品（alpha）。 
-*   [IronPython](https://github.com/IronLanguages/ironpython3)：用 C＃编写的 Python 编程语言的实现。
+*   [IronPython](https://github.com/IronLanguages/ironpython3)：用 C＃ 编写的 Python 编程语言的实现。
 *   [Jython](https://hg.python.org/jython)：为 JVM 用 Java 编写的 Python 编程语言的实现。
 *   [MicroPython](https://github.com/micropython/micropython)：精简高效的 Python 编程语言实现。
 *   [Pyjion](https://github.com/Microsoft/Pyjion)：基于 CoreCLR 的 Python JIT。
 *   [Numba](http://numba.pydata.org/)：Python JIT (just in time) 编译器，针对科学用的 Python ，由 Cython 和 NumPy 的开发者开发。
-*   [PeachPy](https://github.com/Maratyszcza/PeachPy)：嵌入 Python 的 x86-64 汇编器。可以被用作 Python 内联的汇编器或者是独立的汇编器，用于 Windows, Linux, OS X, Native Client 或者 Go 。
+*   [PeachPy](https://github.com/Maratyszcza/PeachPy)：嵌入 Python 的 x86-64 汇编器。可以被用作 Python 内联的汇编器或者是独立的汇编器，用于 Windows，Linux，OS X，Native Client 或者 Go 。
 *   [PyPy](http://pypy.org/)：使用 Python 实现的 Python。解释器使用黑魔法加快 Python 运行速度且不需要加入额外的类型信息。
 *   [Pyston](https://github.com/dropbox/pyston)：使用 LLVM 和现代 JIT 技术构建的 Python 实现，目标是为了获得很好的性能。
 *   [Stackless Python](https://bitbucket.org/stackless-dev/stackless/overview)：一个强化版的 Python。
@@ -1366,7 +1365,7 @@ Python 重构相关库和工具。
   * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI)：一个很棒的自动补全库 Jedi 的Sublime Text 插件。
 * Vim
   * [jedi-vim](https://github.com/davidhalter/jedi-vim)：用于 Python 的 Jedi 自动补全库的 Vim 绑定。
-  * [python-mode](https://github.com/python-mode/python-mode)：一个将Vim转换为Python IDE的多合一插件。
+  * [python-mode](https://github.com/python-mode/python-mode)：一个将 Vim 转换为 Python IDE 的多合一插件。
   * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)：包含 Jedi 补全的 Python 引擎。
 * Visual Studio
   * [PTVS](https://github.com/Microsoft/PTVS)：Visual Studio Python 工具。
@@ -1391,6 +1390,12 @@ GraphQL 相关库。
 * [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi/)：Tartiflette GraphQL 引擎的 ASGI 支持。
 * [tartiflette](https://tartiflette.io)：支持 Python 3.6+ 和 asyncio 的 SDL 优先的 GraphQL 引擎实现。
 
+### 股票金融
+- [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS)：支持任务调度，分布式部署的股票/期货/期权/港股/虚拟货币的数据/回测/模拟/交易/可视化/多账户纯本地量化解决方案
+- [abu](https://github.com/bbfamily/abu): 基于python的开源量化交易，量化投资架构
+- [Hikyuu Quant](https://github.com/fasiondog/hikyuu)：基于C++/Python的开源量化交易研究框架，用于策略分析及回测（仅受限于数据，如有数据也可用于期货等）
+- [vnpy](https://github.com/vnpy/vnpy)：基于Python的开源量化交易系统开发框架，整合了多种交易接口，并针对具体策略算法和功能开发提供了简洁易用的API，用于快速构建交易员所需的量化交易应用
+
 ### 杂项
 
 不属于上面任何一个类别，但是非常有用的库。
@@ -1399,5 +1404,5 @@ GraphQL 相关库。
 *   [boltons](https://github.com/mahmoud/boltons)：一组纯 Python 实用工具。
 *   [itsdangerous](https://github.com/pallets/itsdangerous)：将受信任的数据传递到不受信任的环境的帮助工具。
 *   [magenta](https://github.com/magenta/magenta)：使用人工智能生成音乐与艺术的工具。
-*   [pluginbase](https://github.com/mitsuhiko/pluginbase)：一个简单但灵活的Python插件系统。
+*   [pluginbase](https://github.com/mitsuhiko/pluginbase)：一个简单但灵活的 Python 插件系统。
 *   [tryton](http://www.tryton.org/)：一个通用业务框架。
