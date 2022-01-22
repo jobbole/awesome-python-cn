@@ -23,7 +23,6 @@
     - [构建工具](#构建工具)
     - [交互式解析器](#交互式解析器)
     - [日期和时间](#日期和时间)
-    - [自然语言处理](#自然语言处理)
     - [命令行工具](#命令行工具)
     - [下载器](#下载器)
     - [地理位置](#地理位置)
@@ -68,12 +67,6 @@
     - [渗透测试](#渗透测试)
     - [代码分析和 Lint 工具](#代码分析和-lint-工具)
     - [调试工具](#调试工具)
-    - [科学计算和数据分析](#科学计算和数据分析)
-    - [数据可视化](#数据可视化)
-    - [计算机视觉](#计算机视觉)
-    - [深度学习](#深度学习)
-    - [机器学习](#机器学习)
-    - [推荐系统](#推荐系统)
     - [分布式计算](#分布式计算)
     - [函数式编程](#函数式编程)
     - [第三方 API](#第三方-api)
@@ -86,7 +79,6 @@
     - [网络可视化和 SDN](#网络可视化和-sdn)
     - [硬件](#硬件)
     - [兼容性](#兼容性)
-    - [算法和设计模式](#算法和设计模式)
     - [内置类的增强版实现](#内置类的增强版实现)
     - [机器人](#机器人)
     - [聊天工具](#聊天工具)
@@ -109,6 +101,17 @@
     - [数据库](#数据库-1)
     - [数据库驱动](#数据库驱动)
     - [ORM](#orm)
+  - [数据分析与可视化](#数据分析与可视化)
+    - [科学计算和数据分析](#科学计算和数据分析)
+    - [数据可视化](#数据可视化)
+  - [数据结构与算法设计](#数据结构与算法设计)
+    - [算法和设计模式](#算法和设计模式)
+  - [人工智能](#人工智能)
+    - [机器学习](#机器学习)
+    - [深度学习](#深度学习)
+    - [计算机视觉](#计算机视觉)
+    - [自然语言处理](#自然语言处理)
+    - [推荐系统](#推荐系统)
 
 ---
 
@@ -198,27 +201,6 @@
 *   [dateutil](https://github.com/dateutil/dateutil)：Python 标准包 [datetime](https://docs.python.org/3/library/datetime.html) 的扩展。
 *   [moment](https://github.com/zachwill/moment)：一个处理日期/时间的库，灵感来自 [Moment.js](http://momentjs.com/)。
 *   [pytz](https://launchpad.net/pytz)：支持跨平台时区计算，并将 [tz database](https://en.wikipedia.org/wiki/Tz_database) 引入 Python。
-
-### 自然语言处理
-
-用来处理人类语言的库。
-
-*   [NLTK](http://www.nltk.org/)：一个先进的平台，用以构建处理人类语言数据的 Python 程序。
-*   [gensim](https://github.com/piskvorky/gensim)：人性化的话题建模库。
-*   [jieba](https://github.com/fxsjy/jieba)：中文分词工具。
-*   [langid.py](https://github.com/saffsd/langid.py)：独立的语言识别系统。
-*   [Pattern](http://www.clips.ua.ac.be/pattern)：Python 网络信息挖掘模块。
-*   [SnowNLP](https://github.com/isnowfy/snownlp)：一个用来处理中文文本的库。
-*   [TextBlob](http://textblob.readthedocs.org/en/latest/)：为进行普通自然语言处理任务提供一致的 API。
-*   [TextGrocery](https://github.com/2shou/TextGrocery)：一简单高效的短文本分类工具，基于 LibLinear 和 Jieba。
-*   [thulac](https://github.com/thunlp/THULAC-Python)：清华大学自然语言处理与社会人文计算实验室研制推出的一套中文词法分析工具包。
-*   [polyglot](https://github.com/aboSamoor/polyglot)：支持数百种语言的自然语言处理管道。
-*   [pytext](https://github.com/facebookresearch/pytext)：基于 PyTouch 的自然语言模型框架。
-*   [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP)：一个支持快速深度学习 NLP 原型研究的工具包。
-*   [spacy](https://spacy.io/)：Python 和 Cython 中用于工业级自然语言处理的库。
-*   [Stanza](https://github.com/stanfordnlp/stanza)：斯坦福 NLP 集团的官方 Python 库，支持 60 多种语言。
-*   [funNLP](https://github.com/fighting41love/funNLP)：中文自然语言处理的工具和数据集。
-*   [pkuseg-python](https://github.com/lancopku/pkuseg-python)：一个支持对不同领域进行中文分词的工具箱。
 
 ### 命令行工具
 
@@ -896,127 +878,6 @@ Web socket 相关库。
     *   [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar)：django-debug-toolbar 的 flask 版。
     *   [icecream](https://github.com/gruns/icecream)：通过一个简单的函数调用检查变量、表达式和程序执行情况。
 
-### 科学计算和数据分析
-
-用来进行科学计算和数据分析的库。
-
-*   [astropy](http://www.astropy.org/)：一个天文学 Python 库。
-*   [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)：这个工具箱为全自动高通量测序分析提供符合最佳实践的处理流程。
-*   [bccb](https://github.com/chapmanb/bcbb)：生物分析相关代码集合。
-*   [Biopython](http://biopython.org/wiki/MainPage)：Biopython 是一组可以免费使用的用来进行生物计算的工具。
-*   [blaze](http://blaze.readthedocs.org/en/latest/index.html)：NumPy 和 Pandas 的大数据接口。
-*   [cclib](http://cclib.github.io/)：一个用来解析和解释计算化学软件包输出结果的库。
-*   [NetworkX](https://networkx.github.io/)：一个为复杂网络设计的高性能软件。
-*   [Neupy](http://neupy.com/pages/home.html)：执行和测试各种不同的人工神经网络算法。
-*   [NumPy](http://www.numpy.org/)：使用 Python 进行科学计算的基础包。
-*   [Open Babel](http://openbabel.org/wiki/MainPage)：一个化学工具箱，用来描述多种化学数据。
-*   [Open Mining](https://github.com/mining/mining)：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。
-*   [orange](http://orange.biolab.si/)：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。
-*   [Pandas](http://pandas.pydata.org/)：提供高性能，易用的数据结构和数据分析工具。
-*   [PyDy](http://www.pydy.org/)：PyDy 是 Python Dynamics 的缩写，用来为动力学运动建模工作流程提供帮助， 基于 NumPy, SciPy, IPython 和 matplotlib。
-*   [PyMC](https://github.com/pymc-devs/pymc3)：马尔科夫链蒙特卡洛采样工具。
-*   [RDKit](http://www.rdkit.org/)：化学信息学和机器学习软件。
-*   [SciPy](http://www.scipy.org/)：由一些基于 Python ，用于数学，科学和工程的开源软件构成的生态系统。
-*   [statsmodels](https://github.com/statsmodels/statsmodels)：统计建模和计量经济学。
-*   [SymPy](https://github.com/sympy/sympy)：一个用于符号数学的 Python 库。
-*   [zipline](https://github.com/quantopian/zipline)：一个 Python 算法交易库。
-*   [Bayesian-belief-networks](https://github.com/eBay/bayesian-belief-networks)：优雅的贝叶斯理念网络框架。
-*   [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)：AWS 平台上使用的 Pandas。
-*   [Optimus](https://github.com/ironmussa/Optimus)：在使用 PySpark 时，让敏捷数据科学工作流程变得简单。
-*   [Colour](http://colour-science.org/)：大量色彩理论转换和算法的实现。
-*   [Karate Club](https://github.com/benedekrozemberczki/karateclub)：用于图形结构化数据的无监督机器学习工具箱。
-*   [NIPY](http://nipy.org)：神经影响学工具箱集合。
-*   [ObsPy](https://github.com/obspy/obspy/wiki/)：地震学 Python 工具箱。
-*   [QuTiP](http://qutip.org/)：Python 版 Quantum 工具箱。
-*   [SimPy](https://gitlab.com/team-simpy/simpy)：一个基于过程的离散事件模拟框架。
-
-### 数据可视化
-
-进行数据可视化的库。 参见：[awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization)。
-
-*   [matplotlib](http://matplotlib.org/)：一个 Python 2D 绘图库。
-*   [bokeh](https://github.com/bokeh/bokeh)：用 Python 进行交互式 web 绘图。
-*   [ggplot](https://github.com/yhat/ggplot)：ggplot2 给 R 提供的 API 的 Python 版本。
-*   [plotly](https://plot.ly/python/)：协同 Python 和 matplotlib 工作的 web 绘图库。
-*   [pyecharts](https://github.com/chenjiandongx/pyecharts)：基于百度 Echarts 的数据可视化库。
-*   [pygal](http://www.pygal.org/en/latest/)：一个 Python SVG 图表创建工具。
-*   [pygraphviz](https://pypi.python.org/pypi/pygraphviz)：Graphviz 的 Python 接口。
-*   [PyQtGraph](http://www.pyqtgraph.org/)：交互式实时 2D/3D/ 图像绘制及科学/工程学组件。
-*   [SnakeViz](http://jiffyclub.github.io/snakeviz/)：一个基于浏览器的 Python's cProfile 模块输出结果查看工具。
-*   [vincent](https://github.com/wrobstory/vincent)：把 Python 转换为 Vega 语法的转换工具。
-*   [VisPy](http://vispy.org/)：基于 OpenGL 的高性能科学可视化工具。
-*   [Altair](https://github.com/altair-viz/altair)：用于 Python 的声明式统计可视化库。
-*   [bqplot](https://github.com/bloomberg/bqplot)：Jupyter Notebook 的交互式绘图库。
-*   [Cartopy](https://github.com/SciTools/cartopy)：具有 matplotlib 支持的 Python 制图库。
-*   [Dash](https://plot.ly/products/dash/)：构建在 Flask、React 和 Plotly 之上，旨在用于分析 Web 应用程序。
-    * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
-*   [diagrams](https://github.com/mingrammer/diagrams)：用图表作为代码。
-*   [plotnine](https://github.com/has2k1/plotnine)：基于ggplot2的Python图形语法。
-*   [PyGraphviz](https://pypi.org/project/pygraphviz/)： [Graphviz](http://www.graphviz.org/) 的 Python 接口。
-*   [Seaborn](https://github.com/mwaskom/seaborn)：使用 Matplotlib 进行统计数据可视化。
-
-### 计算机视觉
-
-计算机视觉相关库。
-
-*   [OpenCV](http://opencv.org/)：开源计算机视觉库。
-*   [pyocr](https://github.com/jflesch/pyocr)：Tesseract 和 Cuneiform 的包装库。
-*   [pytesseract](https://github.com/madmaze/pytesseract)：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一包装库。
-*   [SimpleCV](http://simplecv.org/)：一个用来创建计算机视觉应用的开源框架。
-*   [EasyOCR](https://github.com/JaidedAI/EasyOCR)：支持40多种语言的即用型 OCR。
-*   [Face Recognition](https://github.com/ageitgey/face_recognition)：简单的面部识别库。
-*   [Kornia](https://github.com/kornia/kornia/)：PyTorch 的开源差异化计算机视觉库。
-*   [tesserocr](https://github.com/sirfz/tesserocr)：另一个简单的，兼容 Pillow 的 `tesseract-ocr` API 装饰器，可用于 OCR。
-*   [paddleocr](https://github.com/PaddlePaddle/PaddleOCR): 除光学字符识别外还引入了表格识别。
-
-### 深度学习
-
-神经网络和深度学习相关框架。 也可以参考 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)。
-
-*   [Caffe](http://caffe.berkeleyvision.org)：一个 [Caffe](https://github.com/BVLC/caffe) 的 python 接口。
-*   [Caffe2](https://caffe2.ai/)：一个轻量级的，模块化的，可扩展的深度学习框架。
-*   [keras](https://keras.io/)：以 tensorflow/theano/CNTK 为后端的深度学习封装库，快速上手神经网络。
-*   [MXNet](http://mxnet.incubator.apache.org/)：一个高效和灵活的深度学习框架。
-*   [Pytorch](http://pytorch.org/)：一个具有张量和动态神经网络，并有强大 GPU 加速能力的深度学习框架。
-*   [SerpentAI](https://github.com/SerpentAI/SerpentAI)：游戏代理框架，可使用任意视频游戏作为深度学习沙箱。
-*   [Theano](https://github.com/Theano/Theano)：一个快速数值计算库。
-*   [TensorFlow](http://tensorflow.org/)：谷歌开源的最受欢迎的深度学习框架。
-*   [skflow](https://github.com/tensorflow/skflow)：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。
-*   [hebel](https://github.com/hannes-brt/hebel)：GPU 加速的深度学习库。
-*   [pydeep](https://github.com/andersbll/deeppy)：Python 深度学习库。
-
-### 机器学习
-
-机器学习相关库，也可以参考 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)。
-
-*   [Crab](https://github.com/muricoca/crab)：灵活、快速的推荐引擎。
-*   [NuPIC](https://github.com/numenta/nupic)：智能计算 Numenta 平台。
-*   [pattern](https://github.com/clips/pattern)：Python 网络挖掘模块。
-*   [PyBrain](https://github.com/pybrain/pybrain)：另一个 Python 机器学习库。
-*   [Pylearn2](https://github.com/lisa-lab/pylearn2)：一个基于 [Theano](https://github.com/Theano/Theano) 的机器学习库。
-*   [python-recsys](https://github.com/ocelma/python-recsys)：一个用来实现推荐系统的 Python 库。
-*   [scikit-learn](http://scikit-learn.org/)：基于 SciPy 构建的机器学习 Python 模块。
-*   [vowpalporpoise](https://github.com/josephreisinger/vowpalporpoise)：轻量级 [Vowpal Wabbit](https://github.com/JohnLangford/vowpalwabbit/) 的 Python 封装。
-*   [gym](https://github.com/openai/gym)：开发和比较强化学习算法的工具包。
-*   [H2O](https://github.com/h2oai/h2o-3)：开源快速可扩展的机器学习平台。
-*   [Metrics](https://github.com/benhamner/Metrics)：机器学习的评估指标。
-*   [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise)：Python 版 [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/) 装饰器。
-*   [xgboost](https://github.com/dmlc/xgboost)：可扩展，便携式和分布式梯度提升库。
-*   [MindsDB](https://github.com/mindsdb/mindsdb)：MindsDB 是现有数据库的开源 AI 层，可让使用标准查询轻松地进行开发，训练和部署最新的机器学习模型。
-
-### 推荐系统
-
-用于构建推荐系统的相关库。
-
-* [annoy](https://github.com/spotify/annoy)：对 C++/Python 实现的近似近邻算法进行了内存优化。
-* [fastFM](https://github.com/ibayer/fastFM)：Factorization Machine 相关库。
-* [implicit](https://github.com/benfred/implicit)：对隐式数据集进行协作过滤的快速 Python 实现。
-* [libffm](https://github.com/guestwalk/libffm)：Field-aware Factorization Machine (FFM) 相关库。
-* [lightfm](https://github.com/lyst/lightfm)：很多流行的推荐算法的 Python 实现。
-* [spotlight](https://github.com/maciejkula/spotlight)：使用 PyTorch 实现的深度推荐模型。
-* [Surprise](https://github.com/NicolasHug/Surprise)：用于构建和分析推荐系统的科学工具。
-* [tensorrec](https://github.com/jfkirk/tensorrec)：TensorFlow 的推荐引擎框架。
-
 ### 分布式计算
 
 分布式计算相关的框架和库。
@@ -1172,22 +1033,6 @@ Python 重构相关库和工具。
 *   [Python-Future](http://python-future.org/index.html)：这就是 Python 2 和 Python 3 之间丢失的那个兼容性层。
 *   [Six](https://pypi.python.org/pypi/six)：Python 2 和 3 的兼容性工具。
 *   [modernize](https://github.com/PyCQA/modernize)：使 Python 代码更加现代化以便最终迁移到 Python 3。
-
-### 算法和设计模式
-
-数据结构、算法和设计模式的 Python 实现。也可以参考 [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) 。
-
-* 算法
-  * [algorithms](https://github.com/keon/algorithms)：数据结构和算法的简单示例。
-  * [python-ds](https://github.com/prabhupant/python-ds)：用于面试的数据结构和算法的集合。
-  * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers)：排序集合的快速的纯 Python 实现。
-  * [TheAlgorithms](https://github.com/TheAlgorithms/Python)：所有算法的 Python 实现。
-* 设计模式
-  * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn)：一个简单而有效的库，用于实现常见的设计模式。
-  * [python-patterns](https://github.com/faif/python-patterns)：一个 Python 设计模式集合。
-  * [transitions](https://github.com/pytransitions/transitions)：轻量级的，面向对象的有限状态机实现。
-  
-  
 
 ### 内置类的增强版实现
 
@@ -1508,3 +1353,165 @@ Python 实现的数据库。
     *   [redisco](https://github.com/kiddouk/redisco)：一个 Python 库，提供可以持续存在在 Redis 中的简单模型和容器。
 *   其他
     *   [butterdb](https://github.com/Widdershin/butterdb)：Google Drive 电子表格的 Python ORM。
+
+## 数据分析与可视化
+
+### 科学计算和数据分析
+
+用来进行科学计算和数据分析的库。
+
+*   [astropy](http://www.astropy.org/)：一个天文学 Python 库。
+*   [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)：这个工具箱为全自动高通量测序分析提供符合最佳实践的处理流程。
+*   [bccb](https://github.com/chapmanb/bcbb)：生物分析相关代码集合。
+*   [Biopython](http://biopython.org/wiki/MainPage)：Biopython 是一组可以免费使用的用来进行生物计算的工具。
+*   [blaze](http://blaze.readthedocs.org/en/latest/index.html)：NumPy 和 Pandas 的大数据接口。
+*   [cclib](http://cclib.github.io/)：一个用来解析和解释计算化学软件包输出结果的库。
+*   [NetworkX](https://networkx.github.io/)：一个为复杂网络设计的高性能软件。
+*   [Neupy](http://neupy.com/pages/home.html)：执行和测试各种不同的人工神经网络算法。
+*   [NumPy](http://www.numpy.org/)：使用 Python 进行科学计算的基础包。
+*   [Open Babel](http://openbabel.org/wiki/MainPage)：一个化学工具箱，用来描述多种化学数据。
+*   [Open Mining](https://github.com/mining/mining)：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)。
+*   [orange](http://orange.biolab.si/)：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。
+*   [Pandas](http://pandas.pydata.org/)：提供高性能，易用的数据结构和数据分析工具。
+*   [PyDy](http://www.pydy.org/)：PyDy 是 Python Dynamics 的缩写，用来为动力学运动建模工作流程提供帮助， 基于 NumPy, SciPy, IPython 和 matplotlib。
+*   [PyMC](https://github.com/pymc-devs/pymc3)：马尔科夫链蒙特卡洛采样工具。
+*   [RDKit](http://www.rdkit.org/)：化学信息学和机器学习软件。
+*   [SciPy](http://www.scipy.org/)：由一些基于 Python ，用于数学，科学和工程的开源软件构成的生态系统。
+*   [statsmodels](https://github.com/statsmodels/statsmodels)：统计建模和计量经济学。
+*   [SymPy](https://github.com/sympy/sympy)：一个用于符号数学的 Python 库。
+*   [zipline](https://github.com/quantopian/zipline)：一个 Python 算法交易库。
+*   [Bayesian-belief-networks](https://github.com/eBay/bayesian-belief-networks)：优雅的贝叶斯理念网络框架。
+*   [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)：AWS 平台上使用的 Pandas。
+*   [Optimus](https://github.com/ironmussa/Optimus)：在使用 PySpark 时，让敏捷数据科学工作流程变得简单。
+*   [Colour](http://colour-science.org/)：大量色彩理论转换和算法的实现。
+*   [Karate Club](https://github.com/benedekrozemberczki/karateclub)：用于图形结构化数据的无监督机器学习工具箱。
+*   [NIPY](http://nipy.org)：神经影响学工具箱集合。
+*   [ObsPy](https://github.com/obspy/obspy/wiki/)：地震学 Python 工具箱。
+*   [QuTiP](http://qutip.org/)：Python 版 Quantum 工具箱。
+*   [SimPy](https://gitlab.com/team-simpy/simpy)：一个基于过程的离散事件模拟框架。
+
+### 数据可视化
+
+进行数据可视化的库。 参见：[awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization)。
+
+*   [matplotlib](http://matplotlib.org/)：一个 Python 2D 绘图库。
+*   [bokeh](https://github.com/bokeh/bokeh)：用 Python 进行交互式 web 绘图。
+*   [ggplot](https://github.com/yhat/ggplot)：ggplot2 给 R 提供的 API 的 Python 版本。
+*   [plotly](https://plot.ly/python/)：协同 Python 和 matplotlib 工作的 web 绘图库。
+*   [pyecharts](https://github.com/chenjiandongx/pyecharts)：基于百度 Echarts 的数据可视化库。
+*   [pygal](http://www.pygal.org/en/latest/)：一个 Python SVG 图表创建工具。
+*   [pygraphviz](https://pypi.python.org/pypi/pygraphviz)：Graphviz 的 Python 接口。
+*   [PyQtGraph](http://www.pyqtgraph.org/)：交互式实时 2D/3D/ 图像绘制及科学/工程学组件。
+*   [SnakeViz](http://jiffyclub.github.io/snakeviz/)：一个基于浏览器的 Python's cProfile 模块输出结果查看工具。
+*   [vincent](https://github.com/wrobstory/vincent)：把 Python 转换为 Vega 语法的转换工具。
+*   [VisPy](http://vispy.org/)：基于 OpenGL 的高性能科学可视化工具。
+*   [Altair](https://github.com/altair-viz/altair)：用于 Python 的声明式统计可视化库。
+*   [bqplot](https://github.com/bloomberg/bqplot)：Jupyter Notebook 的交互式绘图库。
+*   [Cartopy](https://github.com/SciTools/cartopy)：具有 matplotlib 支持的 Python 制图库。
+*   [Dash](https://plot.ly/products/dash/)：构建在 Flask、React 和 Plotly 之上，旨在用于分析 Web 应用程序。
+    * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
+*   [diagrams](https://github.com/mingrammer/diagrams)：用图表作为代码。
+*   [plotnine](https://github.com/has2k1/plotnine)：基于ggplot2的Python图形语法。
+*   [PyGraphviz](https://pypi.org/project/pygraphviz/)： [Graphviz](http://www.graphviz.org/) 的 Python 接口。
+*   [Seaborn](https://github.com/mwaskom/seaborn)：使用 Matplotlib 进行统计数据可视化。
+
+## 数据结构与算法设计
+
+### 算法和设计模式
+
+数据结构、算法和设计模式的 Python 实现。也可以参考 [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) 。
+
+* 算法
+  * [algorithms](https://github.com/keon/algorithms)：数据结构和算法的简单示例。
+  * [python-ds](https://github.com/prabhupant/python-ds)：用于面试的数据结构和算法的集合。
+  * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers)：排序集合的快速的纯 Python 实现。
+  * [TheAlgorithms](https://github.com/TheAlgorithms/Python)：所有算法的 Python 实现。
+* 设计模式
+  * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn)：一个简单而有效的库，用于实现常见的设计模式。
+  * [python-patterns](https://github.com/faif/python-patterns)：一个 Python 设计模式集合。
+  * [transitions](https://github.com/pytransitions/transitions)：轻量级的，面向对象的有限状态机实现。
+
+## 人工智能
+
+### 机器学习
+
+机器学习相关库，也可以参考 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)。
+
+*   [Crab](https://github.com/muricoca/crab)：灵活、快速的推荐引擎。
+*   [NuPIC](https://github.com/numenta/nupic)：智能计算 Numenta 平台。
+*   [pattern](https://github.com/clips/pattern)：Python 网络挖掘模块。
+*   [PyBrain](https://github.com/pybrain/pybrain)：另一个 Python 机器学习库。
+*   [Pylearn2](https://github.com/lisa-lab/pylearn2)：一个基于 [Theano](https://github.com/Theano/Theano) 的机器学习库。
+*   [python-recsys](https://github.com/ocelma/python-recsys)：一个用来实现推荐系统的 Python 库。
+*   [scikit-learn](http://scikit-learn.org/)：基于 SciPy 构建的机器学习 Python 模块。
+*   [vowpalporpoise](https://github.com/josephreisinger/vowpalporpoise)：轻量级 [Vowpal Wabbit](https://github.com/JohnLangford/vowpalwabbit/) 的 Python 封装。
+*   [gym](https://github.com/openai/gym)：开发和比较强化学习算法的工具包。
+*   [H2O](https://github.com/h2oai/h2o-3)：开源快速可扩展的机器学习平台。
+*   [Metrics](https://github.com/benhamner/Metrics)：机器学习的评估指标。
+*   [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise)：Python 版 [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/) 装饰器。
+*   [xgboost](https://github.com/dmlc/xgboost)：可扩展，便携式和分布式梯度提升库。
+*   [MindsDB](https://github.com/mindsdb/mindsdb)：MindsDB 是现有数据库的开源 AI 层，可让使用标准查询轻松地进行开发，训练和部署最新的机器学习模型。
+
+### 深度学习
+
+神经网络和深度学习相关框架。 也可以参考 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)。
+
+*   [Caffe](http://caffe.berkeleyvision.org)：一个 [Caffe](https://github.com/BVLC/caffe) 的 python 接口。
+*   [Caffe2](https://caffe2.ai/)：一个轻量级的，模块化的，可扩展的深度学习框架。
+*   [keras](https://keras.io/)：以 tensorflow/theano/CNTK 为后端的深度学习封装库，快速上手神经网络。
+*   [MXNet](http://mxnet.incubator.apache.org/)：一个高效和灵活的深度学习框架。
+*   [Pytorch](http://pytorch.org/)：一个具有张量和动态神经网络，并有强大 GPU 加速能力的深度学习框架。
+*   [SerpentAI](https://github.com/SerpentAI/SerpentAI)：游戏代理框架，可使用任意视频游戏作为深度学习沙箱。
+*   [Theano](https://github.com/Theano/Theano)：一个快速数值计算库。
+*   [TensorFlow](http://tensorflow.org/)：谷歌开源的最受欢迎的深度学习框架。
+*   [skflow](https://github.com/tensorflow/skflow)：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。
+*   [hebel](https://github.com/hannes-brt/hebel)：GPU 加速的深度学习库。
+*   [pydeep](https://github.com/andersbll/deeppy)：Python 深度学习库。
+
+### 计算机视觉
+
+计算机视觉相关库。
+
+*   [OpenCV](http://opencv.org/)：开源计算机视觉库。
+*   [pyocr](https://github.com/jflesch/pyocr)：Tesseract 和 Cuneiform 的包装库。
+*   [pytesseract](https://github.com/madmaze/pytesseract)：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的另一包装库。
+*   [SimpleCV](http://simplecv.org/)：一个用来创建计算机视觉应用的开源框架。
+*   [EasyOCR](https://github.com/JaidedAI/EasyOCR)：支持40多种语言的即用型 OCR。
+*   [Face Recognition](https://github.com/ageitgey/face_recognition)：简单的面部识别库。
+*   [Kornia](https://github.com/kornia/kornia/)：PyTorch 的开源差异化计算机视觉库。
+*   [tesserocr](https://github.com/sirfz/tesserocr)：另一个简单的，兼容 Pillow 的 `tesseract-ocr` API 装饰器，可用于 OCR。
+*   [paddleocr](https://github.com/PaddlePaddle/PaddleOCR): 除光学字符识别外还引入了表格识别。
+
+### 自然语言处理
+
+用来处理人类语言的库。
+
+*   [NLTK](http://www.nltk.org/)：一个先进的平台，用以构建处理人类语言数据的 Python 程序。
+*   [gensim](https://github.com/piskvorky/gensim)：人性化的话题建模库。
+*   [jieba](https://github.com/fxsjy/jieba)：中文分词工具。
+*   [langid.py](https://github.com/saffsd/langid.py)：独立的语言识别系统。
+*   [Pattern](http://www.clips.ua.ac.be/pattern)：Python 网络信息挖掘模块。
+*   [SnowNLP](https://github.com/isnowfy/snownlp)：一个用来处理中文文本的库。
+*   [TextBlob](http://textblob.readthedocs.org/en/latest/)：为进行普通自然语言处理任务提供一致的 API。
+*   [TextGrocery](https://github.com/2shou/TextGrocery)：一简单高效的短文本分类工具，基于 LibLinear 和 Jieba。
+*   [thulac](https://github.com/thunlp/THULAC-Python)：清华大学自然语言处理与社会人文计算实验室研制推出的一套中文词法分析工具包。
+*   [polyglot](https://github.com/aboSamoor/polyglot)：支持数百种语言的自然语言处理管道。
+*   [pytext](https://github.com/facebookresearch/pytext)：基于 PyTouch 的自然语言模型框架。
+*   [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP)：一个支持快速深度学习 NLP 原型研究的工具包。
+*   [spacy](https://spacy.io/)：Python 和 Cython 中用于工业级自然语言处理的库。
+*   [Stanza](https://github.com/stanfordnlp/stanza)：斯坦福 NLP 集团的官方 Python 库，支持 60 多种语言。
+*   [funNLP](https://github.com/fighting41love/funNLP)：中文自然语言处理的工具和数据集。
+*   [pkuseg-python](https://github.com/lancopku/pkuseg-python)：一个支持对不同领域进行中文分词的工具箱。
+
+### 推荐系统
+
+用于构建推荐系统的相关库。
+
+* [annoy](https://github.com/spotify/annoy)：对 C++/Python 实现的近似近邻算法进行了内存优化。
+* [fastFM](https://github.com/ibayer/fastFM)：Factorization Machine 相关库。
+* [implicit](https://github.com/benfred/implicit)：对隐式数据集进行协作过滤的快速 Python 实现。
+* [libffm](https://github.com/guestwalk/libffm)：Field-aware Factorization Machine (FFM) 相关库。
+* [lightfm](https://github.com/lyst/lightfm)：很多流行的推荐算法的 Python 实现。
+* [spotlight](https://github.com/maciejkula/spotlight)：使用 PyTorch 实现的深度推荐模型。
+* [Surprise](https://github.com/NicolasHug/Surprise)：用于构建和分析推荐系统的科学工具。
+* [tensorrec](https://github.com/jfkirk/tensorrec)：TensorFlow 的推荐引擎框架。
