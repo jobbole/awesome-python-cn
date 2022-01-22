@@ -32,7 +32,6 @@
     - [命令行工具](#命令行工具)
     - [下载器](#下载器)
     - [图像处理](#图像处理)
-    - [OCR](#ocr)
     - [音频](#音频)
     - [Video](#video)
     - [地理位置](#地理位置)
@@ -398,13 +397,6 @@
 *   [PyMatting](https://github.com/pymatting/pymatting)：支持 alpha matting 的库。
 *   [pywal](https://github.com/dylanaraps/pywal)：由图像生成配色方案的工具。
 *   [pyvips](https://github.com/libvips/pyvips)：低内存消耗且快速的图像处理库。
-
-### OCR
-
-光学字符识别库。
-*   [paddleocr](https://github.com/PaddlePaddle/PaddleOCR): 除光学字符识别外还引入了表格识别。
-*   [pyocr](https://gitlab.gnome.org/World/OpenPaperwork/pyocr)：Tesseract 和 Cuneiform 的一个封装。
-*   [pytesseract](https://github.com/madmaze/pytesseract)：[Google Tesseract OCR](https://github.com/tesseract-ocr) 的一个封装。
 
 ### 音频
 
@@ -1215,6 +1207,7 @@ Web socket 相关库。
 *   [Face Recognition](https://github.com/ageitgey/face_recognition)：简单的面部识别库。
 *   [Kornia](https://github.com/kornia/kornia/)：PyTorch 的开源差异化计算机视觉库。
 *   [tesserocr](https://github.com/sirfz/tesserocr)：另一个简单的，兼容 Pillow 的 `tesseract-ocr` API 装饰器，可用于 OCR。
+*   [paddleocr](https://github.com/PaddlePaddle/PaddleOCR): 除光学字符识别外还引入了表格识别。
 
 ### 深度学习
 
