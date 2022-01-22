@@ -26,14 +26,8 @@
     - [自然语言处理](#自然语言处理)
     - [命令行工具](#命令行工具)
     - [下载器](#下载器)
-    - [图像处理](#图像处理)
-    - [音频](#音频)
-    - [Video](#video)
     - [地理位置](#地理位置)
     - [HTTP](#http)
-    - [数据库](#数据库)
-    - [数据库驱动](#数据库驱动)
-    - [ORM](#orm)
     - [Web 框架](#web-框架)
     - [WebSocket](#websocket)
     - [权限](#权限)
@@ -70,7 +64,6 @@
     - [密码学](#密码学)
     - [图形用户界面](#图形用户界面)
     - [游戏开发](#游戏开发)
-    - [日志](#日志)
     - [测试](#测试)
     - [渗透测试](#渗透测试)
     - [代码分析和 Lint 工具](#代码分析和-lint-工具)
@@ -108,6 +101,14 @@
     - [特殊文本格式处理](#特殊文本格式处理)
     - [文档](#文档)
     - [配置](#配置)
+    - [图像处理](#图像处理)
+    - [音频](#音频)
+    - [Video](#video)
+    - [日志](#日志)
+  - [数据库](#数据库)
+    - [数据库](#数据库-1)
+    - [数据库驱动](#数据库驱动)
+    - [ORM](#orm)
 
 ---
 
@@ -275,60 +276,6 @@
 *   [youtube-dl](http://rg3.github.io/youtube-dl/)：一个小巧的命令行程序，用来下载 YouTube 视频。
 *   [akshare](https://github.com/jindaxiang/akshare)：为方便人使用而创建的金融数据接口库。
 
-### 图像处理
-
-用来操作图像的库.
-
-*   [pillow](http://pillow.readthedocs.org/en/latest/)：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。
-*   [hmap](https://github.com/rossgoodwin/hmap)：图像直方图映射。
-*   [imgSeek](https://sourceforge.net/projects/imgseek/)：一个使用视觉相似性搜索一组图片集合的项目。
-*   [nude.py](https://github.com/hhatto/nude.py)：裸体检测。
-*   [python-barcode](https://github.com/WhyNotHugo/python-barcode)：不借助其他库在 Python 程序中生成条形码。
-*   [pygram](https://github.com/ajkumar25/pygram)：类似 Instagram 的图像滤镜。
-*   [python-qrcode](https://github.com/lincolnloop/python-qrcode)：一个纯 Python 实现的二维码生成器。
-*   [Quads](https://github.com/fogleman/Quads)：基于四叉树的计算机艺术。
-*   [scikit-image](http://scikit-image.org/)：一个用于（科学）图像处理的 Python 库。
-*   [thumbor](https://github.com/thumbor/thumbor)：一个小型图像服务，具有剪裁，尺寸重设和翻转功能。
-*   [wand](https://github.com/dahlia/wand)：[MagickWand ](http://www.imagemagick.org/script/magick-wand.php)的 Python 绑定。MagickWand 是 ImageMagick 的 C API 。
-*   [face_recognition](https://github.com/ageitgey/face_recognition)：简单易用的 Python 人脸识别库。
-*   [pagan](https://github.com/daboth/pagan)：基于输入和哈希的复古风图标（头像）生成工具。
-*   [PyMatting](https://github.com/pymatting/pymatting)：支持 alpha matting 的库。
-*   [pywal](https://github.com/dylanaraps/pywal)：由图像生成配色方案的工具。
-*   [pyvips](https://github.com/libvips/pyvips)：低内存消耗且快速的图像处理库。
-
-### 音频
-
-用来操作音频的库
-
-*   [audiolazy](https://github.com/danilobellini/audiolazy)：Python 的数字信号处理包。
-*   [audioread](https://github.com/beetbox/audioread)：交叉库 (GStreamer + Core Audio + MAD + FFmpeg) 音频解码。
-*   [beets](http://beets.io/)：一个音乐库管理工具及 [MusicBrainz](https://musicbrainz.org/) 标签添加工具。
-*   [dejavu](https://github.com/worldveil/dejavu)：音频指纹提取和识别。
-*   [django-elastic-transcoder](https://github.com/StreetVoice/django-elastic-transcoder)：Django + [Amazon Elastic Transcoder](http://aws.amazon.com/elastictranscoder/)。
-*   [eyeD3](http://eyed3.nicfit.net/)：一个用来操作音频文件的工具，具体来讲就是包含 ID3 元信息的 MP3 文件。
-*   [id3reader](http://nedbatchelder.com/code/modules/id3reader.py)：一个用来读取 MP3 元数据的 Python 模块。
-*   [m3u8](https://github.com/globocom/m3u8)：一个用来解析 m3u8 文件的模块。
-*   [mutagen](https://bitbucket.org/lazka/mutagen)：一个用来处理音频元数据的 Python 模块。
-*   [pydub](https://github.com/jiaaro/pydub)：通过简单、简洁的高层接口来操作音频文件。
-*   [pyechonest](https://github.com/echonest/pyechonest)：[Echo Nest](http://developer.echonest.com/) API 的 Python 客户端。
-*   [talkbox](http://scikits.appspot.com/talkbox)：一个用来处理演讲/信号的 Python 库。
-*   [TimeSide](https://github.com/Parisson/TimeSide)：开源 web 音频处理框架。
-*   [tinytag](https://github.com/devsnd/tinytag)：一个用来读取 MP3, OGG, FLAC 以及 Wave 文件音乐元数据的库。
-*   [mingus](http://bspaans.github.io/python-mingus/)：一个高级音乐理论和曲谱包，支持 MIDI 文件和回放功能。
-*   [kapre](https://github.com/keunwoochoi/kapre)：Keras 音频处理器。
-*   [librosa](https://github.com/librosa/librosa)：音频音乐分析 Python 库。
-*   [matchering](https://github.com/sergree/matchering)：用于音频母带制作的库。
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)：音频特征提取，分类，分段和应用。
-* [beets](https://github.com/beetbox/beets)：一个音乐库管理器和 [MusicBrainz](https://musicbrainz.org/) 标记器。
-
-### Video
-
-用来操作视频和 GIF 的库。
-
-*   [moviepy](http://zulko.github.io/moviepy/)：一个用来进行基于脚本的视频编辑模块，适用于多种格式，包括动图 GIFs。
-*   [scikit-video](https://github.com/aizvorski/scikit-video)：SciPy 视频处理常用程序。
-*   [vidgear](https://github.com/abhiTronix/vidgear)： 强大的多线程视频处理框架。
-
 ### 地理位置
 
 地理编码地址以及用来处理经纬度的库。
@@ -352,78 +299,6 @@
 *   [treq](https://github.com/twisted/treq)：类似 requests 的 Python API 构建于 Twisted HTTP 客户端之上。
 *   [urllib3](https://github.com/shazow/urllib3)：一个具有线程安全连接池，支持文件 post，清晰友好的 HTTP 库。
 *   [httpx](https://github.com/encode/httpx)：下一代 Python HTTP 客户端。
-
-### 数据库
-
-Python 实现的数据库。
-
-*   [pickleDB](https://pythonhosted.org/pickleDB/)：一个简单，轻量级键值储存数据库。
-*   [PipelineDB](https://www.pipelinedb.com/)：流式 SQL 数据库。
-*   [TinyDB](https://github.com/msiemens/tinydb)：一个微型的，面向文档型数据库。
-*   [ZODB](http://www.zodb.org/en/latest/)：一个 Python 原生对象数据库。一个键值和对象图数据库。
-
-### 数据库驱动
-
-用来连接和操作数据库的库。
-
-*   MySQL：[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/) 系列
-    *   [aiomysql](https://github.com/aio-libs/aiomysql)：基于 asyncio 的异步 MySQL 数据库操作库。
-    *   [mysql-python](https://sourceforge.net/projects/mysql-python/)：Python 的 MySQL 数据库连接器。
-    *   [mysqlclient](https://github.com/PyMySQL/mysqlclient)：[mysql-python](https://github.com/PyMySQL/mysqlclient-python) 分支，支持 Python 3。
-    *   [oursql](https://pythonhosted.org/oursql/)：一个更好的 MySQL 连接器，支持原生预编译指令和 BLOBs。
-    *   [PyMySQL](https://github.com/PyMySQL/PyMySQL)：纯 Python MySQL 驱动，兼容 mysql-python。
-*   PostgreSQL
-    *   [psycopg2](http://initd.org/psycopg/)：Python 中最流行的 PostgreSQL 适配器。
-    *   [queries](https://github.com/gmr/queries)：psycopg2 库的封装，用来和 PostgreSQL 进行交互。
-    *   [txpostgres](http://txpostgres.readthedocs.org/en/latest/)：基于 Twisted 的异步 PostgreSQL 驱动。
-*   SQlite - [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite)
-    *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python 标准库) 兼容DB-API 2.0的SQlite接口。
-    *   [apsw](http://rogerbinns.github.io/apsw/)：另一个 Python SQLite 封装。
-    *   [SuperSQLite](https://github.com/plasticityai/supersqlite) - 一个建立在[apsw](https://github.com/rogerbinns/apsw)之上的强大的SQLite库。
-*   其他关系型数据库
-    *   [pymssql](http://www.pymssql.org/en/latest/)：一个简单的 Microsoft SQL Server 数据库接口。
-    *   [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) - 带有ClickHouse原生接口的Python驱动程序。
-*   NoSQL 数据库
-    *   [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis)：基于 asyncio 的 redis 客户端 (PEP 3156)。
-    *   [cassandra-python-driver](https://github.com/datastax/python-driver)：Cassandra 的 Python 驱动。
-    *   [HappyBase](http://happybase.readthedocs.org/en/latest/)：一个为 Apache HBase 设计的，对开发者友好的库。
-    *   [Plyvel](https://plyvel.readthedocs.org/en/latest/)：一个快速且功能丰富的 LevelDB 的 Python 接口。
-    *   [py2neo](http://py2neo.org/2.0/)：Neo4j restful 接口的 Python 封装客户端。
-    *   [pycassa](https://github.com/pycassa/pycassa)：Cassandra 的 Python Thrift 驱动。
-    *   [PyMongo](https://docs.mongodb.org/ecosystem/drivers/python/)：MongoDB 的官方 Python 客户端。
-    *   [redis-py](https://github.com/andymccurdy/redis-py)：Redis 的 Python 客户端。
-    *   [telephus](https://github.com/driftx/Telephus)：基于 Twisted 的 Cassandra 客户端。
-    *   [txRedis](https://github.com/deldotdr/txRedis)：基于 Twisted 的 Redis 客户端。
-    *   [kafka-python](https://github.com/dpkp/kafka-python)：Apache Kafka Python 客户端。
-*   异步客户端
-    * [motor](https://github.com/mongodb/motor)：支持 MongoDB 的异步 Python 驱动程序。
-
-### ORM
-
-实现对象关系映射或数据映射技术的库。
-
-*   关系型数据库
-    *   [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/)：Django 的一部分。
-    *   [SQLAlchemy](http://www.sqlalchemy.org/)：Python SQL 工具以及对象关系映射工具。
-        * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
-    *   [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) 系列
-    *   [Peewee](https://github.com/coleifer/peewee)：一个小巧，富有表现力的 ORM。
-    *   [PonyORM](https://ponyorm.com/)：提供面向生成器的 SQL 接口的 ORM。
-    *   [python-sql](https://pypi.python.org/pypi/python-sql)：编写 Python 风格的 SQL 查询。
-    *   [dataset](https://github.com/pudo/dataset)：在数据库中存储字典，支持 SQLite，MySQL 和 PostgreSQL。
-    *   [orator](https://github.com/sdispater/orator)：Orator ORM，提供了一个简单而美观的 ActiveRecord 实现。
-    *   [orm](https://github.com/encode/orm)：一个异步的 ORM。
-    *   [pony](https://github.com/ponyorm/pony/)：提供面向生成器的SQL接口的ORM。
-    *   [pydal](https://github.com/web2py/pydal/)：纯 Python 数据库抽象接口层。
-*   NoSQL 数据库
-    *   [django-mongodb-engine](https://github.com/django-nonrel/mongodb-engine)：Django MongoDB 后端。
-    *   [PynamoDB](https://github.com/jlafon/PynamoDB)：[Amazon DynamoDB](https://aws.amazon.com/dynamodb/) 的一个 Python 风格接口。
-    *   [flywheel](https://github.com/mathcamp/flywheel)：Amazon DynamoDB 的对象映射工具。
-    *   [MongoEngine](http://mongoengine.org/)：一个 Python 对象文档映射工具，用于 MongoDB。
-    *   [hot-redis](https://github.com/stephenmcd/hot-redis)：为 Redis 提供 Python 丰富的数据类型。
-    *   [redisco](https://github.com/kiddouk/redisco)：一个 Python 库，提供可以持续存在在 Redis 中的简单模型和容器。
-*   其他
-    *   [butterdb](https://github.com/Widdershin/butterdb)：Google Drive 电子表格的 Python ORM。
 
 ### Web 框架
 
@@ -894,19 +769,6 @@ Web socket 相关库。
 *   [RenPy](https://www.renpy.org/)：一个视觉小说（visual novel）引擎。
 *   [Arcade](https://api.arcade.academy/en/latest)：一个现代 Python 框架，用于制作具有引人入胜的图形与声音的游戏。
 *   [Harfang3D](http://www.harfang3d.com)：支持3D，VR 与游戏开发的 Python 框架。
-
-### 日志
-
-用来生成和操作日志的库。
-
-*   [logging](https://docs.python.org/2/library/logging.html)：(Python 标准库) 为 Python 提供日志功能。
-*   [logbook](http://pythonhosted.org/Logbook/)：Logging 库的替代品。
-*   [Eliot](https://eliot.readthedocs.org/en/latest/)：为复杂的和分布式系统创建日志。
-*   [Raven](http://raven.readthedocs.org/en/latest/)：Sentry 的 Python 客户端。
-*   [Sentry](https://pypi.python.org/pypi/sentry)：实时记录和收集日志的服务器。
-*   [sentry-python](https://github.com/getsentry/sentry-python)：Python 版 Sentry SDK。
-*   [loguru](https://github.com/Delgan/loguru)：旨在带来愉悦体验的 Python 日志库。
-*   [structlog](https://www.structlog.org/en/stable/)：结构化日志，让日志变得简单。
 
 ### 测试
 
@@ -1505,3 +1367,144 @@ GraphQL 相关库。
 *   [profig](http://profig.readthedocs.org/en/default/)：通过多种格式进行配置，具有数值转换功能。
 *   [python-decouple](https://github.com/henriquebastos/python-decouple)：将设置和代码完全隔离。
 *   [hydra](https://github.com/facebookresearch/hydra)：一个优雅地配置复杂应用程序的框架。
+
+### 图像处理
+
+用来操作图像的库.
+
+*   [pillow](http://pillow.readthedocs.org/en/latest/)：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。
+*   [hmap](https://github.com/rossgoodwin/hmap)：图像直方图映射。
+*   [imgSeek](https://sourceforge.net/projects/imgseek/)：一个使用视觉相似性搜索一组图片集合的项目。
+*   [nude.py](https://github.com/hhatto/nude.py)：裸体检测。
+*   [python-barcode](https://github.com/WhyNotHugo/python-barcode)：不借助其他库在 Python 程序中生成条形码。
+*   [pygram](https://github.com/ajkumar25/pygram)：类似 Instagram 的图像滤镜。
+*   [python-qrcode](https://github.com/lincolnloop/python-qrcode)：一个纯 Python 实现的二维码生成器。
+*   [Quads](https://github.com/fogleman/Quads)：基于四叉树的计算机艺术。
+*   [scikit-image](http://scikit-image.org/)：一个用于（科学）图像处理的 Python 库。
+*   [thumbor](https://github.com/thumbor/thumbor)：一个小型图像服务，具有剪裁，尺寸重设和翻转功能。
+*   [wand](https://github.com/dahlia/wand)：[MagickWand ](http://www.imagemagick.org/script/magick-wand.php)的 Python 绑定。MagickWand 是 ImageMagick 的 C API 。
+*   [face_recognition](https://github.com/ageitgey/face_recognition)：简单易用的 Python 人脸识别库。
+*   [pagan](https://github.com/daboth/pagan)：基于输入和哈希的复古风图标（头像）生成工具。
+*   [PyMatting](https://github.com/pymatting/pymatting)：支持 alpha matting 的库。
+*   [pywal](https://github.com/dylanaraps/pywal)：由图像生成配色方案的工具。
+*   [pyvips](https://github.com/libvips/pyvips)：低内存消耗且快速的图像处理库。
+
+### 音频
+
+用来操作音频的库
+
+*   [audiolazy](https://github.com/danilobellini/audiolazy)：Python 的数字信号处理包。
+*   [audioread](https://github.com/beetbox/audioread)：交叉库 (GStreamer + Core Audio + MAD + FFmpeg) 音频解码。
+*   [beets](http://beets.io/)：一个音乐库管理工具及 [MusicBrainz](https://musicbrainz.org/) 标签添加工具。
+*   [dejavu](https://github.com/worldveil/dejavu)：音频指纹提取和识别。
+*   [django-elastic-transcoder](https://github.com/StreetVoice/django-elastic-transcoder)：Django + [Amazon Elastic Transcoder](http://aws.amazon.com/elastictranscoder/)。
+*   [eyeD3](http://eyed3.nicfit.net/)：一个用来操作音频文件的工具，具体来讲就是包含 ID3 元信息的 MP3 文件。
+*   [id3reader](http://nedbatchelder.com/code/modules/id3reader.py)：一个用来读取 MP3 元数据的 Python 模块。
+*   [m3u8](https://github.com/globocom/m3u8)：一个用来解析 m3u8 文件的模块。
+*   [mutagen](https://bitbucket.org/lazka/mutagen)：一个用来处理音频元数据的 Python 模块。
+*   [pydub](https://github.com/jiaaro/pydub)：通过简单、简洁的高层接口来操作音频文件。
+*   [pyechonest](https://github.com/echonest/pyechonest)：[Echo Nest](http://developer.echonest.com/) API 的 Python 客户端。
+*   [talkbox](http://scikits.appspot.com/talkbox)：一个用来处理演讲/信号的 Python 库。
+*   [TimeSide](https://github.com/Parisson/TimeSide)：开源 web 音频处理框架。
+*   [tinytag](https://github.com/devsnd/tinytag)：一个用来读取 MP3, OGG, FLAC 以及 Wave 文件音乐元数据的库。
+*   [mingus](http://bspaans.github.io/python-mingus/)：一个高级音乐理论和曲谱包，支持 MIDI 文件和回放功能。
+*   [kapre](https://github.com/keunwoochoi/kapre)：Keras 音频处理器。
+*   [librosa](https://github.com/librosa/librosa)：音频音乐分析 Python 库。
+*   [matchering](https://github.com/sergree/matchering)：用于音频母带制作的库。
+* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)：音频特征提取，分类，分段和应用。
+* [beets](https://github.com/beetbox/beets)：一个音乐库管理器和 [MusicBrainz](https://musicbrainz.org/) 标记器。
+
+### Video
+
+用来操作视频和 GIF 的库。
+
+*   [moviepy](http://zulko.github.io/moviepy/)：一个用来进行基于脚本的视频编辑模块，适用于多种格式，包括动图 GIFs。
+*   [scikit-video](https://github.com/aizvorski/scikit-video)：SciPy 视频处理常用程序。
+*   [vidgear](https://github.com/abhiTronix/vidgear)： 强大的多线程视频处理框架。
+
+### 日志
+
+用来生成和操作日志的库。
+
+*   [logging](https://docs.python.org/2/library/logging.html)：(Python 标准库) 为 Python 提供日志功能。
+*   [logbook](http://pythonhosted.org/Logbook/)：Logging 库的替代品。
+*   [Eliot](https://eliot.readthedocs.org/en/latest/)：为复杂的和分布式系统创建日志。
+*   [Raven](http://raven.readthedocs.org/en/latest/)：Sentry 的 Python 客户端。
+*   [Sentry](https://pypi.python.org/pypi/sentry)：实时记录和收集日志的服务器。
+*   [sentry-python](https://github.com/getsentry/sentry-python)：Python 版 Sentry SDK。
+*   [loguru](https://github.com/Delgan/loguru)：旨在带来愉悦体验的 Python 日志库。
+*   [structlog](https://www.structlog.org/en/stable/)：结构化日志，让日志变得简单。
+
+## 数据库
+
+### 数据库
+
+Python 实现的数据库。
+
+*   [pickleDB](https://pythonhosted.org/pickleDB/)：一个简单，轻量级键值储存数据库。
+*   [PipelineDB](https://www.pipelinedb.com/)：流式 SQL 数据库。
+*   [TinyDB](https://github.com/msiemens/tinydb)：一个微型的，面向文档型数据库。
+*   [ZODB](http://www.zodb.org/en/latest/)：一个 Python 原生对象数据库。一个键值和对象图数据库。
+
+### 数据库驱动
+
+用来连接和操作数据库的库。
+
+*   MySQL：[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/) 系列
+    *   [aiomysql](https://github.com/aio-libs/aiomysql)：基于 asyncio 的异步 MySQL 数据库操作库。
+    *   [mysql-python](https://sourceforge.net/projects/mysql-python/)：Python 的 MySQL 数据库连接器。
+    *   [mysqlclient](https://github.com/PyMySQL/mysqlclient)：[mysql-python](https://github.com/PyMySQL/mysqlclient-python) 分支，支持 Python 3。
+    *   [oursql](https://pythonhosted.org/oursql/)：一个更好的 MySQL 连接器，支持原生预编译指令和 BLOBs。
+    *   [PyMySQL](https://github.com/PyMySQL/PyMySQL)：纯 Python MySQL 驱动，兼容 mysql-python。
+*   PostgreSQL
+    *   [psycopg2](http://initd.org/psycopg/)：Python 中最流行的 PostgreSQL 适配器。
+    *   [queries](https://github.com/gmr/queries)：psycopg2 库的封装，用来和 PostgreSQL 进行交互。
+    *   [txpostgres](http://txpostgres.readthedocs.org/en/latest/)：基于 Twisted 的异步 PostgreSQL 驱动。
+*   SQlite - [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite)
+    *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python 标准库) 兼容DB-API 2.0的SQlite接口。
+    *   [apsw](http://rogerbinns.github.io/apsw/)：另一个 Python SQLite 封装。
+    *   [SuperSQLite](https://github.com/plasticityai/supersqlite) - 一个建立在[apsw](https://github.com/rogerbinns/apsw)之上的强大的SQLite库。
+*   其他关系型数据库
+    *   [pymssql](http://www.pymssql.org/en/latest/)：一个简单的 Microsoft SQL Server 数据库接口。
+    *   [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) - 带有ClickHouse原生接口的Python驱动程序。
+*   NoSQL 数据库
+    *   [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis)：基于 asyncio 的 redis 客户端 (PEP 3156)。
+    *   [cassandra-python-driver](https://github.com/datastax/python-driver)：Cassandra 的 Python 驱动。
+    *   [HappyBase](http://happybase.readthedocs.org/en/latest/)：一个为 Apache HBase 设计的，对开发者友好的库。
+    *   [Plyvel](https://plyvel.readthedocs.org/en/latest/)：一个快速且功能丰富的 LevelDB 的 Python 接口。
+    *   [py2neo](http://py2neo.org/2.0/)：Neo4j restful 接口的 Python 封装客户端。
+    *   [pycassa](https://github.com/pycassa/pycassa)：Cassandra 的 Python Thrift 驱动。
+    *   [PyMongo](https://docs.mongodb.org/ecosystem/drivers/python/)：MongoDB 的官方 Python 客户端。
+    *   [redis-py](https://github.com/andymccurdy/redis-py)：Redis 的 Python 客户端。
+    *   [telephus](https://github.com/driftx/Telephus)：基于 Twisted 的 Cassandra 客户端。
+    *   [txRedis](https://github.com/deldotdr/txRedis)：基于 Twisted 的 Redis 客户端。
+    *   [kafka-python](https://github.com/dpkp/kafka-python)：Apache Kafka Python 客户端。
+*   异步客户端
+    * [motor](https://github.com/mongodb/motor)：支持 MongoDB 的异步 Python 驱动程序。
+
+### ORM
+
+实现对象关系映射或数据映射技术的库。
+
+*   关系型数据库
+    *   [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/)：Django 的一部分。
+    *   [SQLAlchemy](http://www.sqlalchemy.org/)：Python SQL 工具以及对象关系映射工具。
+        * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
+    *   [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) 系列
+    *   [Peewee](https://github.com/coleifer/peewee)：一个小巧，富有表现力的 ORM。
+    *   [PonyORM](https://ponyorm.com/)：提供面向生成器的 SQL 接口的 ORM。
+    *   [python-sql](https://pypi.python.org/pypi/python-sql)：编写 Python 风格的 SQL 查询。
+    *   [dataset](https://github.com/pudo/dataset)：在数据库中存储字典，支持 SQLite，MySQL 和 PostgreSQL。
+    *   [orator](https://github.com/sdispater/orator)：Orator ORM，提供了一个简单而美观的 ActiveRecord 实现。
+    *   [orm](https://github.com/encode/orm)：一个异步的 ORM。
+    *   [pony](https://github.com/ponyorm/pony/)：提供面向生成器的SQL接口的ORM。
+    *   [pydal](https://github.com/web2py/pydal/)：纯 Python 数据库抽象接口层。
+*   NoSQL 数据库
+    *   [django-mongodb-engine](https://github.com/django-nonrel/mongodb-engine)：Django MongoDB 后端。
+    *   [PynamoDB](https://github.com/jlafon/PynamoDB)：[Amazon DynamoDB](https://aws.amazon.com/dynamodb/) 的一个 Python 风格接口。
+    *   [flywheel](https://github.com/mathcamp/flywheel)：Amazon DynamoDB 的对象映射工具。
+    *   [MongoEngine](http://mongoengine.org/)：一个 Python 对象文档映射工具，用于 MongoDB。
+    *   [hot-redis](https://github.com/stephenmcd/hot-redis)：为 Redis 提供 Python 丰富的数据类型。
+    *   [redisco](https://github.com/kiddouk/redisco)：一个 Python 库，提供可以持续存在在 Redis 中的简单模型和容器。
+*   其他
+    *   [butterdb](https://github.com/Widdershin/butterdb)：Google Drive 电子表格的 Python ORM。
