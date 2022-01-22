@@ -22,13 +22,8 @@
     - [分发](#分发)
     - [构建工具](#构建工具)
     - [交互式解析器](#交互式解析器)
-    - [文件](#文件)
     - [日期和时间](#日期和时间)
-    - [文本处理](#文本处理)
-    - [特殊文本格式处理](#特殊文本格式处理)
     - [自然语言处理](#自然语言处理)
-    - [文档](#文档)
-    - [配置](#配置)
     - [命令行工具](#命令行工具)
     - [下载器](#下载器)
     - [图像处理](#图像处理)
@@ -107,6 +102,12 @@
     - [GraphQL](#graphql)
     - [股票金融](#股票金融)
     - [杂项](#杂项)
+  - [文件管理](#文件管理)
+    - [文件](#文件)
+    - [文本处理](#文本处理)
+    - [特殊文本格式处理](#特殊文本格式处理)
+    - [文档](#文档)
+    - [配置](#配置)
 
 ---
 
@@ -180,20 +181,6 @@
 *   [Jupyter Notebook (IPython)](https://jupyter.org)：一个能够让你最大限度地以交互式方式使用 Python 的丰富工具包。
     * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
 
-### 文件
-
-文件管理和 MIME（多用途的网际邮件扩充协议）类型检测。
-
-*   [aiofiles](https://github.com/Tinche/aiofiles)：基于 asyncio，提供文件异步操作。
-*   [imghdr](https://docs.python.org/2/library/imghdr.html)：（Python 标准库）检测图片类型。
-*   [mimetypes](https://docs.python.org/2/library/mimetypes.html)：（Python 标准库）将文件名映射为 MIME 类型。
-*   [path.py](https://github.com/jaraco/path.py)：对 os.path 进行封装的模块。
-*   [pathlib](https://pathlib.readthedocs.org/en/pep428/)：（Python3.4+ 标准库）跨平台的、面向对象的路径操作库。
-*   [python-magic](https://github.com/ahupp/python-magic)：文件类型检测的第三方库 libmagic 的 Python 接口。
-*   [Unipath](https://github.com/mikeorr/Unipath)：用面向对象的方式操作文件和目录。
-*   [watchdog](https://github.com/gorakhargosh/watchdog)：管理文件系统事件的 API 和 shell 工具。
-*   [PyFilesystem2](https://github.com/pyfilesystem/pyfilesystem2)：Python 的文件系统抽象层。
-
 ### 日期和时间
 
 操作日期和时间的类库。
@@ -210,73 +197,6 @@
 *   [dateutil](https://github.com/dateutil/dateutil)：Python 标准包 [datetime](https://docs.python.org/3/library/datetime.html) 的扩展。
 *   [moment](https://github.com/zachwill/moment)：一个处理日期/时间的库，灵感来自 [Moment.js](http://momentjs.com/)。
 *   [pytz](https://launchpad.net/pytz)：支持跨平台时区计算，并将 [tz database](https://en.wikipedia.org/wiki/Tz_database) 引入 Python。
-
-### 文本处理
-
-用于解析和操作文本的库。
-
-*   通用
-    *   [chardet](https://github.com/chardet/chardet)：字符编码检测器，兼容 Python 2 和 Python 3。
-    *   [difflib](https://docs.python.org/2/library/difflib.html)：(Python 标准库)帮助我们进行差异化比较。
-    *   [ftfy](https://github.com/LuminosoInsight/python-ftfy)：让 Unicode 文本更完整更连贯。
-    *   [thefuzz](https://github.com/seatgeek/thefuzz)：模糊字符串匹配。
-    *   [Levenshtein](https://github.com/ztane/python-Levenshtein/)：快速计算编辑距离以及字符串的相似度。
-    *   [pangu.py](https://github.com/vinta/pangu.py)：在中日韩语字符和数字字母之间添加空格。
-    *   [pypinyin](https://github.com/mozillazg/python-pinyin)：汉字拼音转换工具 Python 版。
-    *   [shortuuid](https://github.com/stochastic-technologies/shortuuid)：一个生成器库，用以生成简洁的，明白的，URL 安全的 UUID。
-    *   [simplejson](https://github.com/simplejson/simplejson)：Python 的 JSON 编码、解码器。
-    *   [unidecode](https://pypi.python.org/pypi/Unidecode)：Unicode 文本的 ASCII 转换形式 。
-    *   [uniout](https://github.com/moskytw/uniout)：打印可读的字符，而不是转义的字符串。
-    *   [xpinyin](https://github.com/lxneng/xpinyin)：一个用于把汉字转换为拼音的库。
-    *   [pyfiglet](https://github.com/pwaller/pyfiglet)：figlet 的 Python 实现。
-    *   [flashtext](https://github.com/vi3k6i5/flashtext)：一个高效的文本查找替换库。
-    *   [textdistance](https://github.com/orsinium/textdistance)：支持 30 多种算法来计算序列之间的距离。
-*   Slug 化
-    *   [awesome-slugify](https://github.com/dimka665/awesome-slugify)：一个 Python slug 化库，可以保持 Unicode。
-    *   [python-slugify](https://github.com/un33k/python-slugify)：Python slug 化库，可以把 unicode 转化为 ASCII。
-    *   [unicode-slugify](https://github.com/mozilla/unicode-slugify)：一个 slug 工具，可以生成 unicode slugs ,需要依赖 Django 。
-*   解析器
-    *   [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers)：解析，格式化，储存，验证电话号码。
-    *   [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers)：解析，格式化，存储，校验国际电话号码。
-    *   [PLY](http://www.dabeaz.com/ply/)：lex 和 yacc 解析工具的 Python 实现。
-    *   [Pygments](http://pygments.org/)：通用语法高亮工具。
-    *   [pyparsing](http://pyparsing.wikispaces.com/)：生成通用解析器的框架。
-    *   [python-nameparser](https://github.com/derek73/python-nameparser)：把一个人名分解为几个独立的部分。
-    *   [python-user-agents](https://github.com/selwin/python-user-agents)：浏览器 user agent 解析器。
-    *   [sqlparse](https://sqlparse.readthedocs.org/en/latest/)：一个无验证的 SQL 解析器。
-
-### 特殊文本格式处理
-
-一些用来解析和操作特殊文本格式的库。
-
-*   通用
-    *   [tablib](https://github.com/kennethreitz/tablib)：一个用来处理中表格数据的模块。
-*   Office
-    *   [Marmir](https://github.com/brianray/mm)：把输入的 Python 数据结构转换为电子表单。
-    *   [openpyxl](https://openpyxl.readthedocs.org/en/latest/)：一个用来读写 Excel 2010 xlsx/xlsm/xltx/xltm 文件的库。
-    *   [pyexcel](https://github.com/pyexcel/pyexcel)：一个提供统一 API，用来读写，操作 Excel 文件的库。
-    *   [python-docx](https://github.com/python-openxml/python-docx)：读取，查询以及修改 Microsoft Word 2007/2008 docx 文件。
-    *   [python-pptx](https://github.com/scanny/python-pptx)：可用于创建和修改 ppt 文件的 Python 库。
-    *   [relatorio](http://relatorio.tryton.org/)：模板化 OpenDocument 文件。
-    *   [unoconv](https://github.com/dagwieers/unoconv)：在 LibreOffice/OpenOffice 支持的任意文件格式之间进行转换。
-    *   [XlsxWriter](https://xlsxwriter.readthedocs.org/en/latest/)：一个用于创建 Excel .xlsx 文件的 Python 模块。
-    *   [xlwings](http://xlwings.org/)：一个使得在 Excel 中方便调用 Python 的库（反之亦然），基于 BSD 协议。
-    *   [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd)：读写 Excel 文件的数据和格式信息。
-    *   [docxtpl](https://github.com/elapouya/python-docx-template)：通过 jinja2 模版编辑 docx 文档。
-*   PDF
-    *   [PDFMiner](https://github.com/euske/pdfminer)：一个用于从 PDF 文档中抽取信息的工具。
-    *   [PyPDF2](https://github.com/mstamy2/PyPDF2)：一个可以分割，合并和转换 PDF 页面的库。
-    *   [ReportLab](http://www.reportlab.com/opensource/)：快速创建富文本 PDF 文档。
-*   Markdown
-    *   [Mistune](https://github.com/lepture/mistune)：快速并且功能齐全的纯 Python 实现的 Markdown 解析器。
-    *   [Python-Markdown](https://github.com/waylan/Python-Markdown)：John Gruber’s Markdown 的 Python 版实现。
-    *   [Python-Markdown2](https://github.com/trentm/python-markdown2)：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。
-*   YAML
-    *   [PyYAML](http://pyyaml.org/)：Python 版本的 YAML 解析器。
-*   CSV
-    *   [csvkit](https://github.com/wireservice/csvkit)：用于转换和操作 CSV 的工具。
-*   Archive
-    *   [unp](https://github.com/mitsuhiko/unp)：一个用来方便解包归档文件的命令行工具。
 
 ### 自然语言处理
 
@@ -298,28 +218,6 @@
 *   [Stanza](https://github.com/stanfordnlp/stanza)：斯坦福 NLP 集团的官方 Python 库，支持 60 多种语言。
 *   [funNLP](https://github.com/fighting41love/funNLP)：中文自然语言处理的工具和数据集。
 *   [pkuseg-python](https://github.com/lancopku/pkuseg-python)：一个支持对不同领域进行中文分词的工具箱。
-
-### 文档
-
-用以生成项目文档的库。
-
-*   [Sphinx](http://www.sphinx-doc.org/en/latest/)：Python 文档生成器。
-    * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
-*   [MkDocs](http://www.mkdocs.org/)：对 Markdown 友好的文档生成器。
-*   [pdoc](https://github.com/BurntSushi/pdoc)：一个可以替换 Epydoc 的库，可以自动生成 Python 库的 API 文档。
-*   [Pycco](https://github.com/pycco-docs/pycco)：文学编程（literate-programming）风格的文档生成器。
-*   [readthedocs](https://github.com/rtfd/readthedocs.org/)：一个基于 Sphinx/MkDocs 的在线文档托管系统，对开源项目免费开放使用。
-
-### 配置
-
-用来保存和解析配置的库。
-
-*   [config](https://www.red-dove.com/config-doc/)：[logging](https://docs.python.org/2/library/logging.html) 模块作者写的分级配置模块。
-*   [ConfigObj](http://www.voidspace.org.uk/python/configobj.html)：INI 文件解析器，带验证功能。
-*   [ConfigParser](https://docs.python.org/2/library/configparser.html)：(Python 标准库) INI 文件解析器。
-*   [profig](http://profig.readthedocs.org/en/default/)：通过多种格式进行配置，具有数值转换功能。
-*   [python-decouple](https://github.com/henriquebastos/python-decouple)：将设置和代码完全隔离。
-*   [hydra](https://github.com/facebookresearch/hydra)：一个优雅地配置复杂应用程序的框架。
 
 ### 命令行工具
 
@@ -1502,3 +1400,108 @@ GraphQL 相关库。
 *   [magenta](https://github.com/magenta/magenta)：使用人工智能生成音乐与艺术的工具。
 *   [pluginbase](https://github.com/mitsuhiko/pluginbase)：一个简单但灵活的 Python 插件系统。
 *   [tryton](http://www.tryton.org/)：一个通用业务框架。
+
+## 文件管理
+
+### 文件
+
+文件管理和 MIME（多用途的网际邮件扩充协议）类型检测。
+
+*   [aiofiles](https://github.com/Tinche/aiofiles)：基于 asyncio，提供文件异步操作。
+*   [imghdr](https://docs.python.org/2/library/imghdr.html)：（Python 标准库）检测图片类型。
+*   [mimetypes](https://docs.python.org/2/library/mimetypes.html)：（Python 标准库）将文件名映射为 MIME 类型。
+*   [path.py](https://github.com/jaraco/path.py)：对 os.path 进行封装的模块。
+*   [pathlib](https://pathlib.readthedocs.org/en/pep428/)：（Python3.4+ 标准库）跨平台的、面向对象的路径操作库。
+*   [python-magic](https://github.com/ahupp/python-magic)：文件类型检测的第三方库 libmagic 的 Python 接口。
+*   [Unipath](https://github.com/mikeorr/Unipath)：用面向对象的方式操作文件和目录。
+*   [watchdog](https://github.com/gorakhargosh/watchdog)：管理文件系统事件的 API 和 shell 工具。
+*   [PyFilesystem2](https://github.com/pyfilesystem/pyfilesystem2)：Python 的文件系统抽象层。
+
+### 文本处理
+
+用于解析和操作文本的库。
+
+*   通用
+    *   [chardet](https://github.com/chardet/chardet)：字符编码检测器，兼容 Python 2 和 Python 3。
+    *   [difflib](https://docs.python.org/2/library/difflib.html)：(Python 标准库)帮助我们进行差异化比较。
+    *   [ftfy](https://github.com/LuminosoInsight/python-ftfy)：让 Unicode 文本更完整更连贯。
+    *   [thefuzz](https://github.com/seatgeek/thefuzz)：模糊字符串匹配。
+    *   [Levenshtein](https://github.com/ztane/python-Levenshtein/)：快速计算编辑距离以及字符串的相似度。
+    *   [pangu.py](https://github.com/vinta/pangu.py)：在中日韩语字符和数字字母之间添加空格。
+    *   [pypinyin](https://github.com/mozillazg/python-pinyin)：汉字拼音转换工具 Python 版。
+    *   [shortuuid](https://github.com/stochastic-technologies/shortuuid)：一个生成器库，用以生成简洁的，明白的，URL 安全的 UUID。
+    *   [simplejson](https://github.com/simplejson/simplejson)：Python 的 JSON 编码、解码器。
+    *   [unidecode](https://pypi.python.org/pypi/Unidecode)：Unicode 文本的 ASCII 转换形式 。
+    *   [uniout](https://github.com/moskytw/uniout)：打印可读的字符，而不是转义的字符串。
+    *   [xpinyin](https://github.com/lxneng/xpinyin)：一个用于把汉字转换为拼音的库。
+    *   [pyfiglet](https://github.com/pwaller/pyfiglet)：figlet 的 Python 实现。
+    *   [flashtext](https://github.com/vi3k6i5/flashtext)：一个高效的文本查找替换库。
+    *   [textdistance](https://github.com/orsinium/textdistance)：支持 30 多种算法来计算序列之间的距离。
+*   Slug 化
+    *   [awesome-slugify](https://github.com/dimka665/awesome-slugify)：一个 Python slug 化库，可以保持 Unicode。
+    *   [python-slugify](https://github.com/un33k/python-slugify)：Python slug 化库，可以把 unicode 转化为 ASCII。
+    *   [unicode-slugify](https://github.com/mozilla/unicode-slugify)：一个 slug 工具，可以生成 unicode slugs ,需要依赖 Django 。
+*   解析器
+    *   [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers)：解析，格式化，储存，验证电话号码。
+    *   [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers)：解析，格式化，存储，校验国际电话号码。
+    *   [PLY](http://www.dabeaz.com/ply/)：lex 和 yacc 解析工具的 Python 实现。
+    *   [Pygments](http://pygments.org/)：通用语法高亮工具。
+    *   [pyparsing](http://pyparsing.wikispaces.com/)：生成通用解析器的框架。
+    *   [python-nameparser](https://github.com/derek73/python-nameparser)：把一个人名分解为几个独立的部分。
+    *   [python-user-agents](https://github.com/selwin/python-user-agents)：浏览器 user agent 解析器。
+    *   [sqlparse](https://sqlparse.readthedocs.org/en/latest/)：一个无验证的 SQL 解析器。
+
+### 特殊文本格式处理
+
+一些用来解析和操作特殊文本格式的库。
+
+*   通用
+    *   [tablib](https://github.com/kennethreitz/tablib)：一个用来处理中表格数据的模块。
+*   Office
+    *   [Marmir](https://github.com/brianray/mm)：把输入的 Python 数据结构转换为电子表单。
+    *   [openpyxl](https://openpyxl.readthedocs.org/en/latest/)：一个用来读写 Excel 2010 xlsx/xlsm/xltx/xltm 文件的库。
+    *   [pyexcel](https://github.com/pyexcel/pyexcel)：一个提供统一 API，用来读写，操作 Excel 文件的库。
+    *   [python-docx](https://github.com/python-openxml/python-docx)：读取，查询以及修改 Microsoft Word 2007/2008 docx 文件。
+    *   [python-pptx](https://github.com/scanny/python-pptx)：可用于创建和修改 ppt 文件的 Python 库。
+    *   [relatorio](http://relatorio.tryton.org/)：模板化 OpenDocument 文件。
+    *   [unoconv](https://github.com/dagwieers/unoconv)：在 LibreOffice/OpenOffice 支持的任意文件格式之间进行转换。
+    *   [XlsxWriter](https://xlsxwriter.readthedocs.org/en/latest/)：一个用于创建 Excel .xlsx 文件的 Python 模块。
+    *   [xlwings](http://xlwings.org/)：一个使得在 Excel 中方便调用 Python 的库（反之亦然），基于 BSD 协议。
+    *   [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd)：读写 Excel 文件的数据和格式信息。
+    *   [docxtpl](https://github.com/elapouya/python-docx-template)：通过 jinja2 模版编辑 docx 文档。
+*   PDF
+    *   [PDFMiner](https://github.com/euske/pdfminer)：一个用于从 PDF 文档中抽取信息的工具。
+    *   [PyPDF2](https://github.com/mstamy2/PyPDF2)：一个可以分割，合并和转换 PDF 页面的库。
+    *   [ReportLab](http://www.reportlab.com/opensource/)：快速创建富文本 PDF 文档。
+*   Markdown
+    *   [Mistune](https://github.com/lepture/mistune)：快速并且功能齐全的纯 Python 实现的 Markdown 解析器。
+    *   [Python-Markdown](https://github.com/waylan/Python-Markdown)：John Gruber’s Markdown 的 Python 版实现。
+    *   [Python-Markdown2](https://github.com/trentm/python-markdown2)：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。
+*   YAML
+    *   [PyYAML](http://pyyaml.org/)：Python 版本的 YAML 解析器。
+*   CSV
+    *   [csvkit](https://github.com/wireservice/csvkit)：用于转换和操作 CSV 的工具。
+*   Archive
+    *   [unp](https://github.com/mitsuhiko/unp)：一个用来方便解包归档文件的命令行工具。
+
+### 文档
+
+用以生成项目文档的库。
+
+*   [Sphinx](http://www.sphinx-doc.org/en/latest/)：Python 文档生成器。
+    * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
+*   [MkDocs](http://www.mkdocs.org/)：对 Markdown 友好的文档生成器。
+*   [pdoc](https://github.com/BurntSushi/pdoc)：一个可以替换 Epydoc 的库，可以自动生成 Python 库的 API 文档。
+*   [Pycco](https://github.com/pycco-docs/pycco)：文学编程（literate-programming）风格的文档生成器。
+*   [readthedocs](https://github.com/rtfd/readthedocs.org/)：一个基于 Sphinx/MkDocs 的在线文档托管系统，对开源项目免费开放使用。
+
+### 配置
+
+用来保存和解析配置的库。
+
+*   [config](https://www.red-dove.com/config-doc/)：[logging](https://docs.python.org/2/library/logging.html) 模块作者写的分级配置模块。
+*   [ConfigObj](http://www.voidspace.org.uk/python/configobj.html)：INI 文件解析器，带验证功能。
+*   [ConfigParser](https://docs.python.org/2/library/configparser.html)：(Python 标准库) INI 文件解析器。
+*   [profig](http://profig.readthedocs.org/en/default/)：通过多种格式进行配置，具有数值转换功能。
+*   [python-decouple](https://github.com/henriquebastos/python-decouple)：将设置和代码完全隔离。
+*   [hydra](https://github.com/facebookresearch/hydra)：一个优雅地配置复杂应用程序的框架。
