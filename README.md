@@ -15,7 +15,7 @@
 <font size=5><center> 目录 </center></font>
 
 - [Python 资源大全中文版](#python-资源大全中文版)
-  - [资源列表](#资源列表)
+  - [系统、环境、资源](#系统环境资源)
     - [环境管理](#环境管理)
     - [包管理](#包管理)
     - [包仓库](#包仓库)
@@ -26,39 +26,19 @@
     - [命令行工具](#命令行工具)
     - [下载器](#下载器)
     - [地理位置](#地理位置)
-    - [HTTP](#http)
-    - [Web 框架](#web-框架)
-    - [WebSocket](#websocket)
     - [权限](#权限)
     - [CMS](#cms)
     - [电子商务](#电子商务)
-    - [RESTful API](#restful-api)
-    - [验证](#验证)
     - [模板引擎](#模板引擎)
     - [队列](#队列)
     - [搜索](#搜索)
-    - [动态消息](#动态消息)
-    - [Web 资源管理](#web-资源管理)
     - [缓存](#缓存)
     - [电子邮件](#电子邮件)
     - [国际化](#国际化)
-    - [URL 处理](#url-处理)
-    - [HTML 处理](#html-处理)
-    - [网页内容提取](#网页内容提取)
-    - [表单](#表单)
-    - [数据验证](#数据验证)
     - [序列化](#序列化)
-    - [反垃圾技术](#反垃圾技术)
-    - [标记](#标记)
-    - [管理面板](#管理面板)
     - [Serverless 框架](#serverless-框架)
-    - [静态站点生成器](#静态站点生成器)
     - [进程](#进程)
     - [并发和并行](#并发和并行)
-    - [网络](#网络)
-    - [WebSocket](#websocket-1)
-    - [WSGI 服务器](#wsgi-服务器)
-    - [ASGI 服务器](#asgi-服务器)
     - [RPC 服务器](#rpc-服务器)
     - [密码学](#密码学)
     - [图形用户界面](#图形用户界面)
@@ -76,7 +56,6 @@
     - [重构](#重构)
     - [高性能](#高性能)
     - [微软的 Windows 平台](#微软的-windows-平台)
-    - [网络可视化和 SDN](#网络可视化和-sdn)
     - [硬件](#硬件)
     - [兼容性](#兼容性)
     - [内置类的增强版实现](#内置类的增强版实现)
@@ -101,6 +80,28 @@
     - [数据库](#数据库-1)
     - [数据库驱动](#数据库驱动)
     - [ORM](#orm)
+  - [Web 网络](#web-网络)
+    - [HTTP](#http)
+    - [Web 框架](#web-框架)
+    - [WebSocket](#websocket)
+    - [RESTful API](#restful-api)
+    - [验证](#验证)
+    - [动态消息](#动态消息)
+    - [Web 资源管理](#web-资源管理)
+    - [URL 处理](#url-处理)
+    - [HTML 处理](#html-处理)
+    - [网页内容提取](#网页内容提取)
+    - [表单](#表单)
+    - [数据验证](#数据验证)
+    - [反垃圾技术](#反垃圾技术)
+    - [标记](#标记)
+    - [管理面板](#管理面板)
+    - [静态站点生成器](#静态站点生成器)
+    - [网络](#网络)
+    - [WebSocket](#websocket-1)
+    - [WSGI 服务器](#wsgi-服务器)
+    - [ASGI 服务器](#asgi-服务器)
+    - [网络可视化和 SDN](#网络可视化和-sdn)
   - [数据分析与可视化](#数据分析与可视化)
     - [科学计算和数据分析](#科学计算和数据分析)
     - [数据可视化](#数据可视化)
@@ -115,7 +116,7 @@
 
 ---
 
-## 资源列表
+## 系统、环境、资源
 
 ### 环境管理
 
@@ -270,47 +271,6 @@
 *   [django-countries](https://github.com/SmileyChris/django-countries)：一个 Django 应用程序，提供用于表格的国家选择功能，国旗图标静态文件以及模型中的国家字段。
 *   [pygeoip](https://github.com/appliedsec/pygeoip)：Python GeoIP 接口。
 
-### HTTP
-
-使用 HTTP 的库。
-
-*   [aiohttp](https://github.com/aio-libs/aiohttp)：基于 asyncio 的异步 HTTP 网络库。
-*   [requests](http://docs.python-requests.org/en/latest/)：人性化的 HTTP 请求库。
-*   [grequests](https://github.com/kennethreitz/grequests)：requests 库 + gevent ，用于异步 HTTP 请求。
-*   [httplib2](https://github.com/jcgregorio/httplib2)：全面的 HTTP 客户端库。
-*   [treq](https://github.com/twisted/treq)：类似 requests 的 Python API 构建于 Twisted HTTP 客户端之上。
-*   [urllib3](https://github.com/shazow/urllib3)：一个具有线程安全连接池，支持文件 post，清晰友好的 HTTP 库。
-*   [httpx](https://github.com/encode/httpx)：下一代 Python HTTP 客户端。
-
-### Web 框架
-
-全栈 Web 框架。
-
-*   [Django](https://www.djangoproject.com/)：Python 界最流行的 web 框架。
-    *   [awesome-django(by shahraizali)](https://github.com/shahraizali/awesome-django) 系列
-    *   [awesome-django(by wsvincent)](https://github.com/wsvincent/awesome-django) 系列
-*   [Flask](http://flask.pocoo.org/)：一个 Python 微型框架。
-    *   [awesome-flask](https://github.com/humiaozuzu/awesome-flask) 系列
-*   [Pyramid](https://pylonsproject.org/)：一个小巧，快速，接地气的开源 Python web 框架。
-    *   [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) 系列
-*   [Bottle](http://bottlepy.org/docs/dev/index.html)：一个快速小巧，轻量级的 WSGI 微型 web 框架。
-*   [CherryPy](http://www.cherrypy.org/)：一个极简的 Python web 框架，服从 HTTP/1.1 协议且具有 WSGI 线程池。
-*   [TurboGears](http://www.turbogears.org/)：一个可以扩展为全栈解决方案的微型框架。
-*   [web.py](http://webpy.org/)：一个 Python 的 web 框架，既简单，又强大。
-*   [web2py](http://www.web2py.com/)：一个全栈 web 框架和平台，专注于简单易用。
-*   [Tornado](http://www.tornadoweb.org/en/latest/)：一个 web 框架和异步网络库。
-*   [sanic](https://github.com/channelcat/sanic/)：基于 Python3.5+ 的异步网络框架。
-*   [starlette](https://www.starlette.io/)： 一款轻量级，高性能的 ASGI 框架。
-*   [Masonite](https://github.com/MasoniteFramework/masonite)：以开发者为中心的现代 Python Web 框架。
-
-### WebSocket
-
-Web socket 相关库。
-
-* [autobahn-python](https://github.com/crossbario/autobahn-python)：适用于 Twisted 和 asyncio 的 Python WebSocket 和 WAMP。
-* [channels](https://github.com/django/channels)：开发者友好的 Django 异步工具。
-* [websockets](https://github.com/aaugustin/websockets)：一个用于构建 WebSocket 服务器和客户端的库，着重于正确性和简单性。
-
 ### 权限
 
 允许或拒绝用户访问数据或功能的库。
@@ -351,55 +311,6 @@ Web socket 相关库。
 *   [forex-python](https://github.com/MicroPyramid/forex-python)：外汇汇率，比特币价格指数和货币换算。
 *   [saleor](http://getsaleor.com/)：一款兼容 Django 的电子商务平台。
 
-### RESTful API
-
-用来开发 RESTful APIs 的库
-
-*   Django
-    *   [django-rest-framework](http://www.django-rest-framework.org/)：一个强大灵活的工具，用来构建 web API。
-    *   [django-tastypie](http://tastypieapi.org/)：为 Django 应用开发 API。
-    *   [django-formapi](https://github.com/5monkeys/django-formapi)：为 Django 的表单验证，创建 JSON APIs 。
-*   Flask
-    *   [flask-api](http://www.flaskapi.org/)：为 flask 开发的，可浏览 Web APIs 。
-    *   [flask-restful](http://flask-restful.readthedocs.org/en/latest/)：为 flask 快速创建 REST APIs 。
-    *   [flask-restless](https://flask-restless.readthedocs.org/en/latest/)：为 SQLAlchemy 定义的数据库模型创建 RESTful APIs 。
-    *   [flask-api-utils](https://github.com/marselester/flask-api-utils)：为 Flask 处理 API 表示和验证。
-    *   [eve](https://github.com/nicolaiarocci/eve)：REST API 框架，由 Flask, MongoDB 等驱动。
-*   Pyramid
-    *   [cornice](https://cornice.readthedocs.org/en/latest/)：一个 Pyramid 的 REST 框架 。
-*   与框架无关的
-    *   [falcon](http://falconframework.org/)：一个用来建立云 API 和 web app 后端的高性能框架。
-    *   [sandman](https://github.com/jeffknupp/sandman)：为现存的数据库驱动系统自动创建 REST APIs 。
-    *   [restless](http://restless.readthedocs.org/en/latest/)：框架无关的 REST 框架 ，基于从 Tastypie 学到的知识。
-    *   [ripozo](https://github.com/vertical-knowledge/ripozo)：快速创建 REST/HATEOAS/Hypermedia APIs。
-    *   [apistar](https://github.com/encode/apistar)：专为Python 3设计的智能 Web API 框架。
-    *   [fastapi](https://github.com/tiangolo/fastapi)：一个现代，快速，基于标准 Python 类型注解的的 web框架，可使用 Python3.6+ 版本构建 API。
-    *   [hug](https://github.com/hugapi/hug)：一个为纯净公开的 API 打造的 Python 3 框架。
-    *   [sandman2](https://github.com/jeffknupp/sandman2)：为数据库驱动的系统自动生成 REST API。
-    *   [vibora](https://vibora.io/)：快速高效且支持异步的 Web 框架，灵感来源于 Flask。
-
-### 验证
-
-实现验证方案的库。
-
-*   OAuth
-    *   [authlib](https://github.com/lepture/authlib)：一个强大的Python库，用来构建 OAuth 和 OpenID 服务端。包括：JWS, JWK, JWA, JWT。
-    *   [Authomatic](http://peterhudec.github.io/authomatic/)：简单但是强大的框架，身份验证/授权客户端。
-    *   [django-allauth](https://github.com/pennersr/django-allauth)：Django 的验证应用。
-    *   [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit)：为 Django 用户准备的 OAuth2。
-    *   [django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider)：为 Django 应用提供 OAuth2 接入。
-    *   [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib)：OAuth 1.0/a, 2.0 客户端实现，供 Flask 使用。
-    *   [OAuthLib](https://github.com/idan/oauthlib)：一个 OAuth 请求-签名逻辑通用、 完整的实现。
-    *   [python-oauth2](https://github.com/joestump/python-oauth2)：一个完全测试的抽象接口。用来创建 OAuth 客户端和服务端。
-    *   [python-social-auth](https://github.com/omab/python-social-auth)：一个设置简单的社会化验证方式。
-    *   [rauth](https://github.com/litl/rauth)：OAuth 1.0/a, 2.0, 和 Ofly 的 Python 库。
-    *   [sanction](https://github.com/demianbrecht/sanction)：一个超级简单的 OAuth2 客户端实现。
-*   其他
-    *   [PyJWT](https://github.com/jpadilla/pyjwt)：JSON Web 令牌草案 01。
-    *   [python-jws](https://github.com/brianloveswords/python-jws)：JSON Web 签名草案 02 的实现。
-    *   [python-jwt](https://github.com/davedoesdev/python-jwt)：一个用来生成和验证 JSON Web 令牌的模块。
-    *   [python-jose](https://github.com/mpdavis/python-jose/)：python 版 JOSE 实现。
-
 ### 模板引擎
 
 模板生成和词法解析的库和工具。
@@ -430,26 +341,6 @@ Web socket 相关库。
 *   [solrpy](https://github.com/edsu/solrpy)：[solr](http://lucene.apache.org/solr/) 的 Python 客户端。
 *   [pysolr](https://github.com/django-haystack/pysolr)：支持 [Apache Solr](https://lucene.apache.org/solr/) 的轻量级 Python 装饰器。
 *   [Whoosh](http://whoosh.readthedocs.org/en/latest/)：一个快速的纯 Python 搜索引擎库。
-
-### 动态消息
-
-用来创建用户活动的库。
-
-*   [django-activity-stream](https://github.com/justquick/django-activity-stream)：从你的站点行为中生成通用活动信息流。
-*   [Stream-Framework](https://github.com/tschellenbach/Stream-Framework)：使用 Cassandra 和 Redis 创建动态消息和通知系统。
-
-### Web 资源管理
-
-管理、压缩、缩小网站资源的工具。
-
-*   [django-compressor](https://github.com/django-compressor/django-compressor)：将链接和内联的 JavaScript 或 CSS 压缩到一个单独的缓存文件中。
-*   [django-pipeline](https://github.com/jazzband/django-pipeline)：Django 的资源包装库。
-*   [django-storages](http://django-storages.readthedocs.org/en/latest/)：一个针对 Django 的自定义存储后端的工具集合。
-*   [fanstatic](http://www.fanstatic.org/en/latest/)：打包、优化，并且把静态文件依赖作为 Python 的包来提供。
-*   [File Conveyor](https://wimleers.com/fileconveyor/)：一个后台驻留的程序，用来发现和同步文件到 CDNs, S3 和 FTP。
-*   [Flask-Assets](http://flask-assets.readthedocs.org/en/latest/)：帮你将 web 资源整合到你的 Flask app 中。
-*   [jinja-assets-compressor](https://github.com/jaysonsantos/jinja-assets-compressor)：一个 Jinja 扩展，用来编译和压缩你的资源。
-*   [webassets](http://webassets.readthedocs.org/en/latest/)：为你的静态资源打包、优化和管理生成独一无二的缓存 URL。
 
 ### 缓存
 
@@ -493,89 +384,6 @@ Web socket 相关库。
 *   [Korean](https://korean.readthedocs.org/en/latest/)：一个韩语词态库。
 *   [PyICU](https://github.com/ovalhub/pyicu)：一个封装了 [ICU](http://site.icu-project.org/) C++ 库的 Python 扩展。
 
-### URL 处理
-
-解析 URLs 的库
-
-*   [furl](https://github.com/gruns/furl)：一个让处理 URL 更简单小型 Python 库。
-*   [purl](https://github.com/codeinthehole/purl)：一个简单的，不可变的 URL 类，具有简洁的 API 来进行询问和处理。
-*   [pyshorteners](https://github.com/ellisonleao/pyshorteners)：一个纯 Python URL 缩短库。
-*   [shorturl](https://github.com/Alir3z4/python-shorturl)：生成短小 URL 和类似 bit.ly 短链的 Python 实现。
-*   [webargs](https://github.com/sloria/webargs)：一个解析 HTTP 请求参数的库，内置对流行 web 框架的支持，包括 Flask, Django, Bottle, Tornado 和 Pyramid。
-
-### HTML 处理
-
-处理 HTML 和 XML 的库。
-
-*   [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)：以 Python 风格的方式来对 HTML 或 XML 进行迭代，搜索和修改。
-*   [bleach](http://bleach.readthedocs.org/en/latest/)：一个基于白名单的 HTML 清理和文本链接库。
-*   [cssutils](https://pypi.python.org/pypi/cssutils/)：一个 Python 的 CSS 库。
-*   [html5lib](https://github.com/html5lib/html5lib-python)：一个兼容标准的 HTML 文档和片段解析及序列化库。
-*   [lxml](http://lxml.de/)：一个非常快速，简单易用，功能齐全的库，用来处理 HTML 和 XML。
-*   [MarkupSafe](https://github.com/pallets/markupsafe)：为 Python 实现 XML/HTML/XHTML 标记安全字符串。
-*   [pyquery](https://github.com/gawel/pyquery)：一个解析 HTML 的库，类似 jQuery。
-*   [requests-html](https://github.com/kennethreitz/requests-html)：人性化的，Pythonic 的 HTML 解析库。
-*   [untangle](https://github.com/stchris/untangle)：将 XML 文档转换为 Python 对象，使其可以方便的访问。
-*   [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)：HTML/CSS 转 PDF 工具。
-*   [xmltodict](https://github.com/martinblech/xmltodict)：像处理 JSON 一样处理 XML。
-*   [WeasyPrint](http://weasyprint.org)：用于HTML和CSS的可视化呈现引擎，并可以导出为 PDF。
-*   [xmldataset](https://xmldataset.readthedocs.io/en/latest/)：简单 XML 解析。
-
-爬取网络站点的库
-
-*   [Scrapy](http://scrapy.org/)：一个快速高级的屏幕爬取及网页采集框架。
-*   [ScrapydWeb](https://github.com/my8100/scrapydweb)：一个用于 Scrapyd 集群管理的全功能 web UI，支持 Scrapy 日志分析和可视化，自动打包，定时器任务和邮件通知等特色功能。
-*   [cola](https://github.com/chineking/cola)：一个分布式爬虫框架。
-*   [Demiurge](https://github.com/matiasb/demiurge)：基于 PyQuery 的爬虫微型框架。
-*   [feedparser](http://pythonhosted.org/feedparser/)：通用 feed 解析器。
-*   [Grab](http://grablib.org/)：站点爬取框架。
-*   [MechanicalSoup](https://github.com/hickford/MechanicalSoup)：用于自动和网络站点交互的 Python 库。
-*   [portia](https://github.com/scrapinghub/portia)：Scrapy 可视化爬取。
-*   [pyspider](https://github.com/binux/pyspider)：一个强大的爬虫系统。
-*   [RoboBrowser](https://github.com/jmcarp/robobrowser)：一个简单的，Python 风格的库，用来浏览网站，而不需要一个独立安装的浏览器。
-
-### 网页内容提取
-
-用于进行网页内容提取的库。
-
-*   [Haul](https://github.com/vinta/Haul)：一个可以扩展的图像爬取工具。
-*   [html2text](https://github.com/Alir3z4/html2text)：将 HTML 转换为 Markdown 格式文本。
-*   [lassie](https://github.com/michaelhelmick/lassie)：人性化的网页内容检索库。
-*   [micawber](https://github.com/coleifer/micawber)：一个小型网页内容提取库，用来从 URLs 提取富内容。
-*   [newspaper](https://github.com/codelucas/newspaper)：使用 Python 进行新闻提取，文章提取以及内容策展。
-*   [opengraph](https://github.com/erikriver/opengraph)：一个用来解析开放内容协议(Open Graph Protocol)的 Python 模块。
-*   [python-goose](https://github.com/grangier/python-goose)：HTML 内容/文章提取器(python2)。
-*   [goose3](https://github.com/goose3/goose3)：HTML 内容/文章提取器(python3)。
-*   [python-readability](https://github.com/buriy/python-readability)：arc90 公司 readability 工具的 Python 高速端口。
-*   [sanitize](https://github.com/Alir3z4/python-sanitize)：为杂乱的数据世界带来调理性。
-*   [sumy](https://github.com/miso-belica/sumy)：一个为文本文件和 HTML 页面进行自动摘要的模块。
-*   [textract](https://github.com/deanmalmgren/textract)：从任何格式的文档中提取文本，Word，PowerPoint，PDFs 等等。
-
-### 表单
-
-进行表单操作的库。
-
-*   [Deform](http://deform.readthedocs.org/en/latest/)：Python HTML 表单生成库，受到了 formish 表单生成库的启发。
-*   [django-bootstrap3](https://github.com/dyve/django-bootstrap3)：集成了 Bootstrap 3 的 Django。
-*   [django-bootstrap4](https://github.com/zostera/django-bootstrap4)：集成了 Bootstrap 4 的 Django。
-*   [django-crispy-forms](http://django-crispy-forms.readthedocs.org/en/latest/)：一个 Django 应用，他可以让你以一种非常优雅且 DRY (Don't repeat yourself) 的方式来创建美观的表单。
-*   [django-remote-forms](https://github.com/WiserTogether/django-remote-forms)：一个平台独立的 Django 表单序列化工具。
-*   [WTForms](http://wtforms.readthedocs.org/en/latest/)：一个灵活的表单验证和呈现库。
-*   [WTForms-JSON](http://wtforms-json.readthedocs.org/en/latest/)：一个 WTForms 扩展，用来处理 JSON 数据。
-
-### 数据验证
-
-数据验证库。多用于表单验证。
-
-*   [Cerberus](http://docs.python-cerberus.org/en/stable/)：一个映射验证器（mappings-validator）。支持多种规则，提供归一化功能，可以方便地定制为 Python 风格的 schema 定义。
-*   [colander](http://docs.pylonsproject.org/projects/colander/en/latest/)：一个用于对从 XML, JSON，HTML 表单获取的数据或其他同样简单的序列化数据进行验证和反序列化的系统。
-*   [kmatch](https://github.com/ambitioninc/kmatch)：一种用于匹配/验证/筛选 Python 字典的语言。
-*   [schema](https://github.com/keleshev/schema)：一个用于对 Python 数据结构进行验证的库。
-*   [Schematics](https://github.com/schematics/schematics)：数据结构验证。
-*   [valideer](https://github.com/podio/valideer)：轻量级可扩展的数据验证和适配库。
-*   [voluptuous](https://github.com/alecthomas/voluptuous)：一个 Python 数据验证库。主要是为了验证传入 Python 的 JSON，YAML 等数据。
-*   [jsonschema](https://github.com/Julian/jsonschema)：[JSON Schema](http://json-schema.org/) 的 python 实现，用于 JSON 数据的验证。
-
 ### 序列化
 
 复杂数据类型序列化相关库。
@@ -585,52 +393,12 @@ Web socket 相关库。
 * [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson)： [RapidJSON](https://github.com/Tencent/rapidjson) 的 Python 封装。
 * [ultrajson](https://github.com/esnme/ultrajson)：使用 Python 绑定的，用 C 编写的快速 JSON 解码器和编码器。
 
-### 反垃圾技术
-
-帮助你和电子垃圾进行战斗的库。
-
-*   [django-simple-captcha](https://github.com/mbi/django-simple-captcha)：一个简单、高度可定制的 Django 应用，可以为任何 Django 表单添加验证码。
-*   [django-simple-spam-blocker](https://github.com/moqada/django-simple-spam-blocker)：一个用于 Django 的简单的电子垃圾屏蔽工具。
-
-### 标记
-
-用来进行标记的库。
-
-*   [django-taggit](https://github.com/alex/django-taggit)：简单的 Django 标记工具。
-
-### 管理面板
-
-管理界面库。
-
-*   [Ajenti](https://github.com/ajenti/ajenti)：一个你的服务器值得拥有的管理面板。
-*   [django-suit](http://djangosuit.com/)：Django 管理界面的一个替代品（仅对于非商业用途是免费的）。
-*   [django-xadmin](https://github.com/sshwsfc/django-xadmin)：Django admin 的一个替代品，具有很多不错的功能。
-*   [flask-admin](https://github.com/flask-admin/flask-admin)：一个用于 Flask 的简单可扩展的管理界面框架。
-*   [flower](https://github.com/mher/flower)：一个对 Celery 集群进行实时监控和提供 web 管理界面的工具。
-*   [Grappelli](http://grappelliproject.com/)：Django 管理界面的一个漂亮的皮肤。
-*   [Wooey](https://github.com/wooey/wooey)：一个 Django 应用，可以为 Python 脚本创建 web 用户界面。
-*   [django-grappelli](https://grappelliproject.com/)：拥有绚丽外观的 Django Admin 界面。
-*   [django-jet](https://github.com/geex-arts/django-jet)：具有改进功能的现代响应式 Django 管理界面模板。
-* [jet-bridge](https://github.com/jet-admin/jet-bridge)：管理面板框架，适用于任何具有良好 UI 的应用（例如 Django）。
-
 ### Serverless 框架
 
 使用 Python 开发 Serverless 模型相关的库。
 
 * [python-lambda](https://github.com/nficano/python-lambda) ：在 AWS Lambda 开发和部署 Python 代码的工具包。
 * [Zappa](https://github.com/Miserlou/Zappa)：在 AWS Lambda 和 API Gateway 部署 WSGI 应用的工具。
-
-### 静态站点生成器
-
-静态站点生成器是一个软件，它把文本和模板作为输入，然后输出 HTML 文件。
-
-*   [Pelican](http://blog.getpelican.com/)：使用 Markdown 或 ReST 来处理内容， Jinja 2 来制作主题。支持 DVCS, Disqus.。AGPL 许可。
-*   [Cactus](https://github.com/koenbok/Cactus/)：为设计师设计的静态站点生成器。
-*   [Hyde](http://hyde.github.io/)：基于 Jinja2 的静态站点生成器。
-*   [Nikola](https://www.getnikola.com/)：一个静态网站和博客生成器。
-*   [Tinkerer](http://tinkerer.me/)：Tinkerer 是一个博客引擎/静态站点生成器，由 Sphinx 驱动。
-*   [Lektor](https://www.getlektor.com/)：一个简单易用的静态 CMS 和博客引擎。
-*   [makesite](https://github.com/sunainapai/makesite)：简单轻量的站点/博客生成器（小于 130 行代码）。
 
 ### 进程
 
@@ -654,50 +422,6 @@ Web socket 相关库。
 *   [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)：(Python 标准库) 异步执行可调用对象的高级接口。
 *   [gevent](http://www.gevent.org/)：使用 [greenlet](https://github.com/python-greenlet/greenlet) 且基于协程的 Python 网络库。
 *   [scoop](https://github.com/soravux/scoop)：支持在 Python 中进行可伸缩并行操作。
-
-### 网络
-
-用于网络编程的库。
-
-*   [asyncio](https://docs.python.org/3/library/asyncio.html)：(Python 标准库) 异步 I/O，事件循环，协程以及任务。
-*   [trio](https://github.com/python-trio/trio)：异步并发和 I/O 友好的库。
-*   [Twisted](https://twistedmatrix.com/trac/)：一个事件驱动的网络引擎。
-*   [pulsar](https://github.com/quantmind/pulsar)：事件驱动的并发框架。
-*   [diesel](https://github.com/dieseldev/diesel)：基于 Greenlet 的事件 I/O 框架。
-*   [pyzmq](http://zeromq.github.io/pyzmq/)：一个 ZeroMQ 消息库的 Python 封装。
-*   [Toapi](https://github.com/gaojiuli/toapi)：一个轻巧，简单，快速的 Flask 库，致力于为所有网站提供 API 服务。
-*   [txZMQ](https://github.com/smira/txZMQ)：基于 Twisted 的 ZeroMQ 消息库的 Python 封装。
-
-### WebSocket
-
-帮助使用 WebSocket 的库。
-
-*   [AutobahnPython](https://github.com/crossbario/autobahn-python)：给 Python、使用的 WebSocket & WAMP 基于 Twisted 和 [asyncio](https://docs.python.org/3/library/asyncio.html)。
-*   [Crossbar](https://github.com/crossbario/crossbar/)：开源统一应用路由(Websocket & WAMP for Python on Autobahn)。
-*   [django-socketio](https://github.com/stephenmcd/django-socketio)：给 Django 用的 WebSockets。
-*   [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python)：为 Python2/3 以及 PyPy 编写的 WebSocket 客户端和服务器库。
-
-### WSGI 服务器
-
-兼容 WSGI 的 web 服务器
-
-*   [gunicorn](https://pypi.python.org/pypi/gunicorn)：Pre-forked, 移植自Ruby的Unicorn项目。
-*   [uwsgi](https://uwsgi-docs.readthedocs.org/en/latest/)：uwsgi 项目的目的是开发一组全栈工具，用来建立托管服务，由 C 语言编写。
-*   [bjoern](https://pypi.python.org/pypi/bjoern)：异步，非常快速，由 C 语言编写。
-*   [fapws3](http://www.fapws.org/)：异步 (仅对于网络端)，由 C 语言编写。
-*   [meinheld](https://pypi.python.org/pypi/meinheld)：异步，部分是由 C 语言编写的。
-*   [netius](https://github.com/hivesolutions/netius)：异步，非常快速。
-*   [paste](http://pythonpaste.org/)：多线程，稳定，久经考验。
-*   [rocket](https://pypi.python.org/pypi/rocket)：多线程。
-*   [waitress](https://waitress.readthedocs.org/en/latest/)：多线程，是它驱动着 Pyramid 框架。
-*   [Werkzeug](http://werkzeug.pocoo.org/)：一个 WSGI 工具库，驱动着 Flask，而且可以很方便大嵌入到你的项目中去。
-
-### ASGI 服务器
-
-兼容 ASGI 的 web 服务器。
-
-* [daphne](https://github.com/django/daphne)：用于 ASGI 和 ASGI-HTTP 的，支持 HTTP，HTTP2 和 WebSocket 协议的服务器。
-* [uvicorn](https://github.com/encode/uvicorn)：使用 uvloop 和 httptools 实现的闪电般快速的 ASGI 服务器。
 
 ### RPC 服务器
 
@@ -1001,17 +725,6 @@ Python 重构相关库和工具。
 *   [PythonNet](https://github.com/pythonnet/pythonnet)：Python 与 .NET 公共语言运行库 (CLR)的集成。
 *   [PyWin32](https://sourceforge.net/projects/pywin32/)：针对 Windows 的 Python 扩展。
 *   [WinPython](https://winpython.github.io/)：Windows 7/8 系统下便携式开发环境。
-
-### 网络可视化和 SDN
-
-用来进行网络可视化和 SDN(软件定义网络)的工具和库。
-
-*   [Mininet](http://mininet.org/)：一款流行的网络模拟器以及用 Python 编写的 API。
-*   [POX](https://github.com/noxrepo/pox)：一个针对基于 Python 的软件定义网络应用（例如 OpenFlow SDN 控制器）的开源开发平台。
-*   [Pyretic](http://frenetic-lang.org/pyretic/)：火热的 SDN 编程语言中的一员，为网络交换机和模拟器提供强大的抽象能力。
-*   [SDX Platform](https://github.com/sdn-ixp/internet2award)：基于 SDN 的 IXP 实现，影响了 Mininet, POX 和 Pyretic。
-*   [NRU](http://ryu.readthedocs.io/en/latest/)：一个基于组件的软件定义网络框架。
-*   [napalm](https://github.com/napalm-automation/napalm)：可跨供应商 API 来操纵网络设备。
 
 ### 硬件
 
@@ -1353,6 +1066,296 @@ Python 实现的数据库。
     *   [redisco](https://github.com/kiddouk/redisco)：一个 Python 库，提供可以持续存在在 Redis 中的简单模型和容器。
 *   其他
     *   [butterdb](https://github.com/Widdershin/butterdb)：Google Drive 电子表格的 Python ORM。
+
+## Web 网络
+
+### HTTP
+
+使用 HTTP 的库。
+
+*   [aiohttp](https://github.com/aio-libs/aiohttp)：基于 asyncio 的异步 HTTP 网络库。
+*   [requests](http://docs.python-requests.org/en/latest/)：人性化的 HTTP 请求库。
+*   [grequests](https://github.com/kennethreitz/grequests)：requests 库 + gevent ，用于异步 HTTP 请求。
+*   [httplib2](https://github.com/jcgregorio/httplib2)：全面的 HTTP 客户端库。
+*   [treq](https://github.com/twisted/treq)：类似 requests 的 Python API 构建于 Twisted HTTP 客户端之上。
+*   [urllib3](https://github.com/shazow/urllib3)：一个具有线程安全连接池，支持文件 post，清晰友好的 HTTP 库。
+*   [httpx](https://github.com/encode/httpx)：下一代 Python HTTP 客户端。
+
+### Web 框架
+
+全栈 Web 框架。
+
+*   [Django](https://www.djangoproject.com/)：Python 界最流行的 web 框架。
+    *   [awesome-django(by shahraizali)](https://github.com/shahraizali/awesome-django) 系列
+    *   [awesome-django(by wsvincent)](https://github.com/wsvincent/awesome-django) 系列
+*   [Flask](http://flask.pocoo.org/)：一个 Python 微型框架。
+    *   [awesome-flask](https://github.com/humiaozuzu/awesome-flask) 系列
+*   [Pyramid](https://pylonsproject.org/)：一个小巧，快速，接地气的开源 Python web 框架。
+    *   [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) 系列
+*   [Bottle](http://bottlepy.org/docs/dev/index.html)：一个快速小巧，轻量级的 WSGI 微型 web 框架。
+*   [CherryPy](http://www.cherrypy.org/)：一个极简的 Python web 框架，服从 HTTP/1.1 协议且具有 WSGI 线程池。
+*   [TurboGears](http://www.turbogears.org/)：一个可以扩展为全栈解决方案的微型框架。
+*   [web.py](http://webpy.org/)：一个 Python 的 web 框架，既简单，又强大。
+*   [web2py](http://www.web2py.com/)：一个全栈 web 框架和平台，专注于简单易用。
+*   [Tornado](http://www.tornadoweb.org/en/latest/)：一个 web 框架和异步网络库。
+*   [sanic](https://github.com/channelcat/sanic/)：基于 Python3.5+ 的异步网络框架。
+*   [starlette](https://www.starlette.io/)： 一款轻量级，高性能的 ASGI 框架。
+*   [Masonite](https://github.com/MasoniteFramework/masonite)：以开发者为中心的现代 Python Web 框架。
+
+### WebSocket
+
+Web socket 相关库。
+
+* [autobahn-python](https://github.com/crossbario/autobahn-python)：适用于 Twisted 和 asyncio 的 Python WebSocket 和 WAMP。
+* [channels](https://github.com/django/channels)：开发者友好的 Django 异步工具。
+* [websockets](https://github.com/aaugustin/websockets)：一个用于构建 WebSocket 服务器和客户端的库，着重于正确性和简单性。
+
+### RESTful API
+
+用来开发 RESTful APIs 的库
+
+*   Django
+    *   [django-rest-framework](http://www.django-rest-framework.org/)：一个强大灵活的工具，用来构建 web API。
+    *   [django-tastypie](http://tastypieapi.org/)：为 Django 应用开发 API。
+    *   [django-formapi](https://github.com/5monkeys/django-formapi)：为 Django 的表单验证，创建 JSON APIs 。
+*   Flask
+    *   [flask-api](http://www.flaskapi.org/)：为 flask 开发的，可浏览 Web APIs 。
+    *   [flask-restful](http://flask-restful.readthedocs.org/en/latest/)：为 flask 快速创建 REST APIs 。
+    *   [flask-restless](https://flask-restless.readthedocs.org/en/latest/)：为 SQLAlchemy 定义的数据库模型创建 RESTful APIs 。
+    *   [flask-api-utils](https://github.com/marselester/flask-api-utils)：为 Flask 处理 API 表示和验证。
+    *   [eve](https://github.com/nicolaiarocci/eve)：REST API 框架，由 Flask, MongoDB 等驱动。
+*   Pyramid
+    *   [cornice](https://cornice.readthedocs.org/en/latest/)：一个 Pyramid 的 REST 框架 。
+*   与框架无关的
+    *   [falcon](http://falconframework.org/)：一个用来建立云 API 和 web app 后端的高性能框架。
+    *   [sandman](https://github.com/jeffknupp/sandman)：为现存的数据库驱动系统自动创建 REST APIs 。
+    *   [restless](http://restless.readthedocs.org/en/latest/)：框架无关的 REST 框架 ，基于从 Tastypie 学到的知识。
+    *   [ripozo](https://github.com/vertical-knowledge/ripozo)：快速创建 REST/HATEOAS/Hypermedia APIs。
+    *   [apistar](https://github.com/encode/apistar)：专为Python 3设计的智能 Web API 框架。
+    *   [fastapi](https://github.com/tiangolo/fastapi)：一个现代，快速，基于标准 Python 类型注解的的 web框架，可使用 Python3.6+ 版本构建 API。
+    *   [hug](https://github.com/hugapi/hug)：一个为纯净公开的 API 打造的 Python 3 框架。
+    *   [sandman2](https://github.com/jeffknupp/sandman2)：为数据库驱动的系统自动生成 REST API。
+    *   [vibora](https://vibora.io/)：快速高效且支持异步的 Web 框架，灵感来源于 Flask。
+
+### 验证
+
+实现验证方案的库。
+
+*   OAuth
+    *   [authlib](https://github.com/lepture/authlib)：一个强大的Python库，用来构建 OAuth 和 OpenID 服务端。包括：JWS, JWK, JWA, JWT。
+    *   [Authomatic](http://peterhudec.github.io/authomatic/)：简单但是强大的框架，身份验证/授权客户端。
+    *   [django-allauth](https://github.com/pennersr/django-allauth)：Django 的验证应用。
+    *   [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit)：为 Django 用户准备的 OAuth2。
+    *   [django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider)：为 Django 应用提供 OAuth2 接入。
+    *   [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib)：OAuth 1.0/a, 2.0 客户端实现，供 Flask 使用。
+    *   [OAuthLib](https://github.com/idan/oauthlib)：一个 OAuth 请求-签名逻辑通用、 完整的实现。
+    *   [python-oauth2](https://github.com/joestump/python-oauth2)：一个完全测试的抽象接口。用来创建 OAuth 客户端和服务端。
+    *   [python-social-auth](https://github.com/omab/python-social-auth)：一个设置简单的社会化验证方式。
+    *   [rauth](https://github.com/litl/rauth)：OAuth 1.0/a, 2.0, 和 Ofly 的 Python 库。
+    *   [sanction](https://github.com/demianbrecht/sanction)：一个超级简单的 OAuth2 客户端实现。
+*   其他
+    *   [PyJWT](https://github.com/jpadilla/pyjwt)：JSON Web 令牌草案 01。
+    *   [python-jws](https://github.com/brianloveswords/python-jws)：JSON Web 签名草案 02 的实现。
+    *   [python-jwt](https://github.com/davedoesdev/python-jwt)：一个用来生成和验证 JSON Web 令牌的模块。
+    *   [python-jose](https://github.com/mpdavis/python-jose/)：python 版 JOSE 实现。
+
+### 动态消息
+
+用来创建用户活动的库。
+
+*   [django-activity-stream](https://github.com/justquick/django-activity-stream)：从你的站点行为中生成通用活动信息流。
+*   [Stream-Framework](https://github.com/tschellenbach/Stream-Framework)：使用 Cassandra 和 Redis 创建动态消息和通知系统。
+
+### Web 资源管理
+
+管理、压缩、缩小网站资源的工具。
+
+*   [django-compressor](https://github.com/django-compressor/django-compressor)：将链接和内联的 JavaScript 或 CSS 压缩到一个单独的缓存文件中。
+*   [django-pipeline](https://github.com/jazzband/django-pipeline)：Django 的资源包装库。
+*   [django-storages](http://django-storages.readthedocs.org/en/latest/)：一个针对 Django 的自定义存储后端的工具集合。
+*   [fanstatic](http://www.fanstatic.org/en/latest/)：打包、优化，并且把静态文件依赖作为 Python 的包来提供。
+*   [File Conveyor](https://wimleers.com/fileconveyor/)：一个后台驻留的程序，用来发现和同步文件到 CDNs, S3 和 FTP。
+*   [Flask-Assets](http://flask-assets.readthedocs.org/en/latest/)：帮你将 web 资源整合到你的 Flask app 中。
+*   [jinja-assets-compressor](https://github.com/jaysonsantos/jinja-assets-compressor)：一个 Jinja 扩展，用来编译和压缩你的资源。
+*   [webassets](http://webassets.readthedocs.org/en/latest/)：为你的静态资源打包、优化和管理生成独一无二的缓存 URL。
+
+### URL 处理
+
+解析 URLs 的库
+
+*   [furl](https://github.com/gruns/furl)：一个让处理 URL 更简单小型 Python 库。
+*   [purl](https://github.com/codeinthehole/purl)：一个简单的，不可变的 URL 类，具有简洁的 API 来进行询问和处理。
+*   [pyshorteners](https://github.com/ellisonleao/pyshorteners)：一个纯 Python URL 缩短库。
+*   [shorturl](https://github.com/Alir3z4/python-shorturl)：生成短小 URL 和类似 bit.ly 短链的 Python 实现。
+*   [webargs](https://github.com/sloria/webargs)：一个解析 HTTP 请求参数的库，内置对流行 web 框架的支持，包括 Flask, Django, Bottle, Tornado 和 Pyramid。
+
+### HTML 处理
+
+处理 HTML 和 XML 的库。
+
+*   [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)：以 Python 风格的方式来对 HTML 或 XML 进行迭代，搜索和修改。
+*   [bleach](http://bleach.readthedocs.org/en/latest/)：一个基于白名单的 HTML 清理和文本链接库。
+*   [cssutils](https://pypi.python.org/pypi/cssutils/)：一个 Python 的 CSS 库。
+*   [html5lib](https://github.com/html5lib/html5lib-python)：一个兼容标准的 HTML 文档和片段解析及序列化库。
+*   [lxml](http://lxml.de/)：一个非常快速，简单易用，功能齐全的库，用来处理 HTML 和 XML。
+*   [MarkupSafe](https://github.com/pallets/markupsafe)：为 Python 实现 XML/HTML/XHTML 标记安全字符串。
+*   [pyquery](https://github.com/gawel/pyquery)：一个解析 HTML 的库，类似 jQuery。
+*   [requests-html](https://github.com/kennethreitz/requests-html)：人性化的，Pythonic 的 HTML 解析库。
+*   [untangle](https://github.com/stchris/untangle)：将 XML 文档转换为 Python 对象，使其可以方便的访问。
+*   [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)：HTML/CSS 转 PDF 工具。
+*   [xmltodict](https://github.com/martinblech/xmltodict)：像处理 JSON 一样处理 XML。
+*   [WeasyPrint](http://weasyprint.org)：用于HTML和CSS的可视化呈现引擎，并可以导出为 PDF。
+*   [xmldataset](https://xmldataset.readthedocs.io/en/latest/)：简单 XML 解析。
+
+爬取网络站点的库
+
+*   [Scrapy](http://scrapy.org/)：一个快速高级的屏幕爬取及网页采集框架。
+*   [ScrapydWeb](https://github.com/my8100/scrapydweb)：一个用于 Scrapyd 集群管理的全功能 web UI，支持 Scrapy 日志分析和可视化，自动打包，定时器任务和邮件通知等特色功能。
+*   [cola](https://github.com/chineking/cola)：一个分布式爬虫框架。
+*   [Demiurge](https://github.com/matiasb/demiurge)：基于 PyQuery 的爬虫微型框架。
+*   [feedparser](http://pythonhosted.org/feedparser/)：通用 feed 解析器。
+*   [Grab](http://grablib.org/)：站点爬取框架。
+*   [MechanicalSoup](https://github.com/hickford/MechanicalSoup)：用于自动和网络站点交互的 Python 库。
+*   [portia](https://github.com/scrapinghub/portia)：Scrapy 可视化爬取。
+*   [pyspider](https://github.com/binux/pyspider)：一个强大的爬虫系统。
+*   [RoboBrowser](https://github.com/jmcarp/robobrowser)：一个简单的，Python 风格的库，用来浏览网站，而不需要一个独立安装的浏览器。
+
+### 网页内容提取
+
+用于进行网页内容提取的库。
+
+*   [Haul](https://github.com/vinta/Haul)：一个可以扩展的图像爬取工具。
+*   [html2text](https://github.com/Alir3z4/html2text)：将 HTML 转换为 Markdown 格式文本。
+*   [lassie](https://github.com/michaelhelmick/lassie)：人性化的网页内容检索库。
+*   [micawber](https://github.com/coleifer/micawber)：一个小型网页内容提取库，用来从 URLs 提取富内容。
+*   [newspaper](https://github.com/codelucas/newspaper)：使用 Python 进行新闻提取，文章提取以及内容策展。
+*   [opengraph](https://github.com/erikriver/opengraph)：一个用来解析开放内容协议(Open Graph Protocol)的 Python 模块。
+*   [python-goose](https://github.com/grangier/python-goose)：HTML 内容/文章提取器(python2)。
+*   [goose3](https://github.com/goose3/goose3)：HTML 内容/文章提取器(python3)。
+*   [python-readability](https://github.com/buriy/python-readability)：arc90 公司 readability 工具的 Python 高速端口。
+*   [sanitize](https://github.com/Alir3z4/python-sanitize)：为杂乱的数据世界带来调理性。
+*   [sumy](https://github.com/miso-belica/sumy)：一个为文本文件和 HTML 页面进行自动摘要的模块。
+*   [textract](https://github.com/deanmalmgren/textract)：从任何格式的文档中提取文本，Word，PowerPoint，PDFs 等等。
+
+### 表单
+
+进行表单操作的库。
+
+*   [Deform](http://deform.readthedocs.org/en/latest/)：Python HTML 表单生成库，受到了 formish 表单生成库的启发。
+*   [django-bootstrap3](https://github.com/dyve/django-bootstrap3)：集成了 Bootstrap 3 的 Django。
+*   [django-bootstrap4](https://github.com/zostera/django-bootstrap4)：集成了 Bootstrap 4 的 Django。
+*   [django-crispy-forms](http://django-crispy-forms.readthedocs.org/en/latest/)：一个 Django 应用，他可以让你以一种非常优雅且 DRY (Don't repeat yourself) 的方式来创建美观的表单。
+*   [django-remote-forms](https://github.com/WiserTogether/django-remote-forms)：一个平台独立的 Django 表单序列化工具。
+*   [WTForms](http://wtforms.readthedocs.org/en/latest/)：一个灵活的表单验证和呈现库。
+*   [WTForms-JSON](http://wtforms-json.readthedocs.org/en/latest/)：一个 WTForms 扩展，用来处理 JSON 数据。
+
+### 数据验证
+
+数据验证库。多用于表单验证。
+
+*   [Cerberus](http://docs.python-cerberus.org/en/stable/)：一个映射验证器（mappings-validator）。支持多种规则，提供归一化功能，可以方便地定制为 Python 风格的 schema 定义。
+*   [colander](http://docs.pylonsproject.org/projects/colander/en/latest/)：一个用于对从 XML, JSON，HTML 表单获取的数据或其他同样简单的序列化数据进行验证和反序列化的系统。
+*   [kmatch](https://github.com/ambitioninc/kmatch)：一种用于匹配/验证/筛选 Python 字典的语言。
+*   [schema](https://github.com/keleshev/schema)：一个用于对 Python 数据结构进行验证的库。
+*   [Schematics](https://github.com/schematics/schematics)：数据结构验证。
+*   [valideer](https://github.com/podio/valideer)：轻量级可扩展的数据验证和适配库。
+*   [voluptuous](https://github.com/alecthomas/voluptuous)：一个 Python 数据验证库。主要是为了验证传入 Python 的 JSON，YAML 等数据。
+*   [jsonschema](https://github.com/Julian/jsonschema)：[JSON Schema](http://json-schema.org/) 的 python 实现，用于 JSON 数据的验证。
+
+### 反垃圾技术
+
+帮助你和电子垃圾进行战斗的库。
+
+*   [django-simple-captcha](https://github.com/mbi/django-simple-captcha)：一个简单、高度可定制的 Django 应用，可以为任何 Django 表单添加验证码。
+*   [django-simple-spam-blocker](https://github.com/moqada/django-simple-spam-blocker)：一个用于 Django 的简单的电子垃圾屏蔽工具。
+
+### 标记
+
+用来进行标记的库。
+
+*   [django-taggit](https://github.com/alex/django-taggit)：简单的 Django 标记工具。
+
+### 管理面板
+
+管理界面库。
+
+*   [Ajenti](https://github.com/ajenti/ajenti)：一个你的服务器值得拥有的管理面板。
+*   [django-suit](http://djangosuit.com/)：Django 管理界面的一个替代品（仅对于非商业用途是免费的）。
+*   [django-xadmin](https://github.com/sshwsfc/django-xadmin)：Django admin 的一个替代品，具有很多不错的功能。
+*   [flask-admin](https://github.com/flask-admin/flask-admin)：一个用于 Flask 的简单可扩展的管理界面框架。
+*   [flower](https://github.com/mher/flower)：一个对 Celery 集群进行实时监控和提供 web 管理界面的工具。
+*   [Grappelli](http://grappelliproject.com/)：Django 管理界面的一个漂亮的皮肤。
+*   [Wooey](https://github.com/wooey/wooey)：一个 Django 应用，可以为 Python 脚本创建 web 用户界面。
+*   [django-grappelli](https://grappelliproject.com/)：拥有绚丽外观的 Django Admin 界面。
+*   [django-jet](https://github.com/geex-arts/django-jet)：具有改进功能的现代响应式 Django 管理界面模板。
+* [jet-bridge](https://github.com/jet-admin/jet-bridge)：管理面板框架，适用于任何具有良好 UI 的应用（例如 Django）。
+
+### 静态站点生成器
+
+静态站点生成器是一个软件，它把文本和模板作为输入，然后输出 HTML 文件。
+
+*   [Pelican](http://blog.getpelican.com/)：使用 Markdown 或 ReST 来处理内容， Jinja 2 来制作主题。支持 DVCS, Disqus.。AGPL 许可。
+*   [Cactus](https://github.com/koenbok/Cactus/)：为设计师设计的静态站点生成器。
+*   [Hyde](http://hyde.github.io/)：基于 Jinja2 的静态站点生成器。
+*   [Nikola](https://www.getnikola.com/)：一个静态网站和博客生成器。
+*   [Tinkerer](http://tinkerer.me/)：Tinkerer 是一个博客引擎/静态站点生成器，由 Sphinx 驱动。
+*   [Lektor](https://www.getlektor.com/)：一个简单易用的静态 CMS 和博客引擎。
+*   [makesite](https://github.com/sunainapai/makesite)：简单轻量的站点/博客生成器（小于 130 行代码）。
+
+### 网络
+
+用于网络编程的库。
+
+*   [asyncio](https://docs.python.org/3/library/asyncio.html)：(Python 标准库) 异步 I/O，事件循环，协程以及任务。
+*   [trio](https://github.com/python-trio/trio)：异步并发和 I/O 友好的库。
+*   [Twisted](https://twistedmatrix.com/trac/)：一个事件驱动的网络引擎。
+*   [pulsar](https://github.com/quantmind/pulsar)：事件驱动的并发框架。
+*   [diesel](https://github.com/dieseldev/diesel)：基于 Greenlet 的事件 I/O 框架。
+*   [pyzmq](http://zeromq.github.io/pyzmq/)：一个 ZeroMQ 消息库的 Python 封装。
+*   [Toapi](https://github.com/gaojiuli/toapi)：一个轻巧，简单，快速的 Flask 库，致力于为所有网站提供 API 服务。
+*   [txZMQ](https://github.com/smira/txZMQ)：基于 Twisted 的 ZeroMQ 消息库的 Python 封装。
+
+### WebSocket
+
+帮助使用 WebSocket 的库。
+
+*   [AutobahnPython](https://github.com/crossbario/autobahn-python)：给 Python、使用的 WebSocket & WAMP 基于 Twisted 和 [asyncio](https://docs.python.org/3/library/asyncio.html)。
+*   [Crossbar](https://github.com/crossbario/crossbar/)：开源统一应用路由(Websocket & WAMP for Python on Autobahn)。
+*   [django-socketio](https://github.com/stephenmcd/django-socketio)：给 Django 用的 WebSockets。
+*   [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python)：为 Python2/3 以及 PyPy 编写的 WebSocket 客户端和服务器库。
+
+### WSGI 服务器
+
+兼容 WSGI 的 web 服务器
+
+*   [gunicorn](https://pypi.python.org/pypi/gunicorn)：Pre-forked, 移植自Ruby的Unicorn项目。
+*   [uwsgi](https://uwsgi-docs.readthedocs.org/en/latest/)：uwsgi 项目的目的是开发一组全栈工具，用来建立托管服务，由 C 语言编写。
+*   [bjoern](https://pypi.python.org/pypi/bjoern)：异步，非常快速，由 C 语言编写。
+*   [fapws3](http://www.fapws.org/)：异步 (仅对于网络端)，由 C 语言编写。
+*   [meinheld](https://pypi.python.org/pypi/meinheld)：异步，部分是由 C 语言编写的。
+*   [netius](https://github.com/hivesolutions/netius)：异步，非常快速。
+*   [paste](http://pythonpaste.org/)：多线程，稳定，久经考验。
+*   [rocket](https://pypi.python.org/pypi/rocket)：多线程。
+*   [waitress](https://waitress.readthedocs.org/en/latest/)：多线程，是它驱动着 Pyramid 框架。
+*   [Werkzeug](http://werkzeug.pocoo.org/)：一个 WSGI 工具库，驱动着 Flask，而且可以很方便大嵌入到你的项目中去。
+
+### ASGI 服务器
+
+兼容 ASGI 的 web 服务器。
+
+* [daphne](https://github.com/django/daphne)：用于 ASGI 和 ASGI-HTTP 的，支持 HTTP，HTTP2 和 WebSocket 协议的服务器。
+* [uvicorn](https://github.com/encode/uvicorn)：使用 uvloop 和 httptools 实现的闪电般快速的 ASGI 服务器。
+
+### 网络可视化和 SDN
+
+用来进行网络可视化和 SDN(软件定义网络)的工具和库。
+
+*   [Mininet](http://mininet.org/)：一款流行的网络模拟器以及用 Python 编写的 API。
+*   [POX](https://github.com/noxrepo/pox)：一个针对基于 Python 的软件定义网络应用（例如 OpenFlow SDN 控制器）的开源开发平台。
+*   [Pyretic](http://frenetic-lang.org/pyretic/)：火热的 SDN 编程语言中的一员，为网络交换机和模拟器提供强大的抽象能力。
+*   [SDX Platform](https://github.com/sdn-ixp/internet2award)：基于 SDN 的 IXP 实现，影响了 Mininet, POX 和 Pyretic。
+*   [NRU](http://ryu.readthedocs.io/en/latest/)：一个基于组件的软件定义网络框架。
+*   [napalm](https://github.com/napalm-automation/napalm)：可跨供应商 API 来操纵网络设备。
 
 ## 数据分析与可视化
 
