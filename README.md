@@ -1,4 +1,4 @@
-# Python 资源大全中文版 
+# Python 资源大全中文版
 
 [awesome-python](https://github.com/vinta/awesome-python) 是 vinta 发起维护的 Python 资源列表，内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由「开源前哨」和「Python开发者」微信公号团队维护更新。
 
@@ -9,6 +9,107 @@
 - 贡献者：[唐尤华](https://github.com/orgs/jobbole/people/tangyouhua)、[qtvspa](https://github.com/qtvspa)、[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、黄利民、atupal、rainbow、[木头lbj](https://github.com/mutoulbj)、beyondwu、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、冰斌、赵叶宇、л stalgic、硕恩、[strongit](https://github.com/strongit)、yuukilp、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)、[zhucebuliaopx](https://github.com/zhucebuliaopx)、[wardseptember](https://github.com/wardseptember)、[vmp65l3](https://github.com/vmp65l3)、[JiaxingZhao](https://github.com/JiaxingZhao)、[zhtyyx](https://github.com/zhtyyx)、[Lynn Cao](https://github.com/caolincn)、[River](https://github.com/lihuafengzi)、You
 
 注：名单不分排名，不定期补充更新
+
+---
+
+<font size=5><center> 目录 </center></font>
+
+- [Python 资源大全中文版](#python-资源大全中文版)
+  - [资源列表](#资源列表)
+    - [环境管理](#环境管理)
+    - [包管理](#包管理)
+    - [包仓库](#包仓库)
+    - [分发](#分发)
+    - [构建工具](#构建工具)
+    - [交互式解析器](#交互式解析器)
+    - [文件](#文件)
+    - [日期和时间](#日期和时间)
+    - [文本处理](#文本处理)
+    - [特殊文本格式处理](#特殊文本格式处理)
+    - [自然语言处理](#自然语言处理)
+    - [文档](#文档)
+    - [配置](#配置)
+    - [命令行工具](#命令行工具)
+    - [下载器](#下载器)
+    - [图像处理](#图像处理)
+    - [OCR](#ocr)
+    - [音频](#音频)
+    - [Video](#video)
+    - [地理位置](#地理位置)
+    - [HTTP](#http)
+    - [数据库](#数据库)
+    - [数据库驱动](#数据库驱动)
+    - [ORM](#orm)
+    - [Web 框架](#web-框架)
+    - [WebSocket](#websocket)
+    - [权限](#权限)
+    - [CMS](#cms)
+    - [电子商务](#电子商务)
+    - [RESTful API](#restful-api)
+    - [验证](#验证)
+    - [模板引擎](#模板引擎)
+    - [队列](#队列)
+    - [搜索](#搜索)
+    - [动态消息](#动态消息)
+    - [Web 资源管理](#web-资源管理)
+    - [缓存](#缓存)
+    - [电子邮件](#电子邮件)
+    - [国际化](#国际化)
+    - [URL 处理](#url-处理)
+    - [HTML 处理](#html-处理)
+    - [网页内容提取](#网页内容提取)
+    - [表单](#表单)
+    - [数据验证](#数据验证)
+    - [序列化](#序列化)
+    - [反垃圾技术](#反垃圾技术)
+    - [标记](#标记)
+    - [管理面板](#管理面板)
+    - [Serverless 框架](#serverless-框架)
+    - [静态站点生成器](#静态站点生成器)
+    - [进程](#进程)
+    - [并发和并行](#并发和并行)
+    - [网络](#网络)
+    - [WebSocket](#websocket-1)
+    - [WSGI 服务器](#wsgi-服务器)
+    - [ASGI 服务器](#asgi-服务器)
+    - [RPC 服务器](#rpc-服务器)
+    - [密码学](#密码学)
+    - [图形用户界面](#图形用户界面)
+    - [游戏开发](#游戏开发)
+    - [日志](#日志)
+    - [测试](#测试)
+    - [渗透测试](#渗透测试)
+    - [代码分析和 Lint 工具](#代码分析和-lint-工具)
+    - [调试工具](#调试工具)
+    - [科学计算和数据分析](#科学计算和数据分析)
+    - [数据可视化](#数据可视化)
+    - [计算机视觉](#计算机视觉)
+    - [深度学习](#深度学习)
+    - [机器学习](#机器学习)
+    - [推荐系统](#推荐系统)
+    - [分布式计算](#分布式计算)
+    - [函数式编程](#函数式编程)
+    - [第三方 API](#第三方-api)
+    - [DevOps 工具](#devops-工具)
+    - [任务调度](#任务调度)
+    - [外来函数接口](#外来函数接口)
+    - [重构](#重构)
+    - [高性能](#高性能)
+    - [微软的 Windows 平台](#微软的-windows-平台)
+    - [网络可视化和 SDN](#网络可视化和-sdn)
+    - [硬件](#硬件)
+    - [兼容性](#兼容性)
+    - [算法和设计模式](#算法和设计模式)
+    - [内置类的增强版实现](#内置类的增强版实现)
+    - [机器人](#机器人)
+    - [聊天工具](#聊天工具)
+    - [编辑器插件和 IDE](#编辑器插件和-ide)
+    - [企业级应用集成](#企业级应用集成)
+    - [GraphQL](#graphql)
+    - [股票金融](#股票金融)
+    - [杂项](#杂项)
+
+---
 
 ## 资源列表
 
@@ -378,7 +479,7 @@ Python 实现的数据库。
 *   MySQL：[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/) 系列
     *   [aiomysql](https://github.com/aio-libs/aiomysql)：基于 asyncio 的异步 MySQL 数据库操作库。
     *   [mysql-python](https://sourceforge.net/projects/mysql-python/)：Python 的 MySQL 数据库连接器。
-    *   ysqlclient：[mysql-python](https://github.com/PyMySQL/mysqlclient-python) 分支，支持 Python 3。
+    *   [mysqlclient](https://github.com/PyMySQL/mysqlclient)：[mysql-python](https://github.com/PyMySQL/mysqlclient-python) 分支，支持 Python 3。
     *   [oursql](https://pythonhosted.org/oursql/)：一个更好的 MySQL 连接器，支持原生预编译指令和 BLOBs。
     *   [PyMySQL](https://github.com/PyMySQL/PyMySQL)：纯 Python MySQL 驱动，兼容 mysql-python。
 *   PostgreSQL
@@ -390,7 +491,6 @@ Python 实现的数据库。
     *   [apsw](http://rogerbinns.github.io/apsw/)：另一个 Python SQLite 封装。
     *   [SuperSQLite](https://github.com/plasticityai/supersqlite) - 一个建立在[apsw](https://github.com/rogerbinns/apsw)之上的强大的SQLite库。
 *   其他关系型数据库
-    *   dataset：在数据库中存储 Python 字典
     *   [pymssql](http://www.pymssql.org/en/latest/)：一个简单的 Microsoft SQL Server 数据库接口。
     *   [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) - 带有ClickHouse原生接口的Python驱动程序。
 *   NoSQL 数据库
