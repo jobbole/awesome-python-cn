@@ -2,8 +2,7 @@
 
 [awesome-python](https://github.com/vinta/awesome-python) 是 vinta 发起维护的 Python 资源列表，内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由「开源前哨」和「Python开发者」微信公号团队维护更新。
 
-
-### 本项目的参与者
+<font size=5><b> 本项目的参与者 </b></font>
 
 - 维护者：[「开源前哨」和「Python开发者」微信公号团队](https://github-1255921244.cos.ap-nanjing.myqcloud.com/awesome-python-cn.png)。「开源前哨」会定期在知乎专栏分享最新、有趣和热门的开源项目，每个项目都有详细的介绍和示例。传送门：<https://www.zhihu.com/column/c_1317124962785062912>
 
@@ -386,10 +385,14 @@ Python 实现的数据库。
     *   [psycopg2](http://initd.org/psycopg/)：Python 中最流行的 PostgreSQL 适配器。
     *   [queries](https://github.com/gmr/queries)：psycopg2 库的封装，用来和 PostgreSQL 进行交互。
     *   [txpostgres](http://txpostgres.readthedocs.org/en/latest/)：基于 Twisted 的异步 PostgreSQL 驱动。
-*   其他关系型数据库
+*   SQlite - [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite)
+    *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python 标准库) 兼容DB-API 2.0的SQlite接口。
     *   [apsw](http://rogerbinns.github.io/apsw/)：另一个 Python SQLite 封装。
+    *   [SuperSQLite](https://github.com/plasticityai/supersqlite) - 一个建立在[apsw](https://github.com/rogerbinns/apsw)之上的强大的SQLite库。
+*   其他关系型数据库
     *   dataset：在数据库中存储 Python 字典
     *   [pymssql](http://www.pymssql.org/en/latest/)：一个简单的 Microsoft SQL Server 数据库接口。
+    *   [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) - 带有ClickHouse原生接口的Python驱动程序。
 *   NoSQL 数据库
     *   [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis)：基于 asyncio 的 redis 客户端 (PEP 3156)。
     *   [cassandra-python-driver](https://github.com/datastax/python-driver)：Cassandra 的 Python 驱动。
@@ -564,7 +567,7 @@ Web socket 相关库。
 处理事件以及任务队列的库。
 
 *   [celery](http://www.celeryproject.org/)：一个异步任务队列/作业队列，基于分布式消息传递
-*   [daramatiq](https://github.com/Bogdanp/dramatiq)：适用于Python 3的快速可靠的后台任务处理库。
+*   [dramatiq](https://github.com/Bogdanp/dramatiq)：适用于Python 3的快速可靠的后台任务处理库。
 *   [huey](https://github.com/coleifer/huey)：小型多线程任务队列。
 *   [mrq](https://github.com/pricingassistant/mrq)：一个 Python 的分布式 worker 任务队列， 使用 Redis 和 gevent。
 *   [rq](http://python-rq.org/)：简单的 Python 作业队列。
@@ -831,7 +834,7 @@ Web socket 相关库。
 
 兼容 WSGI 的 web 服务器
 
-*   [gunicorn](https://pypi.python.org/pypi/gunicorn)：Pre-forked, 部分是由 C 语言编写的。
+*   [gunicorn](https://pypi.python.org/pypi/gunicorn)：Pre-forked, 移植自Ruby的Unicorn项目。
 *   [uwsgi](https://uwsgi-docs.readthedocs.org/en/latest/)：uwsgi 项目的目的是开发一组全栈工具，用来建立托管服务，由 C 语言编写。
 *   [bjoern](https://pypi.python.org/pypi/bjoern)：异步，非常快速，由 C 语言编写。
 *   [fapws3](http://www.fapws.org/)：异步 (仅对于网络端)，由 C 语言编写。
@@ -899,7 +902,7 @@ Web socket 相关库。
 *   [PyOpenGL](http://pyopengl.sourceforge.net/)：OpenGL 的 Python 绑定及其相关 APIs。
 *   [PySDL2](http://pysdl2.readthedocs.org/en/latest/)：SDL2 库的封装，基于 ctypes。
 *   [RenPy](https://www.renpy.org/)：一个视觉小说（visual novel）引擎。
-*   [Arcade](https://arcade.academy/index.html)：一个现代 Python 框架，用于制作具有引人入胜的图形与声音的游戏。
+*   [Arcade](https://api.arcade.academy/en/latest)：一个现代 Python 框架，用于制作具有引人入胜的图形与声音的游戏。
 *   [Harfang3D](http://www.harfang3d.com)：支持3D，VR 与游戏开发的 Python 框架。
 
 ### 日志
