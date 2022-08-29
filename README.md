@@ -1405,4 +1405,5 @@ GraphQL 相关库。
 *   [itsdangerous](https://github.com/pallets/itsdangerous)：将受信任的数据传递到不受信任的环境的帮助工具。
 *   [magenta](https://github.com/magenta/magenta)：使用人工智能生成音乐与艺术的工具。
 *   [pluginbase](https://github.com/mitsuhiko/pluginbase)：一个简单但灵活的 Python 插件系统。
+*   [Python Libraries](https://www.scaler.com/topics/python-libraries/):了解 Python 库
 *   [tryton](http://www.tryton.org/)：一个通用业务框架。
