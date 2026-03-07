@@ -118,6 +118,7 @@
 
 *   通用
     *   [chardet](https://github.com/chardet/chardet)：字符编码检测器，兼容 Python 2 和 Python 3。
+- [traceflux](https://github.com/tracer-mohist/traceflux) - 带有联想发现功能的文本搜索工具，使用共现图和 PageRank 算法。
     *   [difflib](https://docs.python.org/2/library/difflib.html)：(Python 标准库)帮助我们进行差异化比较。
     *   [ftfy](https://github.com/LuminosoInsight/python-ftfy)：让 Unicode 文本更完整更连贯。
     *   [thefuzz](https://github.com/seatgeek/thefuzz)：模糊字符串匹配。
