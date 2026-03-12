@@ -1025,6 +1025,7 @@ Web socket 相关库。
     * [manhole](https://github.com/ionelmc/python-manhole)：调试UNIX套接字连接，并显示所有线程的堆栈跟踪和交互式提示。
     * [pyringe](https://github.com/google/pyringe)：能够附加到 Python 进程并将代码注入Python进程的调试器。
     * [python-hunter](https://github.com/ionelmc/python-hunter)：一个灵活的代码追踪工具包。
+    * [dttb](https://github.com/rocky-d/dttb) - 一行代码为 Python 异常 traceback 添加时间戳，方便调试长时运行的程序和多线程应用。
 
 *   性能分析器
     *   [lineprofiler](https://github.com/rkern/lineprofiler)：逐行性能分析。
