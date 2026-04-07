@@ -246,6 +246,7 @@
 *   生产力工具
     *   [aws-cli](https://github.com/aws/aws-cli)：Amazon Web Services 的通用命令行界面。
     *   [caniusepython3](https://github.com/brettcannon/caniusepython3)：判断是哪个项目妨碍你你移植到 Python 3。
+    *   [better-fullstack](https://github.com/Marve10s/Better-Fullstack)：跨 TypeScript、Rust、Python 和 Go 的端到端全栈脚手架 — 代码即刻可供你和 AI 智能体使用。
     *   [cookiecutter](https://github.com/audreyr/cookiecutter)：从 cookiecutters（项目模板）创建项目的一个命令行工具。
     *   [doitlive](https://github.com/sloria/doitlive)：一个用来在终端中进行现场演示的工具。
     *   [pyftpdlib](https://github.com/giampaolo/pyftpdlib)：一个速度极快和可扩展的 Python FTP 服务库。
