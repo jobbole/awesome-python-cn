@@ -3,6 +3,7 @@
 [awesome-python](https://github.com/vinta/awesome-python) 是 vinta 发起维护的 Python 资源列表，内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由「开源前哨」和「Python开发者」微信公号团队维护更新。
 
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=jobbole_awesome-python-cn) - Social feed for GitHub. Follow Python devs, see what they star, discover trending repos in your stack.
 ### 本项目的参与者
 
 - 维护者：[「开源前哨」和「Python开发者」微信公号团队](https://github-1255921244.cos.ap-nanjing.myqcloud.com/awesome-python-cn.png)。「开源前哨」会定期在知乎专栏分享最新、有趣和热门的开源项目，每个项目都有详细的介绍和示例。传送门：<https://www.zhihu.com/column/c_1317124962785062912>
