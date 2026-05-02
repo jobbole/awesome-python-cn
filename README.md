@@ -938,6 +938,7 @@ Web socket 相关库。
     *   [locust](https://github.com/locustio/locust)：使用 Python 编写的，可扩展的用户加载测试工具。
     *   [sixpack](https://github.com/seatgeek/sixpack)：一个和语言无关的 A/B 测试框架。
     *   [splinter](https://splinter.readthedocs.org/en/latest/)：开源的 web 应用测试工具。
+*   [HMNextAuto](https://github.com/ziguiway/hmnextauto)：基于 Python 的鸿蒙 NEXT UI 自动化框架，兼容 uiautomator2 API 风格。
     *   [Schemathesis](https://github.com/kiwicom/schemathesis)：基于属性的自动测试工具，用于测试使用 Open API / Swagger 规范构建的 Web 应用程序。
 *   Mock 测试
     *   [mock](https://docs.python.org/3/library/unittest.mock.html)：(Python 标准库) 一个用于伪造测试的库。
