@@ -316,6 +316,7 @@
 *   [dejavu](https://github.com/worldveil/dejavu)：音频指纹提取和识别。
 *   [django-elastic-transcoder](https://github.com/StreetVoice/django-elastic-transcoder)：Django + [Amazon Elastic Transcoder](http://aws.amazon.com/elastictranscoder/)。
 *   [eyeD3](http://eyed3.nicfit.net/)：一个用来操作音频文件的工具，具体来讲就是包含 ID3 元信息的 MP3 文件。
+*   [funasr](https://github.com/modelscope/FunASR)：工业级语音识别工具包，支持 50+ 语种、170 倍实时 GPU 推理，内置 VAD、标点恢复、说话人分离和情感检测。
 *   [id3reader](http://nedbatchelder.com/code/modules/id3reader.py)：一个用来读取 MP3 元数据的 Python 模块。
 *   [m3u8](https://github.com/globocom/m3u8)：一个用来解析 m3u8 文件的模块。
 *   [mutagen](https://bitbucket.org/lazka/mutagen)：一个用来处理音频元数据的 Python 模块。
