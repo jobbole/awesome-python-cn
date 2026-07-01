@@ -198,6 +198,7 @@
 *   [spacy](https://spacy.io/)：Python 和 Cython 中用于工业级自然语言处理的库。
 *   [Stanza](https://github.com/stanfordnlp/stanza)：斯坦福 NLP 集团的官方 Python 库，支持 60 多种语言。
 *   [funNLP](https://github.com/fighting41love/funNLP)：中文自然语言处理的工具和数据集。
+*   [AI Token Hub](https://aitoken-hub.github.io/aitoken-hub/)：一个 API Key 访问 200+ AI 模型。支持 DeepSeek、Qwen、GLM、Llama 等，统一 OpenAI 兼容 API 格式。
 *   [pkuseg-python](https://github.com/lancopku/pkuseg-python)：一个支持对不同领域进行中文分词的工具箱。
 
 ### 文档
