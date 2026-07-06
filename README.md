@@ -683,6 +683,7 @@ Web socket 相关库。
 *   [portia](https://github.com/scrapinghub/portia)：Scrapy 可视化爬取。
 *   [pyspider](https://github.com/binux/pyspider)：一个强大的爬虫系统。
 *   [RoboBrowser](https://github.com/jmcarp/robobrowser)：一个简单的，Python 风格的库，用来浏览网站，而不需要一个独立安装的浏览器。
+*   [boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)：基于 Chrome DevTools Protocol 直连本地已登录 Chrome 的 BOSS直聘爬虫，复用真实登录态调搜索 API，绕过字体反爬拿到明文薪资，并生成薪资分布与求职材料优化提示词。
 
 ### 网页内容提取
 
