@@ -1355,6 +1355,7 @@ Python 重构相关库和工具。
 聊天机器人开发相关的库。
 
 * [errbot](https://github.com/errbotio/errbot/)：实现 ChatOps 的最简单最受欢迎的聊天机器人。
+* [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa)：基于多模态视觉感知与 LLM Agent 的 macOS 微信自动化框架，用 AI 视觉感知自动回复消息，支持记忆系统与数字分身。
 
 ### 编辑器插件和 IDE
 
