@@ -1064,6 +1064,7 @@ Web socket 相关库。
 *   [SciPy](http://www.scipy.org/)：由一些基于 Python ，用于数学，科学和工程的开源软件构成的生态系统。
 *   [statsmodels](https://github.com/statsmodels/statsmodels)：统计建模和计量经济学。
 *   [SymPy](https://github.com/sympy/sympy)：一个用于符号数学的 Python 库。
+*   [Jacobian](https://github.com/morluto/jacobian)：面向可组合数学的 MCP 服务器、CLI 和 Python 库，支持多项式映射、线性代数与图算法的精确计算和猜想检验。
 *   [zipline](https://github.com/quantopian/zipline)：一个 Python 算法交易库。
 *   [Bayesian-belief-networks](https://github.com/eBay/bayesian-belief-networks)：优雅的贝叶斯理念网络框架。
 *   [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)：AWS 平台上使用的 Pandas。
