@@ -168,6 +168,7 @@
     *   [PDFMiner](https://github.com/euske/pdfminer)：一个用于从 PDF 文档中抽取信息的工具。
     *   [PyPDF2](https://github.com/mstamy2/PyPDF2)：一个可以分割，合并和转换 PDF 页面的库。
     *   [ReportLab](http://www.reportlab.com/opensource/)：快速创建富文本 PDF 文档。
+    *   [docforge](https://github.com/attnstack/docforge)：中文文档解析引擎，把多栏、复杂表格、扫描件 PDF 转为 LLM-ready Markdown 与带坐标 JSON，附公开中文解析 benchmark 与可复现榜单。
 *   Markdown
     *   [Mistune](https://github.com/lepture/mistune)：快速并且功能齐全的纯 Python 实现的 Markdown 解析器。
     *   [Python-Markdown](https://github.com/waylan/Python-Markdown)：John Gruber’s Markdown 的 Python 版实现。
