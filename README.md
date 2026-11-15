@@ -243,6 +243,7 @@
     * [bashplotlib](https://github.com/glamp/bashplotlib)：在终端中进行基本绘图。
     * [rich](https://github.com/willmcgugan/rich)：一个在终端中支持富文本和格式美化的 Python 库， 同时提供了`RichHandler`日志处理程序。
     * [tqdm](https://github.com/tqdm/tqdm)：一个可在循环和命令行中使用的快速、可扩展的进度条。
+    * [No Stairs Please](https://nostairsplease.com/)：无障碍现场音乐演出场地目录与 MCP 服务器（`https://nostairsplease.com/mcp`）。
 *   生产力工具
     *   [aws-cli](https://github.com/aws/aws-cli)：Amazon Web Services 的通用命令行界面。
     *   [caniusepython3](https://github.com/brettcannon/caniusepython3)：判断是哪个项目妨碍你你移植到 Python 3。
